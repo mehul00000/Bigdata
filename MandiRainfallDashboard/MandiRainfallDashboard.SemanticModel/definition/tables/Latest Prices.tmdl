@@ -1,0 +1,262 @@
+table 'Latest Prices'
+	lineageTag: d83594f9-ee04-495a-96aa-1d9764a30caa
+
+	/// Number of market-commodity price rows reported
+	measure 'Markets Reporting' = COUNTROWS('Latest Prices')
+		formatString: #,0
+		lineageTag: 0adf5f97-ec75-4bb2-b724-fabfafc85d6e
+
+	/// Average of the latest reported prices
+	measure 'Latest Avg Price' = AVERAGE('Latest Prices'[Latest Price])
+		formatString: ₹ #,0
+		lineageTag: 007845d7-8529-4bf7-9a1d-a66034a87b1b
+
+	/// Median deviation of market price from MSP in percent
+	measure 'Median Deviation %' = MEDIAN('Latest Prices'[Deviation %]) / 100
+		formatString: +0.0%;-0.0%;0.0%
+		lineageTag: 5084b0d1-0ff3-4c1a-81a0-15edcfa0529e
+
+	/// Median deviation of market price from MSP in rupees
+	measure 'Median Deviation from MSP' = MEDIAN('Latest Prices'[Deviation from MSP])
+		formatString: ₹ #,0
+		lineageTag: bf687909-c0b0-4ab0-9af5-000b3f7ae9f1
+
+	/// Markets trading above MSP
+	measure 'Markets Above MSP' = CALCULATE(COUNTROWS('Latest Prices'), 'Latest Prices'[Deviation from MSP] > 0)
+		formatString: #,0
+		lineageTag: f45927bc-2fac-4f90-b528-a0fd11abd366
+
+	/// Markets trading below MSP
+	measure 'Markets Below MSP' = CALCULATE(COUNTROWS('Latest Prices'), 'Latest Prices'[Deviation from MSP] < 0)
+		formatString: #,0
+		lineageTag: 88116815-1e93-4ef4-a995-383a56962f06
+
+	/// Share of markets trading above MSP
+	measure '% Above MSP' = DIVIDE([Markets Above MSP], [Markets Above MSP] + [Markets Below MSP])
+		formatString: 0.0%;-0.0%
+		lineageTag: 808365f7-d374-451c-a932-536bdf485e7b
+
+	/// Markets where price rose vs last week
+	measure 'Rising Markets' = CALCULATE(COUNTROWS('Latest Prices'), 'Latest Prices'[Trend] = "up")
+		formatString: #,0
+		lineageTag: d8bf7226-2fc7-471b-9ba2-ad55fb9df25e
+
+	/// Markets where price fell vs last week
+	measure 'Falling Markets' = CALCULATE(COUNTROWS('Latest Prices'), 'Latest Prices'[Trend] = "down")
+		formatString: #,0
+		lineageTag: 4b38d6da-0e89-42cc-b654-3cbc66e615fe
+
+	column State
+		dataType: string
+		isHidden
+		lineageTag: 858517d4-cc2c-482e-b680-ef4edb30c3da
+		summarizeBy: none
+		sourceColumn: State
+
+	column District
+		dataType: string
+		isHidden
+		lineageTag: f7e1aa8a-89fa-4d9c-906c-533d45402802
+		summarizeBy: none
+		sourceColumn: District
+
+	column Market
+		dataType: string
+		isHidden
+		lineageTag: fb4446e1-c131-4266-be88-0d4f0f61aaab
+		summarizeBy: none
+		sourceColumn: Market
+
+	column Commodity
+		dataType: string
+		isHidden
+		lineageTag: 456c126d-1d1e-490f-8bdb-d28263cc8112
+		summarizeBy: none
+		sourceColumn: Commodity
+
+	column Trend
+		dataType: string
+		lineageTag: 0076017e-19a5-41f1-9e66-83148ea3f54d
+		summarizeBy: none
+		sourceColumn: Trend
+
+	column Source
+		dataType: string
+		isHidden
+		lineageTag: a2fc22e5-efd9-4f0c-bbc2-fadc84f58c5b
+		summarizeBy: none
+		sourceColumn: Source
+
+	column 'Latest Price'
+		dataType: double
+		lineageTag: f469c6b0-5518-4ac2-b61c-a488890be922
+		summarizeBy: sum
+		sourceColumn: Latest Price
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Cumulative Arrivals'
+		dataType: double
+		lineageTag: 92a81e94-a2ad-4d3b-a27d-8147c3a23a7d
+		summarizeBy: sum
+		sourceColumn: Cumulative Arrivals
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'MSP Price'
+		dataType: double
+		lineageTag: 9f633147-4152-4358-8288-9dffec21b39d
+		summarizeBy: sum
+		sourceColumn: MSP Price
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Price 1 Year Ago'
+		dataType: double
+		lineageTag: a49d030d-9f40-4972-9177-22f49f29e8b2
+		summarizeBy: sum
+		sourceColumn: Price 1 Year Ago
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Price 2 Years Ago'
+		dataType: double
+		lineageTag: aa3d6008-edbc-4bcb-b203-abf74769b1c3
+		summarizeBy: sum
+		sourceColumn: Price 2 Years Ago
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Price 1 Week Ago'
+		dataType: double
+		lineageTag: b9b2195e-28d4-4bea-bdfc-f947ef9afd57
+		summarizeBy: sum
+		sourceColumn: Price 1 Week Ago
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Price 3 Years Ago'
+		dataType: double
+		lineageTag: 453227c8-0339-44ae-9e57-ae7c66dfbea3
+		summarizeBy: sum
+		sourceColumn: Price 3 Years Ago
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Commodity Group'
+		dataType: string
+		lineageTag: c8f977d6-0481-4b20-9f79-ab60b72ca792
+		summarizeBy: none
+		sourceColumn: Commodity Group
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Price 5 Days Ago'
+		dataType: double
+		lineageTag: 694fc885-07a9-4d23-a182-a52e58f8e074
+		summarizeBy: sum
+		sourceColumn: Price 5 Days Ago
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Price 1 Month Ago'
+		dataType: double
+		lineageTag: f8ed6542-030b-454b-8912-e9651a0f7e90
+		summarizeBy: sum
+		sourceColumn: Price 1 Month Ago
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Reported Date'
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 83ad5fb1-ccd3-4050-ba09-302e34740480
+		summarizeBy: none
+		sourceColumn: Reported Date
+
+		variation Variation
+			isDefault
+			relationship: 43ca5117-649e-4e14-99be-e9640c3214b4
+			defaultHierarchy: LocalDateTable_0fd0f7aa-6add-4f60-955d-482a5d2f2747.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column 'Deviation %'
+		dataType: double
+		lineageTag: b15d3620-9272-45e7-bfff-c721ff6572ed
+		summarizeBy: sum
+		sourceColumn: Deviation %
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Deviation from MSP'
+		dataType: double
+		lineageTag: cf33bd4b-07e5-4096-98c4-e1e22555d6f4
+		summarizeBy: sum
+		sourceColumn: Deviation from MSP
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Commodity Missing'
+		dataType: string
+		lineageTag: ca6a0ef1-4ecd-43c2-971d-f7f7ad19ce9e
+		summarizeBy: none
+		sourceColumn: Commodity Missing
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Loaded At'
+		dataType: string
+		lineageTag: 786177d9-2704-430f-a263-3988d5f14444
+		summarizeBy: none
+		sourceColumn: Loaded At
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Price Key'
+		dataType: string
+		lineageTag: bd70c1e9-e96a-47b9-ad74-27b8e9e7e2d0
+		summarizeBy: none
+		sourceColumn: Price Key
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'Latest Prices' = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("C:\Users\mehul sharma\Downloads\big data\BIG_DATA_PROJECT-master\Latest Market Prices.csv"),[Delimiter=",", Columns=21, Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    PromotedHeaders = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    RemovedBlank = Table.SelectRows(PromotedHeaders, each [state_name] <> null and [state_name] <> ""),
+				    ReplacedNulls = Table.ReplaceValue(RemovedBlank, "null", null, Replacer.ReplaceValue, {"one_yr_ago", "two_yr_ago", "three_yr_ago", "one_week_ago", "one_month_ago", "msp_price", "deviation_percent", "deviation_from_msp", "commodity_missing"}),
+				    ReplacedText = Table.ReplaceValue(ReplacedNulls, "null", "Unknown", Replacer.ReplaceValue, {"trend", "cmdt_name"}),
+				    ChangedType = Table.TransformColumnTypes(ReplacedText, {{"as_on", type number}, {"state_name", type text}, {"trend", type text}, {"cumm_arr", type number}, {"cmdt_name", type text}, {"msp_price", type number}, {"one_yr_ago", type number}, {"two_yr_ago", type number}, {"market_name", type text}, {"one_week_ago", type number}, {"three_yr_ago", type number}, {"cmdt_grp_name", type text}, {"district_name", type text}, {"last_five_day", type number}, {"one_month_ago", type number}, {"reported_date", type date}, {"deviation_percent", type number}, {"deviation_from_msp", type number}, {"commodity_missing", type text}, {"bronze_source", type text}, {"bronze_loaded_at", type text}}),
+				    RenamedColumns = Table.RenameColumns(ChangedType, {{"as_on", "Latest Price"}, {"trend", "Trend"}, {"cumm_arr", "Cumulative Arrivals"}, {"cmdt_name", "Commodity"}, {"msp_price", "MSP Price"}, {"one_yr_ago", "Price 1 Year Ago"}, {"state_name", "State"}, {"two_yr_ago", "Price 2 Years Ago"}, {"market_name", "Market"}, {"one_week_ago", "Price 1 Week Ago"}, {"three_yr_ago", "Price 3 Years Ago"}, {"cmdt_grp_name", "Commodity Group"}, {"district_name", "District"}, {"last_five_day", "Price 5 Days Ago"}, {"one_month_ago", "Price 1 Month Ago"}, {"reported_date", "Reported Date"}, {"deviation_percent", "Deviation %"}, {"deviation_from_msp", "Deviation from MSP"}, {"commodity_missing", "Commodity Missing"}, {"bronze_source", "Source"}, {"bronze_loaded_at", "Loaded At"}}),
+				    AddedKey = Table.AddColumn(RenamedColumns, "Price Key", each Text.Combine({Text.Lower([State]), "|", Text.Lower([District]), "|", Text.Lower([Market]), "|", Text.Lower([Commodity])}), type text)
+				in
+				    AddedKey
+

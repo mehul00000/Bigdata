@@ -1,0 +1,44 @@
+table 'Dim District'
+	lineageTag: b354204b-965f-403a-bff9-5485fe4bd482
+
+	/// Number of districts covered by rainfall monitoring
+	measure 'Districts Monitored' = DISTINCTCOUNT('Dim District'[District Key])
+		formatString: #,0
+		lineageTag: 47c8d259-cbe4-459b-b9e6-696c7f4fc258
+
+	column State
+		dataType: string
+		lineageTag: c803ca6a-0b34-4627-ac48-cb8362db50de
+		dataCategory: State
+		summarizeBy: none
+		sourceColumn: State
+
+	column District
+		dataType: string
+		lineageTag: ad5f1d53-2da3-4ff3-bb35-732cf4a15162
+		summarizeBy: none
+		sourceColumn: District
+
+	column 'District Key'
+		dataType: string
+		lineageTag: 8f6f72c0-205e-4792-afeb-3abf479a27e3
+		summarizeBy: none
+		sourceColumn: District Key
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'Dim District' = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("C:\Users\mehul sharma\Downloads\big data\BIG_DATA_PROJECT-master\District Monthly Rainfall.csv"),[Delimiter=",", Columns=8, Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    PromotedHeaders = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    RemovedBlank = Table.SelectRows(PromotedHeaders, each [state] <> null and [state] <> ""),
+				    SelectedColumns = Table.SelectColumns(RemovedBlank, {"state", "district"}),
+				    RemovedDuplicates = Table.Distinct(SelectedColumns, {"state", "district"}),
+				    ChangedType = Table.TransformColumnTypes(RemovedDuplicates, {{"state", type text}, {"district", type text}}),
+				    AddedKey = Table.AddColumn(ChangedType, "District Key", each Text.Combine({Text.Lower([state]), "|", Text.Lower([district])}), type text),
+				    RenamedColumns = Table.RenameColumns(AddedKey, {{"state", "State"}, {"district", "District"}})
+				in
+				    RenamedColumns
+

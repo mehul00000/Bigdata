@@ -1,0 +1,26 @@
+model Model
+	culture: en-US
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: en-US
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation __PBI_TimeIntelligenceEnabled = 1
+
+annotation PBI_QueryOrder = ["Market Prices","Latest Prices","MSP Analysis","Dim Commodity","Dim District","Daily Rainfall","Monthly Rainfall","SourceFolder"]
+
+annotation PBI_ProTooling = ["DevMode"]
+
+ref table 'Market Prices'
+ref table 'Latest Prices'
+ref table 'MSP Analysis'
+ref table 'Dim Commodity'
+ref table 'Dim District'
+ref table 'Daily Rainfall'
+ref table 'Monthly Rainfall'
+ref table DateTableTemplate_85f04141-23e3-4d65-b865-0b5205c9fb7a
+ref table LocalDateTable_0fd0f7aa-6add-4f60-955d-482a5d2f2747
+ref table LocalDateTable_b16c2ba6-cd35-4b67-af95-56381ae44aa8
+ref table LocalDateTable_5af8bdc4-e1c6-4071-bb94-e794d4e9c637
+

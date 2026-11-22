@@ -1,0 +1,37 @@
+relationship 'Market Prices to Dim Commodity'
+	fromColumn: 'Market Prices'.Commodity
+	toColumn: 'Dim Commodity'.Commodity
+
+relationship 'MSP Analysis to Dim Commodity'
+	fromColumn: 'MSP Analysis'.Commodity
+	toColumn: 'Dim Commodity'.Commodity
+
+relationship 43ca5117-649e-4e14-99be-e9640c3214b4
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Latest Prices'.'Reported Date'
+	toColumn: LocalDateTable_0fd0f7aa-6add-4f60-955d-482a5d2f2747.Date
+
+relationship 73d89600-d900-43dc-9321-057f0ee22dde
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Monthly Rainfall'.'Month Start'
+	toColumn: LocalDateTable_b16c2ba6-cd35-4b67-af95-56381ae44aa8.Date
+
+relationship feb1d970-eeb3-45e7-8fd8-76396212bf55
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Daily Rainfall'.Date
+	toColumn: LocalDateTable_5af8bdc4-e1c6-4071-bb94-e794d4e9c637.Date
+
+relationship AutoDetected_f600c405-4317-4d66-80d8-3acd83cbc158
+	crossFilteringBehavior: bothDirections
+	fromCardinality: one
+	fromColumn: 'Latest Prices'.'Price Key'
+	toColumn: 'Market Prices'.'Price Key'
+
+relationship AutoDetected_32b51787-71cf-45b0-b641-749fb352dbb5
+	fromColumn: 'Daily Rainfall'.'District Key'
+	toColumn: 'Dim District'.'District Key'
+
+relationship AutoDetected_c3f483bf-7303-4fe0-ab05-9f1a5f1a34bf
+	fromColumn: 'Monthly Rainfall'.'District Key'
+	toColumn: 'Dim District'.'District Key'
+

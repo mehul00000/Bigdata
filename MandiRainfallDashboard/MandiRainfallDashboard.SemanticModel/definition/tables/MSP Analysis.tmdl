@@ -1,0 +1,89 @@
+table 'MSP Analysis'
+	lineageTag: 6fe64bcf-d7c8-49c8-a316-f1b2c1d74bed
+
+	/// Number of commodities compared against MSP
+	measure 'Commodities Tracked' = COUNTROWS('MSP Analysis')
+		formatString: #,0
+		lineageTag: 9479bf2b-26a9-4633-a7e0-bd189eef8d9e
+
+	/// Average MSP across commodities
+	measure 'Avg MSP' = AVERAGE('MSP Analysis'[Average MSP])
+		formatString: ₹ #,0
+		lineageTag: 72503262-ff23-449d-9407-88cfd1474316
+
+	/// Average market price per commodity
+	measure 'Avg Commodity Market Price' = AVERAGE('MSP Analysis'[Avg Market Price])
+		formatString: ₹ #,0
+		lineageTag: dfef8f71-ee18-4c32-adab-0d065875bf1c
+
+	/// Average gap between market price and MSP
+	measure 'Avg Price Gap vs MSP' = AVERAGE('MSP Analysis'[Price Difference])
+		formatString: ₹ #,0
+		lineageTag: 5432e423-0de8-40c1-8f5c-fa7c58f33a43
+
+	/// Commodities trading above MSP on average
+	measure 'Commodities Above MSP' = CALCULATE(COUNTROWS('MSP Analysis'), 'MSP Analysis'[Price Difference] > 0)
+		formatString: #,0
+		lineageTag: 94179b90-1441-46a4-a165-0745d798e7c3
+
+	/// Commodities trading below MSP on average
+	measure 'Commodities Below MSP' = CALCULATE(COUNTROWS('MSP Analysis'), 'MSP Analysis'[Price Difference] < 0)
+		formatString: #,0
+		lineageTag: 3712d71b-c7c1-4111-821d-b8ab5ef25686
+
+	column Commodity
+		dataType: string
+		lineageTag: 794b0af2-4ec3-4514-8801-e37ce32688d7
+		summarizeBy: none
+		sourceColumn: Commodity
+
+	column Records
+		dataType: int64
+		lineageTag: 31d33313-f808-4b28-8f5b-0b25dd439435
+		summarizeBy: sum
+		sourceColumn: Records
+
+	column 'Avg Market Price'
+		dataType: double
+		lineageTag: ccc63eec-51d1-425e-8c3e-bb3fb8617912
+		summarizeBy: sum
+		sourceColumn: Avg Market Price
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Average MSP'
+		dataType: double
+		lineageTag: 36c98bec-caf2-4c70-afc5-5d1ad2eed3dc
+		summarizeBy: sum
+		sourceColumn: Average MSP
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Price Difference'
+		dataType: double
+		lineageTag: b382695e-5adf-4865-869d-0b3220df46da
+		summarizeBy: sum
+		sourceColumn: Price Difference
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	partition 'MSP Analysis' = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("C:\Users\mehul sharma\Downloads\big data\BIG_DATA_PROJECT-master\Commodity MSP Analysis.csv"),[Delimiter=",", Columns=5, Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    PromotedHeaders = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    RemovedBlank = Table.SelectRows(PromotedHeaders, each [cmdt_name] <> null and [cmdt_name] <> ""),
+				    ReplacedNulls = Table.ReplaceValue(RemovedBlank, "null", null, Replacer.ReplaceValue, {"average_msp", "price_difference"}),
+				    ReplacedCommodity = Table.ReplaceValue(ReplacedNulls, "null", "Unknown", Replacer.ReplaceValue, {"cmdt_name"}),
+				    ChangedType = Table.TransformColumnTypes(ReplacedCommodity, {{"cmdt_name", type text}, {"average_market_price", type number}, {"average_msp", type number}, {"total_records", Int64.Type}, {"price_difference", type number}}),
+				    RenamedColumns = Table.RenameColumns(ChangedType, {{"cmdt_name", "Commodity"}, {"average_market_price", "Avg Market Price"}, {"average_msp", "Average MSP"}, {"total_records", "Records"}, {"price_difference", "Price Difference"}})
+				in
+				    RenamedColumns
+

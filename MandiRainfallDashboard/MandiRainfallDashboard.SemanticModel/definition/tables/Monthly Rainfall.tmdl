@@ -1,0 +1,143 @@
+table 'Monthly Rainfall'
+	lineageTag: 6a63f3a1-467c-488d-b4ea-a9714cc455db
+
+	/// Total monthly rainfall across districts (mm)
+	measure 'Monthly Rainfall Total' = SUM('Monthly Rainfall'[Total Rainfall])
+		formatString: #,0.0
+		lineageTag: 31aaa01a-7361-49b1-88a5-f5077a99c245
+
+	/// Total normal monthly rainfall across districts (mm)
+	measure 'Monthly Normal Total' = SUM('Monthly Rainfall'[Normal Total])
+		formatString: #,0.0
+		lineageTag: 25f52b5a-ec9f-41da-b590-f7baae10efee
+
+	/// Monthly rainfall departure from normal
+	measure 'Monthly Departure %' = DIVIDE([Monthly Rainfall Total] - [Monthly Normal Total], [Monthly Normal Total])
+		formatString: +0.0%;-0.0%;0.0%
+		lineageTag: c8b963f6-fe1f-4317-a699-278aa6594887
+
+	column State
+		dataType: string
+		isHidden
+		lineageTag: 44cccaef-5746-40b6-a59a-865b3c081f4c
+		summarizeBy: none
+		sourceColumn: State
+
+	column District
+		dataType: string
+		isHidden
+		lineageTag: 0405aeba-8ed4-41e8-b070-d921c86fd0ea
+		summarizeBy: none
+		sourceColumn: District
+
+	column Year
+		dataType: int64
+		lineageTag: 0a82fda4-61e8-42fb-9abc-dd472111e19b
+		summarizeBy: sum
+		sourceColumn: Year
+
+		annotation SummarizationSetBy = Automatic
+
+	column Month
+		dataType: int64
+		isHidden
+		lineageTag: cb82b8fc-b54e-4ffa-a5ca-56e2c452463f
+		summarizeBy: sum
+		sourceColumn: Month
+
+		annotation SummarizationSetBy = Automatic
+
+	column Records
+		dataType: int64
+		lineageTag: 854bb0d6-95c5-4a75-9fb6-b21b0efaaa01
+		summarizeBy: sum
+		sourceColumn: Records
+
+	column 'Total Rainfall'
+		dataType: double
+		lineageTag: 389c9925-ab21-43e6-a976-61b38f9fdba8
+		summarizeBy: sum
+		sourceColumn: Total Rainfall
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Avg Daily Rainfall'
+		dataType: double
+		lineageTag: cbc602e3-0dae-40ed-b857-e8187eadf02e
+		summarizeBy: sum
+		sourceColumn: Avg Daily Rainfall
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Avg Normal Daily Rainfall'
+		dataType: double
+		lineageTag: 8f27066b-72e0-4155-93c4-6ed4e4bd2dae
+		summarizeBy: sum
+		sourceColumn: Avg Normal Daily Rainfall
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Month Start'
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 7a9078d6-7073-4d9e-9ca4-9f12983d7ea2
+		summarizeBy: none
+		sourceColumn: Month Start
+
+		variation Variation
+			isDefault
+			relationship: 73d89600-d900-43dc-9321-057f0ee22dde
+			defaultHierarchy: LocalDateTable_b16c2ba6-cd35-4b67-af95-56381ae44aa8.'Date Hierarchy'
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column 'Month Name'
+		dataType: string
+		lineageTag: e4deafb9-2fe7-4b56-9253-6a8ea3952b96
+		summarizeBy: none
+		sourceColumn: Month Name
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Normal Total'
+		dataType: double
+		lineageTag: bccd6069-ffc4-424c-be92-5340f3b680bd
+		summarizeBy: sum
+		sourceColumn: Normal Total
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'District Key'
+		dataType: string
+		lineageTag: cf4d24c6-84ce-48e0-be9c-f94f96b62f13
+		summarizeBy: none
+		sourceColumn: District Key
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'Monthly Rainfall' = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("C:\Users\mehul sharma\Downloads\big data\BIG_DATA_PROJECT-master\District Monthly Rainfall.csv"),[Delimiter=",", Columns=8, Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    PromotedHeaders = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    RemovedBlank = Table.SelectRows(PromotedHeaders, each [state] <> null and [state] <> ""),
+				    ChangedType = Table.TransformColumnTypes(RemovedBlank, {{"state", type text}, {"district", type text}, {"year", Int64.Type}, {"month", Int64.Type}, {"total_records", Int64.Type}, {"total_rainfall", type number}, {"average_rainfall", type number}, {"average_normal_rainfall", type number}}),
+				    AddedMonthStart = Table.AddColumn(ChangedType, "Month Start", each #date([year], [month], 1), type date),
+				    AddedMonthName = Table.AddColumn(AddedMonthStart, "Month Name", each Date.MonthName([Month Start], "en-US"), type text),
+				    AddedNormalTotal = Table.AddColumn(AddedMonthName, "Normal Total", each [average_normal_rainfall] * [total_records], type number),
+				    AddedKey = Table.AddColumn(AddedNormalTotal, "District Key", each Text.Combine({Text.Lower([state]), "|", Text.Lower([district])}), type text),
+				    RenamedColumns = Table.RenameColumns(AddedKey, {{"state", "State"}, {"district", "District"}, {"year", "Year"}, {"month", "Month"}, {"total_records", "Records"}, {"total_rainfall", "Total Rainfall"}, {"average_rainfall", "Avg Daily Rainfall"}, {"average_normal_rainfall", "Avg Normal Daily Rainfall"}})
+				in
+				    RenamedColumns
+

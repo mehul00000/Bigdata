@@ -1,0 +1,124 @@
+table 'Market Prices'
+	lineageTag: 0104a079-8cb9-416f-a7f2-e6dcef05b486
+
+	/// Total number of price records captured across mandis
+	measure 'Mandi Records' = SUM('Market Prices'[Records])
+		formatString: #,0
+		lineageTag: c690327a-a739-412c-ae51-deda4c3b8c30
+
+	/// Average traded price across markets
+	measure 'Avg Market Price' = AVERAGE('Market Prices'[Average Price])
+		formatString: ₹ #,0
+		lineageTag: bd0e0113-806a-4ffb-91d4-9c616294ff6e
+
+	/// Lowest minimum price across markets
+	measure 'Min Market Price' = MIN('Market Prices'[Minimum Price])
+		formatString: ₹ #,0
+		lineageTag: 954c2f84-2133-4ed2-86e5-ff7d9ec55a0a
+
+	/// Highest maximum price across markets
+	measure 'Max Market Price' = MAX('Market Prices'[Maximum Price])
+		formatString: ₹ #,0
+		lineageTag: abac01b3-2730-4c2d-b1a3-85c7ae5de7e7
+
+	/// Number of distinct mandi markets reporting
+	measure 'Markets Count' = DISTINCTCOUNT('Market Prices'[Market])
+		formatString: #,0
+		lineageTag: fda60ecb-2c09-4a04-8ebd-e572daa128fc
+
+	/// Number of distinct commodities traded
+	measure 'Commodities Count' = DISTINCTCOUNT('Market Prices'[Commodity])
+		formatString: #,0
+		lineageTag: 49cddba7-8a53-4d14-9f46-b26b8cf51b2f
+
+	/// Number of states with reporting markets
+	measure 'States Count' = DISTINCTCOUNT('Market Prices'[State])
+		formatString: #,0
+		lineageTag: da645e2f-4e95-4290-9f4b-a9535f2031ab
+
+	column State
+		dataType: string
+		lineageTag: 9a640caf-3a9c-45bb-a5de-a753a013211f
+		summarizeBy: none
+		sourceColumn: State
+
+	column District
+		dataType: string
+		lineageTag: 9e136372-b2e5-48df-bd98-d72e0a94854f
+		summarizeBy: none
+		sourceColumn: District
+
+	column Market
+		dataType: string
+		lineageTag: 75649b38-04af-4b8d-a8f3-2cc7b2fc90d8
+		summarizeBy: none
+		sourceColumn: Market
+
+	column Commodity
+		dataType: string
+		lineageTag: 846f0d00-5b64-45bc-aac7-d44cbc84affb
+		summarizeBy: none
+		sourceColumn: Commodity
+
+	column Records
+		dataType: int64
+		lineageTag: 03b569fb-c4d0-4fcb-98f2-552df1a11a03
+		summarizeBy: sum
+		sourceColumn: Records
+
+	column 'Average Price'
+		dataType: double
+		lineageTag: e9e6de84-de5d-4c5f-b2e3-4c42002a05c7
+		summarizeBy: sum
+		sourceColumn: Average Price
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Minimum Price'
+		dataType: double
+		lineageTag: 7a20a6a8-90c2-47ff-aeb5-f35d61211a0a
+		summarizeBy: sum
+		sourceColumn: Minimum Price
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Maximum Price'
+		dataType: double
+		lineageTag: 05ff9dcd-4477-43e2-abe6-6596f915b234
+		summarizeBy: sum
+		sourceColumn: Maximum Price
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Price Key'
+		dataType: string
+		lineageTag: 47df1ff8-f1a7-4857-94c7-7902e71df2ff
+		summarizeBy: none
+		sourceColumn: Price Key
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'Market Prices' = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("C:\Users\mehul sharma\Downloads\big data\BIG_DATA_PROJECT-master\New_Query_2026_11_21_18_14_03.csv"),[Delimiter=",", Columns=8, Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    PromotedHeaders = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    RemovedBlank = Table.SelectRows(PromotedHeaders, each [state_name] <> null and [state_name] <> ""),
+				    ReplacedNulls = Table.ReplaceValue(RemovedBlank, "null", "Unknown", Replacer.ReplaceValue, {"cmdt_name"}),
+				    ChangedType = Table.TransformColumnTypes(ReplacedNulls, {{"state_name", type text}, {"district_name", type text}, {"market_name", type text}, {"cmdt_name", type text}, {"total_records", Int64.Type}, {"average_price", type number}, {"minimum_price", type number}, {"maximum_price", type number}}),
+				    RenamedColumns = Table.RenameColumns(ChangedType, {{"state_name", "State"}, {"district_name", "District"}, {"market_name", "Market"}, {"cmdt_name", "Commodity"}, {"total_records", "Records"}, {"average_price", "Average Price"}, {"minimum_price", "Minimum Price"}, {"maximum_price", "Maximum Price"}}),
+				    AddedKey = Table.AddColumn(RenamedColumns, "Price Key", each Text.Combine({Text.Lower([State]), "|", Text.Lower([District]), "|", Text.Lower([Market]), "|", Text.Lower([Commodity])}), type text)
+				in
+				    AddedKey
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Exception
+

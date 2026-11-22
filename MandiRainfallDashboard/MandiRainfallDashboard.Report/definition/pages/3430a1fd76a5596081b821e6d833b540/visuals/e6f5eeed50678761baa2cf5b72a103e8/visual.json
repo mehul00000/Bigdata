@@ -1,0 +1,200 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json",
+  "name": "e6f5eeed50678761baa2cf5b72a103e8",
+  "position": {
+    "x": 260,
+    "y": 428,
+    "z": 0,
+    "width": 996,
+    "height": 268,
+    "tabOrder": 0
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Market Prices"
+                    }
+                  },
+                  "Property": "State"
+                }
+              },
+              "queryRef": "Market Prices.State",
+              "nativeQueryRef": "State"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Market Prices"
+                    }
+                  },
+                  "Property": "District"
+                }
+              },
+              "queryRef": "Market Prices.District",
+              "nativeQueryRef": "District"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Market Prices"
+                    }
+                  },
+                  "Property": "Market"
+                }
+              },
+              "queryRef": "Market Prices.Market",
+              "nativeQueryRef": "Market"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Market Prices"
+                    }
+                  },
+                  "Property": "Commodity"
+                }
+              },
+              "queryRef": "Market Prices.Commodity",
+              "nativeQueryRef": "Commodity"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Market Prices"
+                    }
+                  },
+                  "Property": "Records"
+                }
+              },
+              "queryRef": "Market Prices.Records",
+              "nativeQueryRef": "Records"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Market Prices"
+                    }
+                  },
+                  "Property": "Avg Market Price"
+                }
+              },
+              "queryRef": "Market Prices.Avg Market Price",
+              "nativeQueryRef": "Avg Market Price"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Market Prices"
+                    }
+                  },
+                  "Property": "Min Market Price"
+                }
+              },
+              "queryRef": "Market Prices.Min Market Price",
+              "nativeQueryRef": "Min Market Price"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Market Prices"
+                    }
+                  },
+                  "Property": "Max Market Price"
+                }
+              },
+              "queryRef": "Market Prices.Max Market Price",
+              "nativeQueryRef": "Max Market Price"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Latest Prices"
+                    }
+                  },
+                  "Property": "Latest Avg Price"
+                }
+              },
+              "queryRef": "Latest Prices.Latest Avg Price",
+              "nativeQueryRef": "Latest Avg Price"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Latest Prices"
+                    }
+                  },
+                  "Property": "Median Deviation %"
+                }
+              },
+              "queryRef": "Latest Prices.Median Deviation %",
+              "nativeQueryRef": "Median Deviation %"
+            }
+          ]
+        }
+      }
+    },
+    "objects": {
+      "columnHeaders": [
+        {
+          "properties": {
+            "columnAdjustment": {
+              "expr": {
+                "Literal": {
+                  "Value": "'growToFit'"
+                }
+              }
+            },
+            "autoSizeColumnWidth": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

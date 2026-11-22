@@ -1,0 +1,110 @@
+{
+  "name": "MandiPremiumV2.json",
+  "dataColors": [
+    "#E3120B",
+    "#0098A6",
+    "#FFD700",
+    "#2C2C2C",
+    "#8A8B8C",
+    "#005F83",
+    "#B51D60",
+    "#FDBF11"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#2C2C2C",
+  "tableAccent": "#0098A6",
+  "textClasses": {
+    "label": {
+      "color": "#5B6B7B",
+      "fontSize": 10,
+      "fontFace": "Segoe UI"
+    },
+    "callout": {
+      "color": "#17202B",
+      "fontSize": 26,
+      "fontFace": "Segoe UI Semibold",
+      "fontWeight": "bold"
+    },
+    "title": {
+      "color": "#17202B",
+      "fontSize": 13,
+      "fontFace": "Segoe UI Semibold",
+      "fontWeight": "semibold"
+    },
+    "header": {
+      "color": "#FFFFFF",
+      "fontSize": 11,
+      "fontFace": "Segoe UI Semibold",
+      "fontWeight": "semibold"
+    },
+    "largeTitle": {
+      "color": "#17202B",
+      "fontSize": 16,
+      "fontFace": "Segoe UI Semibold",
+      "fontWeight": "bold"
+    }
+  },
+  "visualStyles": {
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#F2EFE6"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "outspace": [
+          {
+            "color": {
+              "solid": {
+                "color": "#E4DECF"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 100
+          }
+        ],
+        "visualHeader": [
+          {
+            "transparency": 100
+          }
+        ]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "columnHeaders": [
+          {
+            "fontColor": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "backColor": {
+              "solid": {
+                "color": "#1B2A38"
+              }
+            },
+            "fontSize": 10
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,2444 @@
+state_name,district_name,market_name,cmdt_name,total_records,average_price,minimum_price,maximum_price
+Andhra Pradesh,Krishna,Machilipatnam APMC,Paddy,3,3160,3156,3168
+Keralam,Palakad,Koduvayoor Market,Onion,1,9450,9450,9450
+Tamil Nadu,Namakkal,Kumarapalayam(Uzhavar Sandhai ),Onion,1,8100,8100,8100
+Tamil Nadu,Vellore,Gudiyatham(Uzhavar Sandhai ),Potato,1,3600,3600,3600
+Tamil Nadu,Thanjavur,Pattukottai(Uzhavar Sandhai ),Tomato,1,3400,3400,3400
+Karnataka,Gadag,Laxmeshwar APMC,Maize,2,2836,2836,2836
+Uttar Pradesh,Etah,Etah APMC,Paddy,2,4000,4000,4000
+Gujarat,Jamnagar,Dhrol APMC,Wheat,2,3035,3035,3035
+Gujarat,Banaskanth,Deesa APMC,Groundnut,2,7750,7750,7750
+Madhya Pradesh,Rajgarh,Biaora APMC,Gram,2,6965,6965,6965
+Gujarat,Amreli,Babra APMC,Moong,2,10100,10100,10100
+Maharashtra,Dharashiv,APMC Murum,Moong,2,8208,8208,8208
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Onion,2,3500,3500,3500
+Telangana,Siddipet,Siddipet(Rythu Bazar),Potato,3,2000,2000,2000
+Gujarat,Porbandar,Porbandar APMC,Jowar,2,7550,7550,7550
+Madhya Pradesh,Khargone,Khargone APMC,Wheat,2,2980,2980,2980
+Madhya Pradesh,Satna,Nagod APMC,Wheat,3,2661.67,2660,2665
+Gujarat,Surendranagar,Chotila APMC,Soyabean,2,6950,6950,6950
+Rajasthan,Beawar,Beawar APMC,Jowar,1,3000,3000,3000
+Andhra Pradesh,SPSR Nellore,Gudur APMC,Paddy,3,2483.33,2480,2485
+Madhya Pradesh,Bhind,Gohad APMC,Paddy,3,3665.42,3598.13,3800
+Himachal Pradesh,Shimla,SMY Rohroo,Onion,1,4800,4800,4800
+Manipur,Bishnupur,Bishenpur APMC,Potato,1,2750,2750,2750
+Manipur,Imphal East,Lamlong Bazaar APMC,Potato,1,2750,2750,2750
+Tamil Nadu,Coimbatore,Sundarapuram(Uzhavar Sandhai ),Tomato,1,2750,2750,2750
+Uttar Pradesh,Jalaun (Orai),Jalaun APMC,Wheat,2,2600,2600,2600
+Andhra Pradesh,Bapatla,Kuchinapudi APMC,Urad,3,9500,9500,9500
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Tomato,2,1700,1700,1700
+Maharashtra,Jalna,APMC BHOKARDAN,Maize,2,2900,2900,2900
+Andhra Pradesh,Srikakulam,Kothabommali APMC,Paddy,3,3400,3400,3400
+Uttar Pradesh,Jalaun (Orai),Jalaun APMC,Paddy,3,4070.32,4034.24,4088.36
+Madhya Pradesh,Rewa,Chaakghat APMC,Wheat,3,2583.33,2550,2600
+Telangana,Medchal Malkajgiri,"Kukatpally,RBZ",Onion,2,4000,4000,4000
+Gujarat,Surendranagar,Vadhvan APMC,Potato,2,1750,1750,1750
+Madhya Pradesh,Morena,Morena APMC,Potato,2,200,200,200
+Tamil Nadu,Ranipet,Arcot(Uzhavar Sandhai ),Potato,1,3000,3000,3000
+Punjab,Ludhiana,Doraha APMC,Tomato,3,1930,1690,2050
+Tamil Nadu,Erode,Perundurai(Uzhavar Sandhai ),Tomato,1,2600,2600,2600
+Madhya Pradesh,Khandwa,Pandhana APMC,Soyabean,2,6985,6985,6985
+Madhya Pradesh,Sagar,Rahatgarh APMC,Soyabean,2,6887.33,6887.33,6887.33
+Madhya Pradesh,Damoh,Hata APMC,Maize,2,2460,2460,2460
+Madhya Pradesh,Jabalpur,Sehora APMC,Paddy,2,1932.24,1932.24,1932.24
+Madhya Pradesh,Badwani,Khetia APMC,Cotton,3,9223.33,8900,9870
+Gujarat,Sabarkantha,APMCKHEDBRAHMA,Urad,2,8000,8000,8000
+Maharashtra,Chattrapati Sambhajinagar,APMC Chattrapati Sambhajinagar,Potato,2,950,950,950
+Punjab,Moga,Nihal Singh Wala APMC,Potato,2,500,500,500
+Odisha,Mayurbhanja,Narasinghpur APMC,Tomato,3,3500,3500,3500
+Telangana,Ranga Reddy,"Vanasthalipuram,RBZ",Tomato,3,1833.33,1700,2100
+Andhra Pradesh,Parvathipuram Manyam,Kurupam APMC,Maize,3,2400,2400,2400
+Madhya Pradesh,Narsinghpur,Narsinghpur APMC,Maize,3,2263.47,2042.7,2705
+Tamil Nadu,Namakkal,Thiruchengodu RM,Onion,1,6150,6150,6150
+Tamil Nadu,Thiruppur,Dharapuram(Uzhavar Sandhai ),Potato,1,6750,6750,6750
+Tamil Nadu,Thiruvallur,Tiruthani(Uzhavar Sandhai ),Tomato,1,3000,3000,3000
+Uttar Pradesh,Siddharth Nagar,Sahiyapur APMC,Paddy,3,2470.67,2470,2472.01
+Punjab,Gurdaspur,Dhariwal APMC,Onion,2,1150,1150,1150
+Gujarat,Dahod,Dahod(Veg. Market) APMC,Potato,2,1050,1050,1050
+Andhra Pradesh,NTR,Tiruvuru APMC,Maize,3,3300,3200,3350
+Maharashtra,Ahilyanagar,APMC Rahuri,Tomato,3,1333.33,1000,1500
+Andhra Pradesh,Bapatla,Kuchinapudi APMC,Maize,3,2700,2700,2700
+Telangana,Bhupalapally,Kataram APMC,Cotton,1,7800,7800,7800
+Andhra Pradesh,Markapuram,Cumbum APMC,Gram,3,6000,6000,6000
+Himachal Pradesh,Kangra,SMY Baijnath,Onion,1,4800,4800,4800
+Bihar,Banka,Barahat APMC,Potato,3,1400,1400,1400
+Tamil Nadu,Dharmapuri,Karimangalam(Uzhavar Sandhai),Potato,1,2750,2750,2750
+Tamil Nadu,Thiruvannamalai,Cheyyar(Uzhavar Sandhai ),Potato,1,4400,4400,4400
+Uttar Pradesh,Aligarh,Charra APMC,Tomato,1,3000,3000,3000
+Uttar Pradesh,Shahjahanpur,Powayan APMC,Paddy,3,1998.99,1998.48,2000
+Andhra Pradesh,Dr.B.R.A.Konaseema,Amalapuram APMC,null,3,2461,2461,2461
+Maharashtra,Raigad,APMC Panvel,Tomato,2,1750,1750,1750
+Karnataka,Haveri,Savanur APMC,Cotton,2,9397,9397,9397
+Gujarat,Sabarkantha,Modasa APMC,Soyabean,2,7105,7105,7105
+Gujarat,Amreli,APMC Bagasara,Gram,2,7080,7080,7080
+Andhra Pradesh,Nandyal,Allagadda APMC,Maize,3,2116.67,2100,2150
+Madhya Pradesh,Khargone,Sanawad(F&V) APMC,Onion,1,2800,2800,2800
+Tamil Nadu,Kallakurichi,Ulundurpet RM,Potato,1,3500,3500,3500
+Tamil Nadu,Theni,Devaram(Uzhavar Sandhai ),Potato,1,3000,3000,3000
+Gujarat,Chhota Udaipur,Kalediya APMC,Cotton,3,8533.33,8525,8550
+Uttar Pradesh,Ayodhya,Ayodhya APMC,Potato,2,1000,1000,1000
+Madhya Pradesh,Jhabua,Thandla APMC,Maize,2,2600,2600,2600
+Madhya Pradesh,Rajgarh,Biaora APMC,Maize,2,2855,2855,2855
+Madhya Pradesh,Morena,Banmorkalan APMC,Wheat,2,2650,2650,2650
+Gujarat,Rajkot,Dhoraji APMC,Urad,2,8630,8630,8630
+Haryana,Kurukshetra,Pehowa APMC,Onion,2,2600,2600,2600
+Madhya Pradesh,Bhopal,Bhopal APMC,Onion,2,2500,2500,2500
+Tamil Nadu,Thanjavur,Tirukattupalli(Uzhavar Sandhai ),Onion,1,6400,6400,6400
+Tamil Nadu,Nagapattinam,Nagapattinam(Uzhavar Sandhai ),Potato,1,3750,3750,3750
+Keralam,Kollam,Anchal Market,Tomato,3,4733.33,4700,4800
+Andhra Pradesh,West Godavari,Penugonda APMC,Paddy,3,2370,2370,2370
+Madhya Pradesh,Ashoknagar,Mungawali APMC,Paddy,2,4600,4600,4600
+Uttar Pradesh,Shahjahanpur,Shahjahanpur APMC,Paddy,3,2038.88,2000,2058.32
+Madhya Pradesh,Mandsaur,Garoth APMC,Wheat,2,2723.84,2723.84,2723.84
+Punjab,Gurdaspur,Dera Baba Nanak APMC,Potato,2,862,862,862
+Madhya Pradesh,Seoni,Ghansour APMC,Maize,2,2354.39,2354.39,2354.39
+Maharashtra,Buldhana,APMC Deoulgaon Raja,Soyabean,2,7200,7200,7200
+Madhya Pradesh,Morena,Kailaras APMC,Onion,2,3000,3000,3000
+Haryana,Yamuna Nagar,Sadhaura APMC,Potato,2,750,750,750
+Andhra Pradesh,Prakasam,Santhamaguluru APMC,Maize,3,2550,2550,2550
+Maharashtra,Pune,Pune(Pimpri),Onion,3,3600,3400,4000
+Keralam,Palakad,Koduvayoor Market,Potato,1,4800,4800,4800
+Tamil Nadu,Dindigul,Dindigul(Uzhavar Sandhai ),Tomato,1,2750,2750,2750
+Madhya Pradesh,Narsinghpur,Kareli APMC,Maize,2,2301,2301,2301
+Andhra Pradesh,Srikakulam,Srikakulam APMC,Paddy,3,2400,2400,2400
+West Bengal,Bankura,Khatra APMC,null,2,2461,2461,2461
+Madhya Pradesh,Shivpuri,Khaniadhana APMC,Groundnut,2,5625,5625,5625
+Punjab,Sangrur,Bhawanigarh APMC,Potato,2,500,500,500
+Uttar Pradesh,Ghazipur,Yusufpur APMC,Maize,1,2000,2000,2000
+Telangana,Jogulamba Gadwal,Alampur APMC,Cotton,1,8567,8567,8567
+Uttarakhand,Haridwar,Haridwar Union APMC,Potato,3,716.67,700,750
+Uttar Pradesh,Sitapur,Viswan APMC,Wheat,2,2700,2700,2700
+Andhra Pradesh,Palnadu,Pidugurala APMC,Paddy,2,2800,2800,2800
+Uttar Pradesh,Banda,Atarra APMC,Mustard,2,8000,8000,8000
+Maharashtra,Akola,APMC Murtizapur,Tur,2,9950,9950,9950
+Gujarat,Porbandar,Porbandar APMC,Urad,2,9300,9300,9300
+Gujarat,Jamnagar,Jamnagar APMC,Onion,2,2975,2975,2975
+Odisha,Bolangir,Bolangir APMC,Potato,2,1400,1400,1400
+Tamil Nadu,Chengalpet,Jameenrayapettai(Uzhavar Sandhai ),Groundnut,1,9500,9500,9500
+Tamil Nadu,Krishnagiri,Hosur(Uzhavar Sandhai ),Tur,1,6750,6750,6750
+Tamil Nadu,Thiruchirappalli,Musiri(Uzhavar Sandhai ),Onion,1,6250,6250,6250
+Gujarat,Porbandar,Porbandar APMC,Potato,1,1250,1250,1250
+Tamil Nadu,Namakkal,Namakkal(Uzhavar Sandhai ),Potato,1,3200,3200,3200
+Tamil Nadu,Virudhunagar,Aruppukottai(Uzhavar Sandhai ),Tomato,1,3250,3250,3250
+Madhya Pradesh,Badwani,Khetia APMC,Maize,2,2930,2930,2930
+Punjab,Ludhiana,Machhiwara APMC,Potato,2,700,700,700
+Uttar Pradesh,Etawah,Etawah APMC,Potato,1,500,500,500
+Uttarakhand,Haridwar,Bhagwanpur(Naveen Mandi Sthal) APMC,Potato,1,550,550,550
+Tamil Nadu,Kallakurichi,Ulundurpet RM,Tomato,1,2400,2400,2400
+Tamil Nadu,Madurai,Palanganatham(Uzhavar Sandhai ),Tomato,1,2200,2200,2200
+Tamil Nadu,Thenkasi,Tenkasi(Uzhavar Sandhai ),Tomato,1,3000,3000,3000
+Punjab,Bhatinda,Bhagta Bhai Ka APMC,Onion,2,4100,4100,4100
+Madhya Pradesh,Dhar,Kukshi APMC,Wheat,3,2916.67,2900,2925
+Uttar Pradesh,Sitapur,Sitapur APMC,Tomato,2,1600,1600,1600
+Tamil Nadu,Villupuram,Tindivanam RM,Groundnut,1,6000,6000,6000
+Manipur,Imphal East,Lamlong Bazaar APMC,Onion,1,6750,6750,6750
+Tamil Nadu,Theni,Chinnamanur(Uzhavar Sandhai ),Onion,1,6500,6500,6500
+Tamil Nadu,Thiruchirappalli,Lalgudi(Uzhavar Sandhai ),Onion,1,6250,6250,6250
+Tamil Nadu,Virudhunagar,Rajapalayam(Uzhavar Sandhai ),Onion,1,6500,6500,6500
+Tamil Nadu,Thiruvannamalai,Chengam(Uzhavar Sandhai ),Tomato,1,1800,1800,1800
+Punjab,Tarntaran,Patti APMC,Potato,2,0.01,0.01,0.01
+Tamil Nadu,Ariyalur,Jeyankondam (Uzhavar Sandhai ),Onion,1,5250,5250,5250
+Tamil Nadu,Madurai,Usilampatti(Uzhavar Sandhai ),Onion,1,6250,6250,6250
+Punjab,Hoshiarpur,Mukerian(Talwara) APMC,Potato,1,1200,1200,1200
+Tripura,South Tripura,Manubazar,Potato,1,2400,2400,2400
+Uttar Pradesh,Siddharth Nagar,Bansi APMC,Wheat,1,2430,2430,2430
+Tamil Nadu,Villupuram,Tindivanam RM,Potato,1,4600,4600,4600
+Tamil Nadu,Thiruchirappalli,Musiri(Uzhavar Sandhai ),Tomato,1,2300,2300,2300
+Maharashtra,Pune,Khed(Chakan),Onion,2,3500,3500,3500
+Karnataka,Mysuru,Hunsur APMC,Paddy,1,3308,3308,3308
+Uttar Pradesh,Fatehpur,Bindki APMC,Wheat,1,2700,2700,2700
+Tamil Nadu,Madurai,Anna nagar(Uzhavar Sandhai ),Onion,1,7000,7000,7000
+Tamil Nadu,Thiruchirappalli,Musiri(Uzhavar Sandhai ),Potato,1,3200,3200,3200
+Tamil Nadu,Karur,Vengamedu(Uzhavar Sandhai ),Tomato,1,2950,2950,2950
+Rajasthan,Tonk,Malpura APMC,Wheat,2,2650,2650,2650
+Tamil Nadu,Dindigul,Palani(Uzhavar Sandhai ),Potato,1,4250,4250,4250
+Tamil Nadu,Erode,Sathiyamagalam(Uzhavar Sandhai ),Tomato,1,2700,2700,2700
+Andhra Pradesh,Kurnool,Alur APMC,Jowar,3,3935,3935,3935
+Andhra Pradesh,Kakinada,Karapa APMC,null,3,2336.67,2336,2338
+Andhra Pradesh,NTR,Nandigama APMC,null,3,2353.33,2350,2360
+Andhra Pradesh,Srikakulam,Etcherla APMC,null,3,2461,2461,2461
+Andhra Pradesh,Prakasam,Darsi APMC,Cotton,1,8200,8200,8200
+Tamil Nadu,Erode,Sampath Nagar(Uzhavar Sandhai ),Potato,1,5650,5650,5650
+West Bengal,Paschim Bardhaman,Durgapur APMC,Potato,1,740,740,740
+Tamil Nadu,Tiruvarur,Tiruvarur(Uzhavar Sandhai ),Tomato,1,2600,2600,2600
+Uttar Pradesh,Mahoba,Charkhari APMC,Wheat,2,2700,2700,2700
+Gujarat,Chhota Udaipur,Bodeliu APMC,Cotton,3,8628.98,8550,8668.47
+Maharashtra,Parbhani,APMC Pathari,Soyabean,2,6800,6800,6800
+Maharashtra,Jalgaon,APMC Jalgaon,Tomato,2,1200,1200,1200
+Rajasthan,Sirohi,Abu Road APMC,Tomato,2,800,800,800
+Gujarat,Rajkot,JASDAN APMC,Jowar,2,8000,8000,8000
+Maharashtra,Chattrapati Sambhajinagar,APMC Paithan,Jowar,2,2581,2581,2581
+Madhya Pradesh,Ashoknagar,Ashoknagar APMC,Gram,1,6920,6920,6920
+Tamil Nadu,Salem,Athur(Uzhavar Sandhai ),Onion,1,6400,6400,6400
+Tamil Nadu,Thenkasi,Sankarankoil(Uzhavar Sandhai ),Onion,1,6000,6000,6000
+Tamil Nadu,Thiruvannamalai,Vandavasi(Uzhavar Sandhai ),Onion,1,5500,5500,5500
+Keralam,Alappuzha,Cherthala Market,Potato,3,3533.33,3500,3600
+Tamil Nadu,Namakkal,Thiruchengodu RM,Potato,1,3250,3250,3250
+Tamil Nadu,Coimbatore,Sulur(Uzhavar Sandhai ),Tomato,1,2750,2750,2750
+Gujarat,Dahod,Zalod(Sanjeli) APMC,Wheat,3,2733.33,2700,2750
+Punjab,Sangrur,Bhawanigarh APMC,Onion,2,3750,3750,3750
+Rajasthan,Jodhpur,Osiyan Mathania APMC,Bajra,2,2750,2750,2750
+Gujarat,Rajkot,Rajkot APMC,Jowar,2,8075,8075,8075
+Madhya Pradesh,Sagar,Rahatgarh APMC,Maize,2,2605,2605,2605
+Andhra Pradesh,Nandyal,Atmakur (Nandyal District) APMC,Paddy,3,2360,2360,2360
+Karnataka,Haveri,Ranebennur APMC,Paddy,2,4000,4000,4000
+Madhya Pradesh,Morena,Morena APMC,Sesamum,2,14900,14900,14900
+Andhra Pradesh,Ananthapuramu,Tadipatri APMC,Gram,2,5850,5850,5850
+Andhra Pradesh,Markapuram,Podili APMC,Tur,3,8533.33,8500,8600
+Uttar Pradesh,Sambhal,Muradabad APMC,Onion,2,2500,2500,2500
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Potato,2,1025,1025,1025
+Uttar Pradesh,Barabanki,Barabanki APMC,Paddy,3,2595.22,2578.76,2628.13
+Uttar Pradesh,Kannuj,Kannauj APMC,Wheat,1,2600,2600,2600
+Tamil Nadu,Kancheepuram,Padappai(Uzhavar Sandhai ),Groundnut,1,7000,7000,7000
+Karnataka,Raichur,Lingasugur APMC,Gram,1,7700,7700,7700
+Tamil Nadu,Kannyiakumari,Vadaseri RM,Onion,1,6750,6750,6750
+Andhra Pradesh,Vijayanagaram,Pusapatirega APMC,Maize,3,2560,2560,2560
+Madhya Pradesh,Jabalpur,Paatan APMC,Paddy,2,3608.61,3608.61,3608.61
+Gujarat,Junagarh,Bhesan APMC,Cotton,2,9000,9000,9000
+Telangana,Mancherial,Mancherial APMC,Cotton,2,8600,8600,8600
+Gujarat,Rajkot,Dhoraji APMC,Soyabean,2,6910,6910,6910
+Assam,Kamrup,Pamohi(Garchuk) APMC,Potato,3,1350.65,1350.65,1350.65
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Potato,2,950,950,950
+Madhya Pradesh,Panna,Simariya APMC,Paddy,2,1857.77,1857.77,1857.77
+Jammu and Kashmir,Kathua,Kathua (F&V),Onion,3,4750,4750,4750
+Odisha,Jagatsinghpur,Jagatsinghpur APMC,Potato,2,1450,1450,1450
+Madhya Pradesh,Narsinghpur,Gadarwada (F&V) APMC,Tomato,2,1400,1400,1400
+Telangana,Ranga Reddy,L B Nagar APMC,Tomato,3,1066.67,800,1600
+Rajasthan,Jaipur,Jaipur (Grain) APMC,Bajra,1,2150,2150,2150
+Rajasthan,Chittorgarh,Begu APMC,Maize,3,2783.33,2750,2800
+Andhra Pradesh,Tirupathi,Srikalahasti APMC,Groundnut,3,6750,6750,6750
+Andhra Pradesh,Prakasam,Addanki APMC,Gram,3,7093.33,7080,7100
+Andhra Pradesh,Nandyal,Banaganapalli APMC,Maize,3,2300,2300,2300
+Gujarat,Rajkot,JASDAN APMC,Wheat,2,2775,2775,2775
+Uttar Pradesh,Hamirpur,Maudaha APMC,Wheat,2,2600,2600,2600
+Gujarat,Jamnagar,Jamnagar APMC,Sesamum,2,15650,15650,15650
+Madhya Pradesh,Sagar,Sagar APMC,Urad,2,6615,6615,6615
+Odisha,Sonepur,Dungurapalli APMC,Potato,2,1950,1950,1950
+Madhya Pradesh,Bhind,Lahar APMC,Bajra,3,2534.67,2496,2554
+Karnataka,Belagavi,Belgaum APMC,Potato,1,1900,1900,1900
+Tamil Nadu,Ramanathapuram,Kamuthi(Uzhavar Sandhai ),Tomato,1,4100,4100,4100
+Tamil Nadu,Sivagangai,Tirupatthur(Uzhavar Sandhai ),Tomato,1,2900,2900,2900
+Gujarat,Rajkot,Rajkot APMC,Moong,2,8750,8750,8750
+Punjab,Tarntaran,Tarantaran APMC,Tomato,2,1500,1500,1500
+Andhra Pradesh,Kakinada,Peddapuram APMC,Paddy,2,2445,2445,2445
+Gujarat,Gir Somnath,Veraval APMC,Wheat,3,2863.33,2790,2900
+Keralam,Alappuzha,Alappuzha Market,Onion,2,5700,5700,5700
+Keralam,Thiruvananthapuram,Parassala Market,Onion,3,7000,7000,7000
+Tamil Nadu,Madurai,Palanganatham(Uzhavar Sandhai ),Potato,1,6500,6500,6500
+Rajasthan,Churu,Sadulpur APMC,Bajra,3,2450,2250,2550
+Uttar Pradesh,Raebarelli,Jayas APMC,Paddy,3,2509.94,2289.91,2950
+Rajasthan,Pali,Rani APMC,Moong,2,7915.13,7915.13,7915.13
+Punjab,Tarntaran,Patti APMC,Tomato,3,0.01,0.01,0.01
+Uttar Pradesh,Balrampur,Utraula APMC,Paddy,2,2300,2300,2300
+Andhra Pradesh,NTR,Jaggayyapeta APMC,Maize,1,2410,2410,2410
+Haryana,Rewari,Kosli APMC,Onion,1,3000,3000,3000
+Tamil Nadu,Thiruchirappalli,Manachanallur(Uzhavar Sandhai ),Potato,1,3000,3000,3000
+Tamil Nadu,Thiruppur,Udumalpettai RM,Potato,1,5500,5500,5500
+Rajasthan,Rajsamand,Rajsamand APMC,Tomato,1,1250,1250,1250
+Andhra Pradesh,SPSR Nellore,Atmakur (SPSR Nellore District) APMC,Paddy,3,2441,2441,2441
+Maharashtra,Solapur,APMC Mangal Wedha,Tomato,2,1100,1100,1100
+Andhra Pradesh,Tirupathi,Venkatagiri APMC,Groundnut,1,7000,7000,7000
+Tamil Nadu,Coimbatore,Singanallur(Uzhavar Sandhai ),Onion,1,5650,5650,5650
+Tamil Nadu,Thiruvallur,Tiruthani(Uzhavar Sandhai ),Potato,1,4000,4000,4000
+Tamil Nadu,Tiruvarur,Muthupettai(Uzhavar Sandhai ),Potato,1,3600,3600,3600
+Gujarat,Dahod,Dahod APMC,null,2,2950,2950,2950
+Keralam,Kozhikode(Calicut),Perambra Market,Tomato,2,3200,3200,3200
+Andhra Pradesh,Kurnool,Kurnool APMC,Maize,2,3020,3020,3020
+Madhya Pradesh,Ujjain,Khachrod APMC,Soyabean,2,7050,7050,7050
+Madhya Pradesh,Sagar,Shahagarh APMC,Gram,2,6600,6600,6600
+Uttar Pradesh,Raebarelli,Bachranwa APMC,Wheat,1,2500,2500,2500
+Andhra Pradesh,Palnadu,Krosuru APMC,null,3,2800,2800,2800
+Tamil Nadu,Thirupathur,Thirupathur RM,Groundnut,1,6000,6000,6000
+Tamil Nadu,Thiruvannamalai,Keelpennathur(Uzhavar Sandhai ),Onion,1,4750,4750,4750
+Punjab,Hoshiarpur,GarhShankar (Kotfatuhi) APMC,Potato,1,900,900,900
+Tamil Nadu,Thanjavur,Pattukottai(Uzhavar Sandhai ),Potato,1,3400,3400,3400
+Tamil Nadu,Thanjavur,Thanjavur(Uzhavar Sandhai ),Tomato,1,3000,3000,3000
+Tamil Nadu,Vellore,Katpadi (Uzhavar Sandhai ),Tomato,1,2100,2100,2100
+Madhya Pradesh,Rajgarh,Khilchipur APMC,Soyabean,2,6700,6700,6700
+Madhya Pradesh,Vidisha,Kurwai APMC,Gram,2,7200,7200,7200
+Uttar Pradesh,Prayagraj,Prayagraj APMC,Potato,2,700,700,700
+Gujarat,Navsari,Bilimora APMC,Tomato,3,1200,1200,1200
+West Bengal,Murshidabad,Jiaganj APMC,Mustard,1,6550,6550,6550
+Tripura,Sepahijala,Boxonagar,Potato,1,1300,1300,1300
+Tamil Nadu,Mayiladuthurai,Mayiladuthurai(Uzhavar Sandhai ),Tomato,1,3750,3750,3750
+Tamil Nadu,Thoothukudi,Kovilpatti(Uzhavar Sandhai ),Tomato,1,3250,3250,3250
+Maharashtra,Amarawati,APMC Morshi,Gram,2,6230,6230,6230
+Tamil Nadu,Thanjavur,Peravurani(Uzhavar Sandhai),Onion,1,6000,6000,6000
+Jammu and Kashmir,Jammu,MAC F&V Market Narwal Jammu,Potato,3,1000,1000,1000
+Tamil Nadu,Kannyiakumari,Vadaseri RM,Potato,1,3750,3750,3750
+Tamil Nadu,Salem,Elampillai(Uzhavar Sandhai ),Tomato,1,2200,2200,2200
+Uttar Pradesh,Jalaun (Orai),Konch APMC,Bajra,2,2300,2300,2300
+Karnataka,Bengaluru South,Ramanagara APMC,Tomato,3,2266.67,2000,2400
+Gujarat,Jamnagar,Kalawad APMC,Wheat,2,3500,3500,3500
+Telangana,Hyderabad,Gudimalkapur APMC,Onion,2,2400,2400,2400
+Uttar Pradesh,Badaun,Babrala APMC,Potato,2,790,790,790
+Uttar Pradesh,Kannuj,Kannauj APMC,Maize,1,2500,2500,2500
+Karnataka,Mysuru,Periyapatna APMC,Ragi,1,3000,3000,3000
+Madhya Pradesh,Bhind,Lahar APMC,Gram,1,5500,5500,5500
+Tamil Nadu,Madurai,Chokkikulam(Uzhavar Sandhai ),Onion,1,5250,5250,5250
+Tamil Nadu,Kannyiakumari,Myladi(Uzhavar Sandhai ),Potato,1,3750,3750,3750
+Tamil Nadu,Thanjavur,Peravurani(Uzhavar Sandhai),Tomato,1,3400,3400,3400
+Uttar Pradesh,Mathura,Kosikalan APMC,Onion,2,2500,2500,2500
+Telangana,Nagarkurnool,Nagarkurnool APMC,null,2,3600,3600,3600
+Uttar Pradesh,Mahoba,Mahoba APMC,Groundnut,3,6205.29,6170.62,6222.62
+Tamil Nadu,Tiruvarur,Tiruthuraipoondi(Uzhavar Sandhai ),Groundnut,1,6000,6000,6000
+Tamil Nadu,Theni,Devaram(Uzhavar Sandhai ),Onion,1,6500,6500,6500
+Tamil Nadu,Thirupathur,Natrampalli(Uzhavar Sandhai ),Potato,1,3500,3500,3500
+Tamil Nadu,Ramanathapuram,Paramakudi(Uzhavar Sandhai ),Tomato,1,3650,3650,3650
+Maharashtra,Bhandara,APMC Pavani,Paddy,2,4050,4050,4050
+Andhra Pradesh,Bapatla,Kuchinapudi APMC,Paddy,3,4300,4300,4300
+Uttarakhand,Dehradoon,Vikasnagar APMC,Onion,1,1700,1700,1700
+Tamil Nadu,Thiruvannamalai,Cheyyar(Uzhavar Sandhai ),Tomato,1,2750,2750,2750
+Uttarakhand,Haridwar,Manglaur APMC,Tomato,1,1500,1500,1500
+Tamil Nadu,Tiruvarur,Muthupettai(Uzhavar Sandhai ),Onion,1,5000,5000,5000
+Madhya Pradesh,Bhind,Alampur APMC,Bajra,2,2520.2,2520.2,2520.2
+Tamil Nadu,Thiruppur,Tiruppur (North) (Uzhavar Sandhai ),Onion,1,5500,5500,5500
+Tripura,South Tripura,Manubazar,Onion,1,6400,6400,6400
+Tamil Nadu,Virudhunagar,Kariyapatti(Uzhavar Sandhai ),Potato,1,3750,3750,3750
+Tamil Nadu,Virudhunagar,Sathur(Uzhavar Sandhai ),Potato,1,3750,3750,3750
+Odisha,Koraput,Koraput APMC,Tomato,1,2800,2800,2800
+Odisha,Mayurbhanja,Karanjia APMC,Tomato,1,4800,4800,4800
+Odisha,Sambalpur,Rairakhol APMC,Tomato,1,2200,2200,2200
+Tamil Nadu,Namakkal,Paramathivelur(Uzhavar Sandhai ),Tomato,1,3250,3250,3250
+Telangana,Khammam,Sattupally APMC,null,3,2900,2900,2900
+Tamil Nadu,Cuddalore,Viruthachalam(Uzhavar Sandhai ),Potato,1,4000,4000,4000
+Himachal Pradesh,Shimla,SMY Rohroo,Tomato,1,2300,2300,2300
+Uttar Pradesh,Kanpur Dehat,Pukharayan APMC,Paddy,2,2700,2700,2700
+Madhya Pradesh,Khargone,Sanawad APMC,Wheat,2,2953,2953,2953
+Gujarat,Banaskanth,Deesa APMC,Sesamum,2,15505,15505,15505
+Gujarat,Surendranagar,Dasada Patadi APMC,Urad,2,9125,9125,9125
+Uttar Pradesh,Jalaun (Orai),Jalaun APMC,Tomato,2,1500,1500,1500
+Andhra Pradesh,Palnadu,Durgi APMC,Paddy,3,2200,2200,2200
+Andhra Pradesh,Palnadu,Rompicherla APMC,Paddy,3,2500,2500,2500
+Andhra Pradesh,Krishna,Divi (HQ-Avanigadda) APMC,null,3,3300,3300,3300
+Haryana,Kurukshetra,Thanesar APMC,Onion,2,4150,4150,4150
+Haryana,Sonipat,Gohana APMC,Tomato,2,2500,2500,2500
+Uttar Pradesh,Aligarh,Aligarh APMC,Paddy,3,4366.67,4100,4500
+Andhra Pradesh,Ananthapuramu,Gooti APMC,Cotton,3,9149,9129,9189
+Madhya Pradesh,Sheopur,Vijaypur APMC,Mustard,1,8400,8400,8400
+Tamil Nadu,Thiruvannamalai,Chengam(Uzhavar Sandhai ),Onion,1,5500,5500,5500
+Maharashtra,Ratnagiri,APMC Ratnagiri (Nachane),Tomato,1,1000,1000,1000
+Tamil Nadu,The Nilgiris,Udhagamandalam(Uzhavar Sandhai ),Tomato,1,3250,3250,3250
+Tamil Nadu,Virudhunagar,Rajapalayam(Uzhavar Sandhai ),Tomato,1,2250,2250,2250
+Gujarat,Dahod,Zalod(Sanjeli) APMC,Bajra,3,2583.33,2550,2650
+Uttar Pradesh,Jalaun (Orai),Jalaun APMC,Bajra,3,2302.93,2301.3,2303.75
+Madhya Pradesh,Khargone,Segaon APMC,Maize,2,2900,2900,2900
+Andhra Pradesh,Alluri Sitharama Raju,Paderu APMC,Groundnut,3,7300,7300,7300
+Maharashtra,Akola,APMC Akola,Sesamum,2,14205,14205,14205
+Uttar Pradesh,Kannuj,Chhibramau APMC,Potato,3,500,500,500
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard) APMC,Tomato,2,1810,1810,1810
+West Bengal,Bankura,Indus(Bankura Sadar) APMC,null,2,2451,2451,2451
+Punjab,Jalandhar,Bhogpur APMC,Potato,2,500,500,500
+Madhya Pradesh,Khargone,Bhikangaon APMC,Maize,3,2774,2500,2911
+Uttar Pradesh,Bulandshahar,Buland Shahr APMC,Potato,3,600,600,600
+Madhya Pradesh,Bhind,Bhind APMC,Bajra,2,2553.7,2553.7,2553.7
+Andhra Pradesh,Parvathipuram Manyam,Saluru APMC,Maize,3,3000,3000,3000
+Andhra Pradesh,Srikakulam,Narasannapet APMC,Paddy,3,2400,2400,2400
+Madhya Pradesh,Shivpuri,Barad APMC,Groundnut,2,6100,6100,6100
+Madhya Pradesh,Chhatarpur,LavKush Nagar(Laundi) APMC,Mustard,2,8200,8200,8200
+Gujarat,Ahmedabad,Ahmedabad(Chimanbhai Patal Market Vasana) APMC,Onion,2,4600,4600,4600
+Andhra Pradesh,East Godavari,Kovvur APMC,Paddy,3,2400,2400,2400
+Andhra Pradesh,Bapatla,Parchur APMC,Cotton,2,8200,8200,8200
+Maharashtra,Nashik,Lasalgaon(Vinchur),Onion,2,4155.22,4155.22,4155.22
+Madhya Pradesh,Seoni,Seoni APMC,Maize,3,2564.19,2551,2590.58
+Gujarat,Bhavnagar,Taleja APMC,Jowar,2,5365,5365,5365
+Madhya Pradesh,Raisen,Udaipura APMC,Paddy,2,4700,4700,4700
+Madhya Pradesh,Khargone,Segaon APMC,Wheat,2,3001,3001,3001
+Gujarat,Morbi,Vankaner APMC,Cotton,2,9150,9150,9150
+Madhya Pradesh,Dhar,Dhar APMC,Soyabean,3,7049.33,7000,7148
+Maharashtra,Kolhapur,APMC Kolhapur,Tomato,2,1000,1000,1000
+Madhya Pradesh,Badwani,Sendhwa APMC,Maize,3,2913.15,2907.23,2925
+Madhya Pradesh,Narmadapuram,Pipariya APMC,Paddy,3,4756.67,4670,4800
+Haryana,Panchkula,Raipur Rani APMC,Tomato,2,2400,2400,2400
+Punjab,Sangrur,Sangrur APMC,Onion,1,3800,3800,3800
+Tamil Nadu,Kallakurichi,Ulundurpet RM,Onion,1,5000,5000,5000
+Tamil Nadu,Vellore,Katpadi (Uzhavar Sandhai ),Onion,1,5750,5750,5750
+Madhya Pradesh,Rajgarh,Jeerapur (F&V) APMC,Potato,3,6,6,6
+Tamil Nadu,Salem,Mettur(Uzhavar Sandhai ),Tomato,1,2250,2250,2250
+Madhya Pradesh,Jabalpur,Shahpura Bhitoni (F&V) APMC,Maize,2,2400,2400,2400
+Madhya Pradesh,Dindori,Dindori APMC,Wheat,2,2525,2525,2525
+Madhya Pradesh,Rajgarh,Biaora APMC,Wheat,3,2746.67,2700,2770
+Maharashtra,Solapur,APMC Barshi,Soyabean,2,7000,7000,7000
+Gujarat,Kachchh,Rapar APMC,Moong,2,8315,8315,8315
+Bihar,Vaishali,Hajipur APMC,Onion,3,4271.67,4270,4275
+Odisha,Bolangir,Tusura APMC,Onion,2,4500,4500,4500
+Madhya Pradesh,Khandwa,Harsood APMC,Maize,3,2800,2800,2800
+Telangana,Jogulamba Gadwal,Gadwal APMC,Groundnut,2,7190,7190,7190
+Madhya Pradesh,Raisen,Bareli APMC,Tur,2,8950,8950,8950
+Andhra Pradesh,Guntur,Ponnur APMC,Urad,3,9800,9800,9800
+Telangana,Hanumakonda,"Excise Colony,RBZ",Tomato,2,2500,2500,2500
+Andhra Pradesh,NTR,Kanchekacherla APMC,Maize,3,2400,2400,2400
+Andhra Pradesh,Markapuram,Giddalur APMC,Gram,3,6016.67,6000,6050
+Odisha,Sundergarh,Sargipali APMC,Potato,3,1333.33,1300,1400
+Tamil Nadu,Cuddalore,Cuddalore(Uzhavar Sandhai ),Tomato,1,2800,2800,2800
+West Bengal,Bankura,Khatra APMC,Mustard,2,6500,6500,6500
+Telangana,Warangal,Warangal APMC,Potato,3,1750,1750,1750
+West Bengal,Bankura,Khatra APMC,Potato,2,700,700,700
+Madhya Pradesh,Dewas,Loharda APMC,Maize,2,2750,2750,2750
+Keralam,Kannur,Thalasserry Market,Potato,2,2300,2300,2300
+Odisha,Balasore,Barikpur APMC,Tomato,2,3000,3000,3000
+Bihar,Jamui,Sikandara APMC,Onion,1,4200,4200,4200
+Tamil Nadu,Erode,Perundurai(Uzhavar Sandhai ),Onion,1,6250,6250,6250
+Tamil Nadu,Pudukkottai,Pudukottai(Uzhavar Sandhai ),Onion,1,7250,7250,7250
+Tamil Nadu,Coimbatore,RSPuram(Uzhavar Sandhai ),Tomato,1,2600,2600,2600
+West Bengal,Paschim Bardhaman,Durgapur APMC,Tomato,1,2850,2850,2850
+Chattisgarh,Narayanpur,Narayanpur APMC,Maize,2,2350,2350,2350
+Maharashtra,Buldhana,APMC Deoulgaon Raja,Wheat,2,2800,2800,2800
+Punjab,Tarntaran,Patti APMC,Onion,3,0.01,0.01,0.01
+Madhya Pradesh,Dewas,Kannod APMC,Wheat,2,3140,3140,3140
+Gujarat,Jamnagar,Kalawad APMC,Gram,2,6875,6875,6875
+Maharashtra,Ahilyanagar,APMC Shrirampur,Potato,3,1216.67,1200,1250
+Tamil Nadu,Salem,Jalagandapuram(Uzhavar Sandhai ),Groundnut,1,6750,6750,6750
+Maharashtra,Amarawati,APMC Achalpur,Soyabean,2,6700,6700,6700
+Madhya Pradesh,Ujjain,Ujjain APMC,Gram,2,6629,6629,6629
+Andhra Pradesh,Ananthapuramu,Gooti APMC,Tur,3,7866.67,7800,7900
+Haryana,Yamuna Nagar,Chhachrauli APMC,Tomato,2,2800,2800,2800
+Gujarat,Banaskanth,Deesa APMC,Bajra,2,3125,3125,3125
+Madhya Pradesh,Balaghat,Katangi APMC,Paddy,2,1998,1998,1998
+Rajasthan,Hanumangarh,Pilibanga APMC,Paddy,1,3754.58,3754.58,3754.58
+Tamil Nadu,Villupuram,Avalurpet RM,Ragi,1,3554.5,3554.5,3554.5
+Andhra Pradesh,Ananthapuramu,Gooti APMC,Groundnut,3,6306.33,5960,6999
+Telangana,Adilabad,Boath APMC,Soyabean,3,6833.33,6500,7000
+Himachal Pradesh,Kangra,SMY Jaisinghpur,Potato,3,1600,1600,1600
+Tamil Nadu,Virudhunagar,Srivilliputhur(Uzhavar Sandhai ),Tomato,1,3250,3250,3250
+Madhya Pradesh,Jhabua,Petlawad APMC,Wheat,2,2700,2700,2700
+Madhya Pradesh,Morena,Kailaras APMC,Mustard,2,8701,8701,8701
+Andhra Pradesh,Bapatla,Chirala APMC,null,3,3500,3500,3500
+Tamil Nadu,Karur,Kulithalai(Uzhavar Sandhai ),Onion,1,6500,6500,6500
+Uttarakhand,Haridwar,Manglaur APMC,Onion,1,2500,2500,2500
+Punjab,Sangrur,Lehra Gaga APMC,Tomato,1,1600,1600,1600
+Uttar Pradesh,Farukhabad,Kamlaganj APMC,Paddy,3,2500,2500,2500
+Gujarat,Sabarkantha,Modasa(Tintoi) APMC,Soyabean,2,7000,7000,7000
+Haryana,Ambala,Shahzadpur APMC,Onion,2,3000,3000,3000
+Andhra Pradesh,Palnadu,Sattenapalli APMC,Cotton,1,7700,7700,7700
+Uttar Pradesh,Lalitpur,Lalitpur APMC,Soyabean,1,6454.39,6454.39,6454.39
+Uttar Pradesh,Bulandshahar,Sikanderabad APMC,Potato,1,800,800,800
+Karnataka,Mysuru,Hunsur APMC,Tomato,1,2000,2000,2000
+Punjab,Hoshiarpur,GarhShankar (Kotfatuhi) APMC,Tomato,1,2800,2800,2800
+Tripura,Sepahijala,Boxonagar,Tomato,1,4000,4000,4000
+Telangana,Rajanna Siricilla,Sircilla APMC,Maize,2,2450,2450,2450
+Gujarat,Sabarkantha,APMCKHEDBRAHMA,Groundnut,2,7400,7400,7400
+Uttar Pradesh,Unnao,Bangarmau APMC,Paddy,2,2000,2000,2000
+Uttar Pradesh,Gorakhpur,Gorakhpur APMC,Paddy,1,2290.8,2290.8,2290.8
+Keralam,Kollam,Chathanoor Market,Tomato,1,4400,4400,4400
+Karnataka,Haveri,Ranebennur APMC,Cotton,2,12210,12210,12210
+Maharashtra,Ahilyanagar,APMC Karjat,Wheat,2,2850,2850,2850
+Uttar Pradesh,Firozabad,Tundla APMC,Bajra,1,2503.86,2503.86,2503.86
+Tamil Nadu,Thiruvannamalai,Polur(Uzhavar Sandhai ),Onion,1,5500,5500,5500
+Maharashtra,Solapur,APMC Solapur,Potato,2,1000,1000,1000
+Telangana,Rajanna Siricilla,Rudrangi APMC,null,2,2500,2500,2500
+Madhya Pradesh,Khargone,Bhikangaon APMC,Cotton,2,8900,8900,8900
+Telangana,Peddapalli,Dharmaram APMC,Paddy,1,2500,2500,2500
+Andhra Pradesh,Palnadu,Ipur APMC,Cotton,1,7500,7500,7500
+Madhya Pradesh,Khargone,Sanawad(F&V) APMC,Potato,1,900,900,900
+Tamil Nadu,Tirunelveli,Palayamkottai(Uzhavar Sandhai ),Potato,1,2700,2700,2700
+Tamil Nadu,Cuddalore,Vadalur(Uzhavar Sandhai ),Tomato,1,3000,3000,3000
+Gujarat,Rajkot,Rajkot APMC,Bajra,2,2470,2470,2470
+Madhya Pradesh,Khandwa,Harsood APMC,Soyabean,2,6600,6600,6600
+Tamil Nadu,Thiruvannamalai,Keelpennathur(Uzhavar Sandhai ),Tomato,1,4750,4750,4750
+Bihar,West Chambaran,Ramnagar APMC,Onion,1,4200,4200,4200
+Tamil Nadu,Vellore,Katpadi (Uzhavar Sandhai ),Potato,1,2800,2800,2800
+Haryana,Gurgaon,Farukh Nagar APMC,Potato,3,900,900,900
+Gujarat,Sabarkantha,Modasa(Tintoi) APMC,Maize,2,2700,2700,2700
+Andhra Pradesh,West Godavari,Palakole APMC,Paddy,3,2450,2450,2450
+Andhra Pradesh,Krishna,Pedana APMC,Urad,3,9766.67,9700,9800
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Potato,2,550,550,550
+Gujarat,Jamnagar,Jamnagar APMC,Bajra,2,2760,2760,2760
+Uttar Pradesh,Lucknow,Banthara APMC,Wheat,3,2560,2560,2560
+Punjab,Sangrur,Ahmedgarh APMC,null,2,2461,2461,2461
+Gujarat,Amreli,APMC Bagasara,Groundnut,2,6125,6125,6125
+Madhya Pradesh,Chhatarpur,Chhatarpur APMC,Groundnut,2,6417.98,6417.98,6417.98
+Bihar,Kaimur/Bhabhua,Mohana APMC,Potato,3,1000,1000,1000
+Haryana,Gurgaon,Gurgaon APMC,Tomato,3,2166.67,2000,2250
+Maharashtra,Solapur,APMC Solapur,Tomato,2,1000,1000,1000
+Uttar Pradesh,Lakhimpur,Paliakala APMC,Paddy,3,2150,2150,2150
+Andhra Pradesh,Nandyal,Panyam APMC,null,1,2450,2450,2450
+Andhra Pradesh,Tirupathi,Vakadu APMC,null,3,2400,2400,2400
+Karnataka,Chamarajanagar,Chamarajanagar APMC,Copra,3,24666.67,24000,25000
+Tamil Nadu,Namakkal,Rasipuram(Uzhavar Sandhai ),Groundnut,1,5750,5750,5750
+Karnataka,Davangere,HarappanaHalli APMC,Maize,2,3230,3230,3230
+Madhya Pradesh,Seoni,Keolari APMC,Maize,3,2535.23,2501,2552.35
+Madhya Pradesh,Dewas,Sonkatch APMC,Wheat,2,3290,3290,3290
+Madhya Pradesh,Rajgarh,Sarangpur APMC,Wheat,2,2750,2750,2750
+Andhra Pradesh,Ananthapuramu,RAYADURG APMC,null,3,3533.33,3500,3600
+Telangana,Rajanna Siricilla,Vemulawada APMC,null,2,2500,2500,2500
+Punjab,Gurdaspur,Dinanagar APMC,Onion,3,3866.67,3800,3900
+Himachal Pradesh,Kangra,SMY Palampur,Potato,3,1600,1600,1600
+Rajasthan,Tonk,Malpura APMC,Barley,2,3000,3000,3000
+Andhra Pradesh,Palnadu,Narasaraopet APMC,Cotton,2,9000,9000,9000
+Madhya Pradesh,Sehore,Sehore APMC,Soyabean,2,6950,6950,6950
+Maharashtra,Jalna,APMC BHOKARDAN,Soyabean,2,6900,6900,6900
+Andhra Pradesh,Tirupathi,Naidupet APMC,Paddy,3,2250,2250,2250
+Odisha,Boudh,Boudh APMC,Potato,3,2000,2000,2000
+Tamil Nadu,Kancheepuram,Kancheepuram(Uzhavar Sandhai ),Potato,1,3000,3000,3000
+Uttar Pradesh,Varanasi,Varanasi APMC,Bajra,2,2500,2500,2500
+Andhra Pradesh,NTR,Mylavaram APMC,Paddy,2,2441,2441,2441
+Andhra Pradesh,West Godavari,Tadepalligudem APMC,Paddy,3,2450,2450,2450
+Maharashtra,Washim,"Krushna Krishi Bazar, Washim",Wheat,2,2800,2800,2800
+Madhya Pradesh,Ratlam,Sailana APMC,Soyabean,2,7010,7010,7010
+Keralam,Kollam,Anchal Market,Onion,3,7644.21,7585.54,7761.54
+Gujarat,Surat,Surat APMC,Potato,3,1275,1275,1275
+Uttar Pradesh,Sitapur,Mehmoodabad APMC,Potato,2,600,600,600
+Andhra Pradesh,Chittor,V. Kota Sub-yard of AMC Palamaneru,Tomato,3,1200,1200,1200
+Maharashtra,Pune,Khed(Chakan),Tomato,3,1266.67,1200,1300
+Andhra Pradesh,Nandyal,Nandikotkur APMC,Maize,3,2300,2300,2300
+Andhra Pradesh,Prakasam,Addanki APMC,Maize,3,2463.33,2450,2470
+Andhra Pradesh,Sri Sathya Sai,Gorantla  APMC,Maize,3,2300,2300,2300
+Andhra Pradesh,Chittor,Nagari APMC,Paddy,2,1850,1850,1850
+Andhra Pradesh,Krishna,Penamaluru (HQ-Kankipadu) APMC,Paddy,3,2441,2441,2441
+Gujarat,Sabarkantha,APMCKHEDBRAHMA,Wheat,2,2750,2750,2750
+Telangana,Rajanna Siricilla,Sircilla APMC,Cotton,2,9000,9000,9000
+Bihar,Bhojpur,Aarah APMC,Onion,3,4100,4100,4100
+Madhya Pradesh,Ratlam,Taal APMC,Soyabean,3,7364.58,7093.75,7500
+Tamil Nadu,Kancheepuram,Sunguvarchatram(Uzhavar Sandhai ),Onion,1,5500,5500,5500
+Punjab,Mohali,Kharar APMC,Potato,1,700,700,700
+Tamil Nadu,Nagapattinam,Vedaranyam(Uzhavar Sandhai),Potato,1,3900,3900,3900
+Madhya Pradesh,Khargone,Sanawad(F&V) APMC,Tomato,1,900,900,900
+Tamil Nadu,The Nilgiris,Gudalur(Uzhavar Sandhai ),Tomato,1,3150,3150,3150
+Tamil Nadu,Vellore,Vellore RM,Tomato,1,2200,2200,2200
+Madhya Pradesh,Mandsaur,Garoth APMC,Maize,2,2676,2676,2676
+Gujarat,Rajkot,Rajkot APMC,Wheat,2,3165,3165,3165
+Madhya Pradesh,Harda,Harda APMC,Wheat,2,2700,2700,2700
+Maharashtra,Jalna,APMC Partur,Soyabean,2,7100,7100,7100
+Madhya Pradesh,Sagar,Rahatgarh APMC,Urad,2,5301,5301,5301
+Gujarat,Surendranagar,Vadhvan APMC,Tomato,2,1750,1750,1750
+Odisha,Gajapati,Kasinagar APMC,Tomato,2,1500,1500,1500
+Rajasthan,Jaipur,Bassi APMC,Tomato,3,1833.33,1500,2000
+Gujarat,Amreli,APMC Bagasara,Wheat,2,2900,2900,2900
+Gujarat,Kachchh,Rapar APMC,Mustard,2,8155,8155,8155
+Andhra Pradesh,YSR Kadapa,Jammalamadugu APMC,Gram,3,7700,7700,7700
+Madhya Pradesh,Morena,Morena APMC,Onion,2,2500,2500,2500
+Keralam,Kozhikode(Calicut),Perambra Market,Potato,2,2500,2500,2500
+Telangana,Nirmal,Sarangapur APMC161,Cotton,1,8866.04,8866.04,8866.04
+Uttar Pradesh,Jhansi,Gurusarai APMC,Groundnut,3,5640,5640,5640
+Tamil Nadu,Namakkal,Namakkal(Uzhavar Sandhai ),Onion,1,6250,6250,6250
+Tamil Nadu,Thiruvallur,Tiruvallur(Uzhavar Sandhai ),Onion,1,6000,6000,6000
+Tamil Nadu,Thiruchirappalli,Lalgudi(Uzhavar Sandhai ),Potato,1,3000,3000,3000
+Uttar Pradesh,Mainpuri,Bewar APMC,Potato,1,201.94,201.94,201.94
+Tamil Nadu,Nagapattinam,Nagapattinam(Uzhavar Sandhai ),Tomato,1,3700,3700,3700
+Andhra Pradesh,Palnadu,Rompicherla APMC,Maize,3,2500,2500,2500
+Madhya Pradesh,Maihar,Maihar APMC,Paddy,2,1910.46,1910.46,1910.46
+Madhya Pradesh,Dhar,Dhamnod APMC,Cotton,3,8840.33,8700,9121
+Andhra Pradesh,Vijayanagaram,Merakamudidam APMC,Maize,3,1950,1950,1950
+Punjab,Fatehgarh,Khamano APMC,Tomato,2,3000,3000,3000
+Andhra Pradesh,Prakasam,Darsi APMC,null,1,2600,2600,2600
+Tamil Nadu,Vellore,Vellore RM,Onion,1,5600,5600,5600
+Tamil Nadu,Pudukkottai,Karambakkudi(Uzhavar Sandhai ),Tomato,1,3250,3250,3250
+Tamil Nadu,Thiruchirappalli,Thiruverumbur(Uzhavar Sandhai ),Tomato,1,2400,2400,2400
+Madhya Pradesh,Khargone,Sanawad APMC,Maize,2,2911,2911,2911
+Uttar Pradesh,Hamirpur,Kurara APMC,Paddy,2,3800,3800,3800
+Gujarat,Bhavnagar,Taleja APMC,Sesamum,2,15050,15050,15050
+Madhya Pradesh,Dewas,Haatpipliya APMC,Wheat,2,2400,2400,2400
+Haryana,Ambala,Naraingarh APMC,Onion,2,2600,2600,2600
+Maharashtra,Ahilyanagar,Karjat(Rashin),Bajra,1,3400,3400,3400
+Uttar Pradesh,Jalaun (Orai),Madhogarh APMC,Bajra,1,2300,2300,2300
+Tamil Nadu,Thiruvannamalai,Arani(Uzhavar Sandhai ),Onion,1,5500,5500,5500
+Haryana,Fatehabad,Fatehabad APMC,Potato,3,800,800,800
+Himachal Pradesh,Chamba,PMY Chamba,Potato,1,1100,1100,1100
+Keralam,Kollam,Chathanoor Market,Potato,1,4000,4000,4000
+Keralam,Palakad,Koduvayoor Market,Tomato,1,3200,3200,3200
+Tamil Nadu,Chengalpet,Guduvancheri(Uzhavar Sandhai ),Tomato,1,2750,2750,2750
+Tamil Nadu,Virudhunagar,Sathur(Uzhavar Sandhai ),Tomato,1,2750,2750,2750
+Gujarat,Amreli,Babra APMC,Groundnut,2,7205,7205,7205
+Gujarat,Banaskanth,Lakhani APMC,Mustard,2,8527,8527,8527
+Maharashtra,Dharashiv,APMC Murum,Gram,2,6656,6656,6656
+West Bengal,Bankura,Indus(Bankura Sadar) APMC,Potato,2,700,700,700
+Madhya Pradesh,Rajgarh,Jeerapur APMC,Maize,2,2840,2840,2840
+Madhya Pradesh,Raisen,Bareli APMC,Paddy,2,4850,4850,4850
+Uttar Pradesh,Shravasti,Bhinga APMC,Paddy,2,1911.54,1911.54,1911.54
+Gujarat,Porbandar,Porbandar APMC,Wheat,2,2777.14,2777.14,2777.14
+Maharashtra,Dharashiv,APMC Murum,Urad,2,9100,9100,9100
+Maharashtra,Satara,APMC Vaduj,Onion,2,4500,4500,4500
+Tamil Nadu,Vellore,Katpadi (Uzhavar Sandhai ),Groundnut,1,8000,8000,8000
+Andhra Pradesh,Annamayya,Guramkonda Sub-yard of AMC Valmikipuram,Tomato,3,1400,1400,1400
+Tamil Nadu,Virudhunagar,Virudhunagar(Uzhavar Sandhai ),Tomato,1,2750,2750,2750
+Andhra Pradesh,Ananthapuramu,Tadipatri APMC,Tur,2,5900,5900,5900
+Maharashtra,Nashik,APMC Yeola,Onion,2,3650,3650,3650
+West Bengal,Nadia,Chakdah APMC,Tomato,2,3100,3100,3100
+Uttar Pradesh,Bareilly,Anwala APMC,Paddy,3,3535.27,3450,3577.9
+Madhya Pradesh,Ratlam,Jaora APMC,Wheat,2,2850,2850,2850
+Telangana,Ranga Reddy,Shankarapally APMC,Potato,2,2000,2000,2000
+Uttar Pradesh,Bareilly,Bareilly APMC,Bajra,1,1800,1800,1800
+Maharashtra,Pune,APMC Pune,Potato,1,1600,1600,1600
+Haryana,Fatehabad,Fatehabad APMC,Tomato,3,2000,2000,2000
+Himachal Pradesh,Solan,SMY Wakhnaghat,Tomato,1,1200,1200,1200
+Maharashtra,Nagpur,APMC Umared,Cotton,2,9130,9130,9130
+West Bengal,Bankura,Bishnupur(Bankura) APMC,Mustard,2,6500,6500,6500
+Maharashtra,Jalgaon,APMC Jalgaon,Urad,2,9500,9500,9500
+Maharashtra,Nashik,APMC Pimpalgaon Baswant,Onion,2,4380.71,4380.71,4380.71
+Gujarat,Ahmedabad,Ahmedabad APMC,Tomato,2,1750,1750,1750
+Madhya Pradesh,Damoh,Damoh APMC,Maize,2,2500,2500,2500
+Uttar Pradesh,Badaun,Badayoun APMC,Moong,2,10500,10500,10500
+Haryana,Ambala,Shahzadpur APMC,Potato,2,600,600,600
+Uttar Pradesh,Ayodhya,Rudauli APMC,Wheat,1,2500,2500,2500
+Himachal Pradesh,Bilaspur,PMY Bilaspur,Onion,1,4500,4500,4500
+Tamil Nadu,Villupuram,Tindivanam RM,Tomato,1,1800,1800,1800
+Madhya Pradesh,Mandla,Krishi Upaj Mandi Samiti Bichhiya,Wheat,2,2601,2601,2601
+West Bengal,Bankura,Khatra APMC,Tomato,2,4000,4000,4000
+Tamil Nadu,Salem,Jalagandapuram(Uzhavar Sandhai ),Onion,1,6750,6750,6750
+Tamil Nadu,Vellore,Kahithapattarai(Uzhavar Sandhai ),Onion,1,5600,5600,5600
+Tamil Nadu,Dharmapuri,Palacode(Uzhavar Sandhai ),Potato,1,2900,2900,2900
+Gujarat,Junagarh,Visavadar APMC,Tur,2,7840,7840,7840
+Tamil Nadu,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Groundnut,1,5350,5350,5350
+Tamil Nadu,Coimbatore,Kurichi(Uzhavar Sandhai ),Tomato,1,2650,2650,2650
+Andhra Pradesh,Alluri Sitharama Raju,Chintapally APMC,Maize,2,2400,2400,2400
+Madhya Pradesh,Mandla,Nainpur APMC,Paddy,2,2100,2100,2100
+Madhya Pradesh,Shivpuri,Magroni APMC,Paddy,2,3899,3899,3899
+Andhra Pradesh,Ananthapuramu,Guntakal APMC,Groundnut,2,8500,8500,8500
+Haryana,Gurgaon,Farukh Nagar APMC,Tomato,3,2250,2250,2250
+Andhra Pradesh,Annamayya,Rayachoti APMC,Groundnut,1,8300,8300,8300
+Chandigarh,Chandigarh,Chandigarh (Grain/F&V) APMC,Onion,3,3500,3500,3500
+Tamil Nadu,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Onion,1,5750,5750,5750
+Haryana,Karnal,Tarori APMC,Potato,1,1200,1200,1200
+Tamil Nadu,Perambalur,Perambalur(Uzhavar Sandhai ),Potato,1,3700,3700,3700
+Tamil Nadu,Cuddalore,Chidambaram(Uzhavar Sandhai ),Tomato,1,3000,3000,3000
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Sesamum,2,15000,15000,15000
+Uttar Pradesh,Baghpat,Baraut APMC,Wheat,2,2700,2700,2700
+Maharashtra,Sangli,APMC Vita,Tomato,2,800,800,800
+Uttar Pradesh,Kasganj,Kasganj APMC,Maize,1,2300,2300,2300
+Tamil Nadu,Cuddalore,Cuddalore(Uzhavar Sandhai ),Onion,1,4000,4000,4000
+Tamil Nadu,Thiruchirappalli,KKNagar(Uzhavar Sandhai ),Potato,1,3200,3200,3200
+Tamil Nadu,Vellore,Pallikonda(Uzhavar Sandhai),Potato,1,2750,2750,2750
+Tamil Nadu,Karur,Gandhigramam(Uzhavar Sandhai),Tomato,1,3100,3100,3100
+Tamil Nadu,Theni,Andipatti(Uzhavar Sandhai ),Tomato,1,2500,2500,2500
+Uttar Pradesh,Balrampur,Utraula APMC,Wheat,2,2405,2405,2405
+Andhra Pradesh,Palnadu,Narasaraopet APMC,Tur,2,10000,10000,10000
+Karnataka,Vijayapura,Talikot APMC,Cotton,2,9700,9700,9700
+Uttar Pradesh,Hardoi,Shahabad(New Mandi) APMC,Wheat,1,2500,2500,2500
+Tamil Nadu,Dindigul,Palani(Uzhavar Sandhai ),Onion,1,5500,5500,5500
+Bihar,West Chambaran,Ramnagar APMC,Potato,1,1400,1400,1400
+Uttar Pradesh,Kanpur,Uttaripura APMC,Paddy,1,2100,2100,2100
+Uttar Pradesh,Mathura,Mathura APMC,Paddy,1,4660,4660,4660
+Tamil Nadu,Salem,Elampillai(Uzhavar Sandhai ),Onion,1,6400,6400,6400
+Punjab,Jalandhar,Lohian Khas APMC,Potato,1,400,400,400
+Andhra Pradesh,Eluru,Polavaram APMC,Paddy,3,2445,2445,2445
+Madhya Pradesh,Indore,Sanwer APMC,Soyabean,3,7217.67,7061,7296
+Punjab,Ludhiana,Samrala APMC,Onion,1,5000,5000,5000
+Tamil Nadu,Theni,Theni(Uzhavar Sandhai ),Onion,1,6200,6200,6200
+Uttarakhand,Haridwar,Haridwar Union APMC,Onion,3,3900,3700,4000
+Tamil Nadu,Coimbatore,Pollachi(Uzhavar Sandhai ),Tomato,1,2900,2900,2900
+Maharashtra,Satara,APMC Vaduj,Jowar,2,8000,8000,8000
+Madhya Pradesh,Betul,Betul APMC,Maize,3,2591.06,2483.86,2644.66
+Madhya Pradesh,Shivpuri,Khatora APMC,Maize,2,2680,2680,2680
+Andhra Pradesh,SPSR Nellore,Kavali APMC,Paddy,3,2450,2450,2450
+Uttar Pradesh,Badaun,Dataganj APMC,Paddy,3,3103.91,2911.72,3200
+Gujarat,Surendranagar,Chotila APMC,Cotton,2,9125,9125,9125
+Telangana,Siddipet,Siddipet(Rythu Bazar),Tomato,3,2133.33,2000,2200
+Gujarat,Kachchh,Rapar APMC,Jowar,2,7750,7750,7750
+Madhya Pradesh,Khargone,Bhikangaon APMC,Soyabean,2,7325,7325,7325
+Andhra Pradesh,Prakasam,Kondapi APMC,Gram,3,5800,5800,5800
+Andhra Pradesh,YSR Kadapa,Proddatur APMC,Gram,3,7000,7000,7000
+Punjab,Ludhiana,Doraha APMC,Onion,3,3800,3800,3800
+Madhya Pradesh,Morena,Kailaras APMC,Potato,2,1100,1100,1100
+Madhya Pradesh,Datia,Sevda APMC,Paddy,3,3982.21,3900,4023.31
+Tamil Nadu,Thirupathur,Vaniyampadi(Uzhavar Sandhai ),Groundnut,1,6000,6000,6000
+Madhya Pradesh,Dhar,Manawar APMC,Soyabean,3,7000,7000,7000
+Tamil Nadu,Chengalpet,Nanganallur(Uzhavar Sandhai ),Onion,1,4750,4750,4750
+Tamil Nadu,Erode,Sathiyamagalam(Uzhavar Sandhai ),Potato,1,4150,4150,4150
+Tamil Nadu,Ramanathapuram,Paramakudi(Uzhavar Sandhai ),Potato,1,4650,4650,4650
+Odisha,Jharsuguda,Jharsuguda APMC,Tomato,1,2800,2800,2800
+Tamil Nadu,Erode,Sampath Nagar(Uzhavar Sandhai ),Tomato,1,2200,2200,2200
+Madhya Pradesh,Dhar,Gandhwani APMC,Wheat,2,2900,2900,2900
+Rajasthan,Tonk,Malpura APMC,Mustard,2,9050,9050,9050
+Gujarat,Rajkot,Dhoraji APMC,Onion,2,3980,3980,3980
+Maharashtra,Satara,APMC Vaduj,Potato,2,1500,1500,1500
+Uttar Pradesh,Hathras,Shadabad APMC,Potato,2,350,350,350
+Punjab,Gurdaspur,Dinanagar APMC,Tomato,3,1900,1900,1900
+Uttar Pradesh,Gonda,Nawabganj APMC,Tomato,2,1500,1500,1500
+Telangana,Asifabad,Kagaznagar APMC,Cotton,3,9000,9000,9000
+Gujarat,Rajkot,Dhoraji APMC,Gram,2,6855,6855,6855
+Madhya Pradesh,Indore,Indore APMC,Moong,2,7005,7005,7005
+Rajasthan,Tonk,Malpura APMC,Moong,2,7500,7500,7500
+Gujarat,Jamnagar,Dhrol APMC,Urad,2,7550,7550,7550
+Telangana,Ranga Reddy,Ibrahimpatnam APMC,Tomato,2,3000,3000,3000
+Uttarakhand,Udhamsinghnagar,Nanakmatta APMC,Paddy,3,2441,2441,2441
+Andhra Pradesh,Sri Sathya Sai,Dharmavaram APMC,Groundnut,3,7300,7300,7300
+Tamil Nadu,Chengalpet,Guduvancheri(Uzhavar Sandhai ),Groundnut,1,8500,8500,8500
+Haryana,Fatehabad,Fatehabad APMC,Onion,3,4000,4000,4000
+West Bengal,Darjeeling,Siliguri APMC,Onion,3,4600,4600,4600
+Tamil Nadu,Tiruvarur,Muthupettai(Uzhavar Sandhai ),Tomato,1,3000,3000,3000
+Andhra Pradesh,Parvathipuram Manyam,Parvathipuram APMC,Maize,3,2400,2400,2400
+Uttar Pradesh,Aligarh,Khair APMC,Paddy,2,4730.65,4730.65,4730.65
+Gujarat,Surendranagar,Dasada Patadi APMC,Cotton,2,9200,9200,9200
+Maharashtra,Hingoli,APMC Hingoli,Soyabean,2,7057,7057,7057
+Assam,Sonitpur,Dhekiajuli APMC,Onion,3,5400,5400,5400
+Rajasthan,Jaipur,Bassi APMC,Bajra,3,2635.67,2627,2640
+Gujarat,Dahod,Dahod APMC,Maize,2,2800,2800,2800
+Madhya Pradesh,Shivpuri,Barad APMC,Mustard,2,6900,6900,6900
+Gujarat,Junagarh,Visavadar APMC,Urad,2,7865,7865,7865
+Telangana,Medchal Malkajgiri,"Kukatpally,RBZ",Tomato,2,1700,1700,1700
+Madhya Pradesh,Mandla,Nainpur APMC,Maize,3,2599.89,2587.33,2625
+Madhya Pradesh,Sheopur,Sheopurkalan APMC,Paddy,3,4613.17,4569.76,4700
+Tamil Nadu,Thiruvannamalai,Chengam(Uzhavar Sandhai ),Groundnut,1,7500,7500,7500
+Tamil Nadu,Salem,Thammampatti (Uzhavar Sandhai ),Potato,1,3200,3200,3200
+Tamil Nadu,Virudhunagar,Thalavaipuram(Uzhavar Sandhai ),Tomato,1,2750,2750,2750
+Gujarat,Dahod,Dahod APMC,Wheat,2,3050,3050,3050
+Madhya Pradesh,Burhanpur,Burhanpur APMC,Cotton,2,9100,9100,9100
+Maharashtra,Kolhapur,APMC Kolhapur,Onion,2,3500,3500,3500
+Uttar Pradesh,Kanpur Dehat,Jhijhank APMC,Paddy,3,1809.95,1800,1829.85
+Gujarat,Rajkot,Dhoraji APMC,Wheat,2,2705,2705,2705
+Madhya Pradesh,Narsinghpur,Gadarwada (F&V) APMC,Onion,2,3900,3900,3900
+Tamil Nadu,Salem,Sooramangalam(Uzhavar Sandhai ),Potato,1,7250,7250,7250
+Tamil Nadu,Thanjavur,Papanasam(Uzhavar Sandhai ),Tomato,1,3400,3400,3400
+Gujarat,Surat,Nizar APMC,Maize,2,2901,2901,2901
+Madhya Pradesh,Bhopal,Bhopal APMC,Paddy,2,4500.45,4500.45,4500.45
+Uttarakhand,Udhamsinghnagar,Kicchha APMC,Potato,3,1133.33,1100,1200
+Uttar Pradesh,Shahjahanpur,Shahjahanpur APMC,Tomato,2,1600,1600,1600
+Haryana,Faridabad,Ballabhgarh APMC,Onion,2,2500,2500,2500
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,Potato,2,800,800,800
+Madhya Pradesh,Sagar,Sagar APMC,Maize,3,2563.33,2200,2745
+Tamil Nadu,Madurai,Anaiyur(Uzhavar Sandhai ),Groundnut,1,7500,7500,7500
+Uttar Pradesh,Jhansi,Jhansi APMC,Groundnut,3,6232.59,6075.19,6547.38
+Tamil Nadu,Madurai,Anna nagar(Uzhavar Sandhai ),Potato,1,7200,7200,7200
+Tamil Nadu,Erode,Thalavadi(Uzhavar Sandhai ),Tomato,1,2400,2400,2400
+Madhya Pradesh,Morena,Morena APMC,Bajra,2,2631.48,2631.48,2631.48
+Madhya Pradesh,Pandhurna,Pandhurna APMC,Maize,2,2725,2725,2725
+Madhya Pradesh,Sagar,Shahagarh APMC,Soyabean,2,6900,6900,6900
+Gujarat,Amreli,APMC Bagasara,Cotton,2,9275,9275,9275
+Madhya Pradesh,Khargone,Segaon APMC,Soyabean,2,7101,7101,7101
+Himachal Pradesh,Mandi,SMY Jogindernagar,Tomato,2,2700,2700,2700
+Karnataka,Belagavi,Belgaum APMC,Onion,1,4000,4000,4000
+Tamil Nadu,Krishnagiri,Kaveripattinam(Uzhavar Sandhai ),Onion,1,5000,5000,5000
+Tamil Nadu,Madurai,Anna nagar(Uzhavar Sandhai ),Tomato,1,2500,2500,2500
+Gujarat,Junagarh,Bhesan APMC,Groundnut,2,7000,7000,7000
+Madhya Pradesh,Narsinghpur,Tendukheda APMC,Maize,2,2500,2500,2500
+Tamil Nadu,Sivagangai,Singampunari(Uzhavar Sandhai ),Potato,1,6800,6800,6800
+Tamil Nadu,Mayiladuthurai,Sirkali(Uzhavar Sandhai ),Tomato,1,4500,4500,4500
+Madhya Pradesh,Tikamgarh,Khargapur APMC,Wheat,2,2600,2600,2600
+Assam,Darrang,Besimari APMC,Tomato,2,1600,1600,1600
+Telangana,Hyderabad,RYTHU BAZAR FALAKNUMA,Potato,2,1900,1900,1900
+Odisha,Kalahandi,Junagarh APMC,Tomato,3,2833.33,2800,2900
+Tamil Nadu,Virudhunagar,Sivakasi(Uzhavar Sandhai ),Onion,1,5500,5500,5500
+Andhra Pradesh,Krishna,Pamarru APMC,Paddy,3,2471,2471,2471
+Madhya Pradesh,Sagar,Rahatgarh APMC,Mustard,2,7800,7800,7800
+Telangana,Hyderabad,RYTHU BAZAR ERRAGADDA,Onion,2,4000,4000,4000
+Manipur,Bishnupur,Bishenpur APMC,Paddy,1,3000,3000,3000
+Telangana,Karimnagar,Huzzurabad APMC,null,1,2461,2461,2461
+Haryana,Fatehabad,Jakhal APMC,Onion,1,4000,4000,4000
+Tamil Nadu,Thiruvallur,Naravarikuppam(Uzhavar Sandhai ),Onion,1,5500,5500,5500
+Tamil Nadu,Tiruvarur,Needamangalam(Uzhavar Sandhai ),Onion,1,4800,4800,4800
+Uttar Pradesh,Farukhabad,Farukhabad APMC,Potato,3,500,500,500
+Madhya Pradesh,Sagar,Khurai(F&V) APMC,Tomato,1,1200,1200,1200
+Tamil Nadu,Salem,Thathakapatti(Uzhavar Sandhai ),Tomato,1,2250,2250,2250
+Tamil Nadu,Sivagangai,Karaikudi(Uzhavar Sandhai ),Tomato,1,2600,2600,2600
+Tamil Nadu,Thiruppur,Tiruppur (North) (Uzhavar Sandhai ),Tomato,1,2750,2750,2750
+Maharashtra,Mumbai,APMC Mumbai,Bajra,2,3450,3450,3450
+Madhya Pradesh,Dindori,Shahpura Niwas APMC,Paddy,2,3700,3700,3700
+Rajasthan,Ganganagar,Sriganganagar (F&V) APMC,Potato,2,800,800,800
+Rajasthan,Hanumangarh,Sangriya APMC,Potato,2,1200,1200,1200
+Maharashtra,Akola,APMC Akola,Onion,2,3500,3500,3500
+Uttar Pradesh,Agra,Khairagarh APMC,Bajra,1,2422.96,2422.96,2422.96
+Uttar Pradesh,Bhadohi(Sant Ravi Nagar),Gopiganj APMC,Paddy,1,2441,2441,2441
+Andhra Pradesh,Krishna,Penamaluru (HQ-Kankipadu) APMC,Urad,3,9300,9300,9300
+Tamil Nadu,Namakkal,Rasipuram(Uzhavar Sandhai ),Onion,1,6700,6700,6700
+Haryana,Panipat,Panipat APMC,Potato,1,1100,1100,1100
+Madhya Pradesh,Gwalior,Lashkar APMC,Paddy,2,4200,4200,4200
+Andhra Pradesh,NTR,Tiruvuru APMC,null,3,4700,4700,4700
+Uttar Pradesh,Gonda,Nawabganj APMC,Paddy,1,2586.25,2586.25,2586.25
+Assam,Nagaon,Doomdumia APMC,Onion,1,5400,5400,5400
+Tamil Nadu,Ariyalur,Ariyalur(Uzhavar Sandhai),Onion,1,6250,6250,6250
+Tamil Nadu,Thiruvannamalai,Vandavasi(Uzhavar Sandhai ),Tomato,1,2750,2750,2750
+Andhra Pradesh,Vijayanagaram,Gajapathinagaram APMC,Maize,3,2400,2400,2400
+Keralam,Idukki,Thodupuzha Market,Tomato,2,4900,4900,4900
+Maharashtra,Solapur,APMC Solapur,Soyabean,2,7005,7005,7005
+Madhya Pradesh,Khargone,Sanawad APMC,Gram,2,7030,7030,7030
+Maharashtra,Dharashiv,APMC Murum,Tur,2,10000,10000,10000
+Tamil Nadu,Vellore,Gudiyatham(Uzhavar Sandhai ),Groundnut,1,6600,6600,6600
+Odisha,Sambalpur,Rairakhol APMC,Onion,1,5200,5200,5200
+Himachal Pradesh,Kangra,SMY Nagrota Bagwan,Potato,1,1300,1300,1300
+Himachal Pradesh,Shimla,SMY Rohroo,Potato,1,1350,1350,1350
+Tamil Nadu,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Potato,1,3350,3350,3350
+Gujarat,Porbandar,Porbandar APMC,Tomato,1,2500,2500,2500
+Tamil Nadu,Tirunelveli,NGO Colony(Uzhavar Sandhai ),Tomato,1,3500,3500,3500
+Gujarat,Surendranagar,Chotila APMC,Wheat,2,3000,3000,3000
+Uttar Pradesh,Rampur,Bilaspur APMC,Paddy,2,2460,2460,2460
+Tamil Nadu,Chengalpet,Jameenrayapettai(Uzhavar Sandhai ),Potato,1,2750,2750,2750
+Tamil Nadu,Tirunelveli,Melapalayam(Uzhavar Sandhai ),Tomato,1,3350,3350,3350
+Haryana,Yamuna Nagar,Sadhaura APMC,Onion,2,3000,3000,3000
+Keralam,Alappuzha,Chengannur Market,Onion,2,8800,8800,8800
+Telangana,Jogulamba Gadwal,Alampur APMC,Maize,1,2400,2400,2400
+Himachal Pradesh,Chamba,PMY Chamba,Onion,1,4400,4400,4400
+Punjab,Amritsar,Rayya APMC,Onion,1,4065,4065,4065
+Rajasthan,Jaisalmer,Jaisalmer APMC,Potato,1,1050,1050,1050
+West Bengal,Murshidabad,Jiaganj APMC,Potato,1,550,550,550
+Tamil Nadu,Thiruchirappalli,Thuraiyur RM,Onion,1,5750,5750,5750
+Andhra Pradesh,Krishna,Penamaluru (HQ-Kankipadu) APMC,Maize,3,2650,2650,2650
+Madhya Pradesh,Khargone,Khargone APMC,Maize,3,2933.33,2900,3000
+Tamil Nadu,Kallakurichi,Kallakurichi RM,Paddy,1,3335,3335,3335
+Himachal Pradesh,Kangra,SMY Jaisinghpur,Onion,3,5300,5300,5300
+Tamil Nadu,Dindigul,Dindigul(Uzhavar Sandhai ),Onion,1,6500,6500,6500
+Odisha,Angul,Angaura APMC,Tomato,1,3000,3000,3000
+Punjab,Gurdaspur,Batala APMC,Tomato,1,3200,3200,3200
+Tamil Nadu,Pudukkottai,Alangudi(Uzhavar Sandhai ),Tomato,1,3250,3250,3250
+Andhra Pradesh,Vijayanagaram,Bobbili APMC,Maize,2,4800,4800,4800
+Madhya Pradesh,Ratlam,A lot APMC,Wheat,3,2633.67,2601,2650
+Madhya Pradesh,Sheopur,Vijaypur APMC,Wheat,3,2590.68,2525,2722.04
+Maharashtra,Mumbai,APMC Mumbai,Wheat,2,4250,4250,4250
+Andhra Pradesh,Ananthapuramu,Guntakal APMC,Gram,2,7500,7500,7500
+Keralam,Idukki,Thodupuzha Market,Potato,2,4300,4300,4300
+Haryana,Ambala,Naraingarh APMC,Tomato,2,1500,1500,1500
+Karnataka,Davangere,HarappanaHalli APMC,Jowar,2,3100,3100,3100
+Telangana,Mancherial,Chennur APMC,Cotton,2,9000,9000,9000
+Madhya Pradesh,Ujjain,Ujjain APMC,Onion,2,4114.13,4114.13,4114.13
+Rajasthan,Ganganagar,Sriganganagar (F&V) APMC,Onion,2,4300,4300,4300
+Telangana,Hyderabad,Mahboob Manison APMC,Onion,3,3979.98,3959.97,4019.99
+Karnataka,Mysuru,Periyapatna APMC,Maize,1,2700,2700,2700
+Uttar Pradesh,Kanpur Dehat,Pukharayan APMC,Groundnut,1,5300,5300,5300
+Tamil Nadu,Erode,Sathiyamagalam(Uzhavar Sandhai ),Onion,1,6250,6250,6250
+Tamil Nadu,Kancheepuram,Padappai(Uzhavar Sandhai ),Potato,1,4000,4000,4000
+Uttar Pradesh,Bareilly,Bareilly APMC,Potato,3,516.67,500,550
+Odisha,Bolangir,Kantabaji APMC,Tomato,3,2400,2400,2400
+Andhra Pradesh,Prakasam,Maddipadu APMC,Bajra,3,2900,2900,2900
+Maharashtra,Solapur,APMC Pandharpur,Tomato,2,1100,1100,1100
+Tamil Nadu,Salem,Elampillai(Uzhavar Sandhai ),Groundnut,1,5500,5500,5500
+Madhya Pradesh,Dewas,Sonkatch APMC,Soyabean,1,7179,7179,7179
+Madhya Pradesh,Raisen,Silvani APMC,Gram,1,7000,7000,7000
+Bihar,Bhojpur,Aarah APMC,Potato,3,1000,1000,1000
+Andhra Pradesh,Nandyal,Panyam APMC,Maize,2,2400,2400,2400
+Telangana,Rajanna Siricilla,Rudrangi APMC,Cotton,2,8667,8667,8667
+Madhya Pradesh,Niwadi,Niwadi APMC,Groundnut,2,7165,7165,7165
+Uttar Pradesh,Fatehpur,Khaga APMC,Paddy,2,3000,3000,3000
+Andhra Pradesh,Palnadu,Narasaraopet APMC,Moong,2,8500,8500,8500
+Maharashtra,Jalgaon,APMC Bhusaval,Onion,2,4000,4000,4000
+Rajasthan,Jodhpur,Osiyan Mathania APMC,Wheat,3,2800,2800,2800
+Tamil Nadu,Chengalpet,Guduvancheri(Uzhavar Sandhai ),Onion,1,6500,6500,6500
+Tamil Nadu,Tiruvarur,Mannargudi II(Uzhavar Sandhai ),Tomato,1,2400,2400,2400
+Maharashtra,Nanded,APMC Bhokar,Gram,2,5325,5325,5325
+Maharashtra,Mumbai,APMC Mumbai,Tomato,2,1100,1100,1100
+Uttar Pradesh,Auraiya,Dibiapur APMC,Paddy,3,2231.84,1803.51,2446
+Uttar Pradesh,Bareilly,Bareilly APMC,Paddy,3,3356.68,3268.28,3400.88
+Madhya Pradesh,Khargone,Khargone APMC,Cotton,2,9000,9000,9000
+Haryana,Panchkula,Raipur Rani APMC,Potato,2,750,750,750
+Tripura,North Tripura,Dasda APMC,Potato,2,1550,1550,1550
+Punjab,Sangrur,Bhawanigarh APMC,Tomato,2,1500,1500,1500
+Andhra Pradesh,Tirupathi,Srikalahasti APMC,null,3,2550,2550,2550
+Tamil Nadu,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Groundnut,1,6750,6750,6750
+Punjab,Hoshiarpur,GarhShankar (Kotfatuhi) APMC,Onion,1,4000,4000,4000
+Tamil Nadu,Thirupathur,Vaniyampadi(Uzhavar Sandhai ),Potato,1,3000,3000,3000
+Tamil Nadu,Madurai,Usilampatti(Uzhavar Sandhai ),Tomato,1,2200,2200,2200
+Tamil Nadu,Sivagangai,Sivagangai (Uzhavar Sandhai ),Tomato,1,2400,2400,2400
+Madhya Pradesh,Dhar,Kukshi APMC,Maize,2,2710.51,2710.51,2710.51
+Gujarat,Rajkot,JASDAN APMC,Soyabean,2,7000,7000,7000
+Gujarat,Surat,Surat APMC,Tomato,3,1100,700,1300
+Keralam,Kannur,Thalasserry Market,Tomato,2,2800,2800,2800
+Maharashtra,Dharashiv,APMC Tuljapur,Jowar,2,7500,7500,7500
+Telangana,Mahbubnagar,Mahbubnagar APMC,Ragi,2,5839,5839,5839
+Haryana,Hissar,Barwala(Hisar) APMC,Onion,3,4083.33,4000,4250
+Tamil Nadu,Chengalpet,Madhuranthagam(Uzhavar Sandhai ),Onion,1,6000,6000,6000
+Keralam,Ernakulam,Thrippunithura Market,Tomato,1,4400,4400,4400
+Maharashtra,Solapur,APMC Barshi,Jowar,2,7200,7200,7200
+Madhya Pradesh,Dhar,Dhamnod APMC,Maize,2,2520,2520,2520
+Maharashtra,Kolhapur,Kolhapur(Laxmipuri),Wheat,2,4200,4200,4200
+Madhya Pradesh,Pandhurna,Saunsar APMC,Cotton,2,9110,9110,9110
+Haryana,Yamuna Nagar,Chhachrauli APMC,Potato,2,900,900,900
+Odisha,Bolangir,Tusura APMC,Tomato,2,2600,2600,2600
+Andhra Pradesh,YSR Kadapa,Proddatur APMC,Groundnut,3,7500,7500,7500
+Chattisgarh,Surajpur,Surajpur APMC,Sugarcane,2,430,430,430
+Andhra Pradesh,Eluru,Polavaram APMC,Maize,3,2415,2415,2415
+Tamil Nadu,Nagapattinam,Nagapattinam(Uzhavar Sandhai ),Groundnut,1,5700,5700,5700
+Keralam,Alappuzha,Cherthala Market,Onion,3,4066.67,4000,4200
+Tamil Nadu,Krishnagiri,Krishnagiri(Uzhavar Sandhai ),Potato,1,2750,2750,2750
+Madhya Pradesh,Narmadapuram,Banapura APMC,Maize,2,2750,2750,2750
+Andhra Pradesh,NTR,Vijayawada APMC,null,3,2461,2461,2461
+Andhra Pradesh,Ananthapuramu,Kalyandurg APMC,Groundnut,3,8300,8300,8300
+Maharashtra,Yavatmal,APMC Babhulgaon,Soyabean,2,7221,7221,7221
+Uttar Pradesh,Barabanki,Safdarganj APMC,Paddy,3,2331.86,2264.83,2365.38
+Andhra Pradesh,Prakasam,Maddipadu APMC,null,3,2800,2800,2800
+Odisha,Jajpur,Jajpur APMC,Tomato,2,2500,2500,2500
+Gujarat,Jamnagar,Jamnagar APMC,Groundnut,2,7825,7825,7825
+Madhya Pradesh,Ratlam,Sailana APMC,Maize,3,2587.33,2501,2760
+Madhya Pradesh,Narmadapuram,Semriharchand APMC,Paddy,1,3950,3950,3950
+Odisha,Bhadrak,Chandabali APMC,Onion,3,4273.33,4250,4320
+Tamil Nadu,Tiruvarur,Needamangalam(Uzhavar Sandhai ),Tomato,1,2200,2200,2200
+Telangana,Rajanna Siricilla,Sircilla APMC,null,3,2500,2500,2500
+Uttar Pradesh,Jalaun (Orai),Madhogarh APMC,Wheat,2,2600,2600,2600
+Telangana,Rajanna Siricilla,Konaraopet APMC,null,2,2500,2500,2500
+Andhra Pradesh,Ananthapuramu,Singanamala APMC,Groundnut,2,8500,8500,8500
+Haryana,Rewari,Rewari APMC,Onion,3,3666.67,3500,4000
+Punjab,Sangrur,Lehra Gaga APMC,Potato,1,630.77,630.77,630.77
+Tamil Nadu,Namakkal,Paramathivelur(Uzhavar Sandhai ),Potato,1,3250,3250,3250
+Uttar Pradesh,Agra,Khairagarh APMC,Potato,1,550,550,550
+Madhya Pradesh,Jhabua,Petlawad APMC,Maize,3,2749.57,2651,2798.86
+Punjab,Ludhiana,Sahnewal APMC,Onion,3,4800,4800,4800
+Tamil Nadu,Ramanathapuram,Ramanathapuram(Uzhavar Sandhai ),Soyabean,1,9250,9250,9250
+Tamil Nadu,Theni,Bodinayakanur(Uzhavar Sandhai ),Tomato,1,2600,2600,2600
+Tamil Nadu,Namakkal,Paramathivelur(Uzhavar Sandhai ),Onion,1,6400,6400,6400
+Tamil Nadu,Namakkal,Kumarapalayam(Uzhavar Sandhai ),Potato,1,3700,3700,3700
+Jammu and Kashmir,Udhampur,Fruit and Vegetable Market Udhampur,Tomato,2,2300,2300,2300
+Andhra Pradesh,Visakhapatnam,Pendurthi APMC,Paddy,2,2441,2441,2441
+Uttar Pradesh,Balrampur,Tulsipur APMC,Paddy,1,1900,1900,1900
+Tamil Nadu,Erode,Sampath Nagar(Uzhavar Sandhai ),Onion,1,6300,6300,6300
+Tamil Nadu,Pudukkottai,Ponnamaravathi(Uzhavar Sandhai),Onion,1,7750,7750,7750
+Tamil Nadu,Thiruvallur,Ambattur(Uzhavar Sandhai ),Onion,1,5500,5500,5500
+Tamil Nadu,Erode,Gobichettipalayam(Uzhavar Sandhai ),Potato,1,4100,4100,4100
+Tamil Nadu,Salem,Hasthampatti(Uzhavar Sandhai ),Tomato,1,2200,2200,2200
+Gujarat,Sabarkantha,Modasa APMC,Maize,2,2810,2810,2810
+Madhya Pradesh,Datia,Bhander APMC,Paddy,1,4100,4100,4100
+Tamil Nadu,Theni,Andipatti(Uzhavar Sandhai ),Onion,1,6300,6300,6300
+Uttar Pradesh,Shamli,Kairana APMC,Potato,1,600,600,600
+Tamil Nadu,The Nilgiris,Coonoor(Uzhavar Sandhai ),Tomato,1,3400,3400,3400
+Tamil Nadu,Thirupathur,Natrampalli(Uzhavar Sandhai ),Tomato,1,2750,2750,2750
+Madhya Pradesh,Rewa,Rewa APMC,Wheat,2,2660,2660,2660
+Madhya Pradesh,Bhind,Gohad APMC,Wheat,1,2510,2510,2510
+Uttar Pradesh,Jalaun (Orai),Orai APMC,Wheat,1,2550,2550,2550
+Haryana,Panipat,Panipat APMC,Onion,1,2800,2800,2800
+Tamil Nadu,Chengalpet,Jameenrayapettai(Uzhavar Sandhai ),Onion,1,5500,5500,5500
+Tamil Nadu,Thiruppur,Tiruppur (North) (Uzhavar Sandhai ),Potato,1,5500,5500,5500
+Madhya Pradesh,Khandwa,Khandwa APMC,Onion,2,1500,1500,1500
+Tamil Nadu,Kancheepuram,Kundrathur(Uzhavar Sandhai ),Onion,1,5500,5500,5500
+Tamil Nadu,Thenkasi,Tenkasi(Uzhavar Sandhai ),Onion,1,5500,5500,5500
+Uttar Pradesh,Lakhimpur,Lakhimpur APMC,Potato,1,800,800,800
+Madhya Pradesh,Jabalpur,Paatan (F&V) APMC,Tomato,1,2000,2000,2000
+Maharashtra,Pune,APMC Pune,Tomato,1,900,900,900
+Odisha,Balasore,Nilagiri APMC,Tomato,1,4300,4300,4300
+Madhya Pradesh,Sheopur,Vijaypur APMC,Bajra,1,2460,2460,2460
+Gujarat,Surat,Surat APMC,Onion,3,3541.67,3525,3550
+Tamil Nadu,Thiruchirappalli,Manapparai(Uzhavar Sandhai ),Tomato,1,2400,2400,2400
+Uttar Pradesh,Etah,Etah APMC,Bajra,2,2400,2400,2400
+Andhra Pradesh,Tirupathi,Sullurpet APMC,null,3,2440,2440,2440
+Andhra Pradesh,Sri Sathya Sai,Puttaparthi  APMC,Groundnut,3,6600,6600,6600
+Gujarat,Junagarh,Visavadar APMC,Groundnut,2,7615,7615,7615
+Andhra Pradesh,Palnadu,Macharla APMC,null,3,3150,3150,3150
+Telangana,Nagarkurnool,Nagarkurnool APMC,Groundnut,2,8529,8529,8529
+Karnataka,Haveri,Ranebennur APMC,Safflower,2,6050,6050,6050
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Moong,2,8750,8750,8750
+Uttar Pradesh,Fatehpur,Kishunpur APMC,Paddy,3,2000,2000,2000
+Andhra Pradesh,Visakhapatnam,Bhimunipatnam APMC,Ragi,3,5000,5000,5000
+Andhra Pradesh,Palnadu,Durgi APMC,Cotton,3,8000,8000,8000
+Himachal Pradesh,Kangra,SMY Palampur,Onion,3,5100,5100,5100
+Tamil Nadu,Ranipet,Ranipettai(Uzhavar Sandhai ),Potato,1,3000,3000,3000
+Maharashtra,Akola,APMC Akola,Wheat,2,3347.5,3347.5,3347.5
+Andhra Pradesh,Palnadu,Narasaraopet APMC,Urad,2,9000,9000,9000
+Bihar,Banka,Barahat APMC,Onion,3,5500,5500,5500
+Chattisgarh,Balrampur,Rajpur APMC,Maize,2,2400,2400,2400
+Madhya Pradesh,Vidisha,Sironj APMC,Maize,2,2800,2800,2800
+Uttar Pradesh,Varanasi,Varanasi APMC,Paddy,3,2450,2450,2450
+Rajasthan,Jaipur,Bassi APMC,Wheat,3,2708.33,2625,2750
+Telangana,Adilabad,Adilabad APMC,Cotton,3,8910,8910,8910
+Telangana,Rajanna Siricilla,Vemulawada APMC,Cotton,2,8667,8667,8667
+Punjab,Hoshiarpur,Tanda Urmur APMC,Onion,3,5007.84,4911.76,5200
+Uttar Pradesh,Aligarh,Charra APMC,Paddy,1,3623.93,3623.93,3623.93
+Uttar Pradesh,Bahraich,Rupaidiha APMC,Paddy,3,2048.7,1903.13,2121.49
+Telangana,Rajanna Siricilla,Racharla Boppapur APMC,null,1,2500,2500,2500
+Gujarat,Jamnagar,Jamnagar APMC,Wheat,2,3125,3125,3125
+Assam,Kamrup,Fancy Bazaar APMC,Masoor,3,10635.07,10624,10657.21
+Haryana,Sonipat,Gohana APMC,Potato,2,900,900,900
+Odisha,Sonepur,Pandkital APMC,Tomato,2,2800,2800,2800
+West Bengal,Sounth 24 Parganas,Baruipur(Canning) APMC,Tomato,2,2600,2600,2600
+Madhya Pradesh,Betul,Bhensdehi APMC,Maize,2,2657.48,2657.48,2657.48
+Telangana,Adilabad,Boath APMC,Maize,3,2800,2800,2800
+Uttar Pradesh,Unnao,Unnao APMC,Paddy,3,2620.11,2451,2704.67
+Madhya Pradesh,Khargone,Karhi APMC,Soyabean,2,7050,7050,7050
+Nagaland,Mon,Mon APMC,Potato,2,1460,1460,1460
+Andhra Pradesh,Annamayya,Madanapalli APMC,Tomato,2,2200,2200,2200
+Karnataka,Chamarajanagar,Chamarajanagar APMC,Tomato,3,1866.67,1800,1900
+Andhra Pradesh,Polavaram,Rampachodvaram APMC,null,3,2379,2379,2379
+Tamil Nadu,Salem,Elampillai(Uzhavar Sandhai ),Potato,1,3100,3100,3100
+Uttar Pradesh,Banda,Baberu APMC,Paddy,3,4328.08,4312.67,4335.79
+Uttar Pradesh,Farukhabad,Farukhabad APMC,Paddy,2,3170.59,3170.59,3170.59
+Keralam,Kannur,Payyannur Market,Copra,3,14000,14000,14000
+Rajasthan,Bikaner,Sridungargarh APMC,Groundnut,3,7316.67,7250,7350
+Odisha,Sonepur,Pandkital APMC,Onion,2,5000,5000,5000
+Telangana,Hyderabad,RYTHU BAZAR MEHDIPATNAM,Potato,3,1900,1900,1900
+Andhra Pradesh,YSR Kadapa,Simhadhripuram APMC,Maize,2,2500,2500,2500
+Uttar Pradesh,Auraiya,Dibiapur APMC,Maize,2,2400,2400,2400
+Madhya Pradesh,Bhind,Mow APMC,Paddy,2,3500,3500,3500
+Uttar Pradesh,Azamgarh,Azamgarh APMC,Paddy,3,2510.67,2441,2650
+Madhya Pradesh,Sagar,Sagar APMC,Wheat,2,2690,2690,2690
+Uttar Pradesh,Deoria,Devariya APMC,Maize,1,2200,2200,2200
+Gujarat,Chhota Udaipur,Modasar APMC,Cotton,3,8650,8550,8700
+Tamil Nadu,Madurai,Palanganatham(Uzhavar Sandhai ),Onion,1,5250,5250,5250
+Punjab,Ludhiana,Samrala APMC,Potato,1,700,700,700
+Tamil Nadu,Virudhunagar,Thalavaipuram(Uzhavar Sandhai ),Potato,1,3150,3150,3150
+Madhya Pradesh,Bhind,Lahar APMC,Wheat,2,2550,2550,2550
+Madhya Pradesh,Umariya,Umariya APMC,Wheat,2,2560,2560,2560
+Madhya Pradesh,Narmadapuram,Banapura APMC,Soyabean,2,7000,7000,7000
+Maharashtra,Nashik,Lasalgaon(Vinchur),Maize,2,3050,3050,3050
+Uttar Pradesh,Pillibhit,Puranpur APMC,Paddy,2,1900,1900,1900
+Telangana,Bhadradri Kothagudem,Nuguru Charla APMC,null,3,2700,2700,2700
+Gujarat,Jamnagar,Dhrol APMC,Sesamum,2,14000,14000,14000
+Karnataka,Koppal,Kanakagiri APMC,Bajra,1,3250,3250,3250
+Odisha,Jharsuguda,Jharsuguda APMC,Potato,1,1800,1800,1800
+Tamil Nadu,Pudukkottai,Ponnamaravathi(Uzhavar Sandhai),Tomato,1,2750,2750,2750
+Tripura,South Tripura,Manubazar,Tomato,1,6900,6900,6900
+Uttar Pradesh,Hardoi,Sandila APMC,Paddy,3,1982.18,1878.8,2033.87
+Punjab,Sangrur,Dhuri APMC,Potato,2,580,580,580
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Groundnut,2,6844.02,6844.02,6844.02
+Maharashtra,Dharashiv,APMC Murum,Sunflower,2,5501,5501,5501
+Andhra Pradesh,Eluru,Ungatur APMC,Paddy,1,2445,2445,2445
+Andhra Pradesh,Ananthapuramu,Urvakonda APMC,Gram,1,7000,7000,7000
+Tamil Nadu,Dindigul,Chinnalapatti(Uzhavar Sandhai ),Potato,1,5500,5500,5500
+Odisha,Kalahandi,Bhawanipatna APMC,Tomato,1,3500,3500,3500
+Tamil Nadu,Kallakurichi,Kallakurichi(Uzhavar Sandhai ),Tomato,1,2800,2800,2800
+Tamil Nadu,Salem,Thammampatti (Uzhavar Sandhai ),Tomato,1,2250,2250,2250
+Uttar Pradesh,Badaun,Ujhani APMC,Bajra,2,2400,2400,2400
+Maharashtra,Akola,APMC Akola,Jowar,2,2650,2650,2650
+Gujarat,Rajkot,JASDAN APMC,Mustard,2,8000,8000,8000
+Himachal Pradesh,Mandi,SMY Jogindernagar,Potato,2,1600,1600,1600
+Madhya Pradesh,Rajgarh,Jeerapur (F&V) APMC,Tomato,3,7.67,7,8
+Gujarat,Bhavnagar,Taleja APMC,Tur,2,7050,7050,7050
+Punjab,Ludhiana,Machhiwara APMC,Onion,2,4300,4300,4300
+Uttar Pradesh,Gonda,Nawabganj APMC,Onion,2,3000,3000,3000
+Madhya Pradesh,Narsinghpur,Gadarwada (F&V) APMC,Potato,2,1150,1150,1150
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Tomato,2,1600,1600,1600
+Tamil Nadu,Karur,Kulithalai(Uzhavar Sandhai ),Tomato,1,3100,3100,3100
+Gujarat,Rajkot,Jasdan(Vichhiya) APMC,Cotton,2,9200,9200,9200
+Maharashtra,Chattrapati Sambhajinagar,APMC Paithan,Bajra,2,3050,3050,3050
+Uttar Pradesh,Bahraich,Bahraich APMC,Paddy,3,2000,2000,2000
+Rajasthan,Alwar,Govindgarh APMC,Bajra,1,2700,2700,2700
+Uttar Pradesh,Shahjahanpur,Tilhar APMC,Paddy,1,1880,1880,1880
+Uttar Pradesh,Shravasti,Payagpur APMC,Paddy,3,1924.21,1861.3,1955.66
+Tripura,South Tripura,Barpathari APMC,Onion,1,5200,5200,5200
+Punjab,Jalandhar,Lohian Khas APMC,Tomato,1,1400,1400,1400
+Chattisgarh,Dhamtari,Kurud APMC,Paddy,2,2300,2300,2300
+Bihar,Supaul,Supaul APMC,Potato,2,1400,1400,1400
+Madhya Pradesh,Jhabua,Petlawad(F&V) APMC,Tomato,2,900,900,900
+Punjab,Ludhiana,Machhiwara APMC,Tomato,2,2000,2000,2000
+Madhya Pradesh,Balaghat,Balaghat APMC,Maize,2,2200,2200,2200
+Tamil Nadu,Mayiladuthurai,Mayiladuthurai(Uzhavar Sandhai ),Onion,1,4750,4750,4750
+Tamil Nadu,Karur,Karur(Uzhavar Sandhai ),Potato,1,7250,7250,7250
+Tamil Nadu,Pudukkottai,Pudukottai(Uzhavar Sandhai ),Tomato,1,2750,2750,2750
+Gujarat,Sabarkantha,Modasa APMC,Wheat,2,3105,3105,3105
+Gujarat,Amreli,Babra APMC,Cotton,2,9100,9100,9100
+Bihar,Supaul,Birpur APMC,Potato,2,1800,1800,1800
+Rajasthan,Jhunjhunu,Nawalgarh APMC,Onion,2,4180,4180,4180
+Tamil Nadu,Madurai,Anna nagar(Uzhavar Sandhai ),Groundnut,1,7500,7500,7500
+Tamil Nadu,Theni,Bodinayakanur(Uzhavar Sandhai ),Onion,1,6600,6600,6600
+Tamil Nadu,Thiruchirappalli,Thuraiyur RM,Potato,1,2750,2750,2750
+Tamil Nadu,Thiruvallur,Ambattur(Uzhavar Sandhai ),Tomato,1,3000,3000,3000
+Punjab,Fazilka,Jalalabad APMC,Paddy,2,4605.14,4605.14,4605.14
+Bihar,Vaishali,Hajipur APMC,Potato,3,1113.33,1100,1120
+Madhya Pradesh,Bhopal,Bhopal APMC,Wheat,2,2651,2651,2651
+Madhya Pradesh,Sagar,Rahatgarh APMC,Masoor,2,5840,5840,5840
+Tamil Nadu,Ranipet,Arcot(Uzhavar Sandhai ),Tur,1,6000,6000,6000
+Tamil Nadu,Dharmapuri,A.Jattihalli(Uzhavar Sandhai ),Potato,1,2900,2900,2900
+Tamil Nadu,Dindigul,Dindigul(Uzhavar Sandhai ),Potato,1,5500,5500,5500
+Tamil Nadu,Madurai,Chokkikulam(Uzhavar Sandhai ),Potato,1,5300,5300,5300
+Tamil Nadu,Thiruvannamalai,Vandavasi(Uzhavar Sandhai ),Potato,1,4400,4400,4400
+Tamil Nadu,Chengalpet,Pallavaram(Uzhavar Sandhai ),Tomato,1,3250,3250,3250
+Tamil Nadu,Chengalpet,Thirukalukundram(Uzhavar Sandhai ),Tomato,1,4000,4000,4000
+Tamil Nadu,Pudukkottai,Viralimalai(Uzhavar Sandhai ),Tomato,1,2750,2750,2750
+Madhya Pradesh,Raisen,Obedullaganj APMC,Wheat,2,2700,2700,2700
+Tamil Nadu,Sivagangai,Sivagangai (Uzhavar Sandhai ),Potato,1,5500,5500,5500
+Rajasthan,Jaipur,Bassi APMC,Barley,3,2617.67,2480,2893
+Telangana,Suryapet,Neredcherla APMC,null,2,3200,3200,3200
+Punjab,Sangrur,Ahmedgarh APMC,Tomato,2,3050,3050,3050
+Telangana,Rajanna Siricilla,Pothgal APMC,null,1,2500,2500,2500
+Tamil Nadu,Coimbatore,Vadavalli(Uzhavar Sandhai ),Onion,1,5550,5550,5550
+Tamil Nadu,Cuddalore,Vadalur(Uzhavar Sandhai ),Onion,1,4500,4500,4500
+Tamil Nadu,Tirunelveli,Palayamkottai(Uzhavar Sandhai ),Onion,1,5750,5750,5750
+Tamil Nadu,Ariyalur,Ariyalur(Uzhavar Sandhai),Tomato,1,3900,3900,3900
+Tamil Nadu,Namakkal,Thiruchengodu RM,Tomato,1,2800,2800,2800
+Tamil Nadu,Vellore,Gudiyatham(Uzhavar Sandhai ),Tomato,1,2000,2000,2000
+Maharashtra,Jalna,APMC BHOKARDAN,Wheat,2,2800,2800,2800
+Tamil Nadu,Salem,Vazhapadi(Uzhavar Sandhai),Potato,1,3400,3400,3400
+Tamil Nadu,Virudhunagar,Rajapalayam(Uzhavar Sandhai ),Potato,1,3250,3250,3250
+Tamil Nadu,Kannyiakumari,Vadaseri RM,Tomato,1,3750,3750,3750
+Tamil Nadu,Thenkasi,Sankarankoil(Uzhavar Sandhai ),Tomato,1,3250,3250,3250
+Maharashtra,Jalgaon,APMC Jalgaon,Soyabean,2,7050,7050,7050
+Uttar Pradesh,Jalaun (Orai),Konch APMC,Wheat,2,2550,2550,2550
+Madhya Pradesh,Jhabua,Petlawad APMC,Soyabean,2,6858.31,6858.31,6858.31
+Rajasthan,Bundi,Keshoraipatan APMC,Maize,1,2800,2800,2800
+West Bengal,Murshidabad,Jiaganj APMC,Paddy,1,2400,2400,2400
+Tamil Nadu,Karur,Gandhigramam(Uzhavar Sandhai),Onion,1,6750,6750,6750
+Assam,Nagaon,Doomdumia APMC,Potato,1,1900,1900,1900
+Madhya Pradesh,Shivpuri,Shivpuri(F&V) APMC,Tomato,1,1500,1500,1500
+Tamil Nadu,Ranipet,Ranipettai(Uzhavar Sandhai ),Tomato,1,2150,2150,2150
+Madhya Pradesh,Satna,Satna APMC,Mustard,3,8000,8000,8000
+Uttar Pradesh,Shamli,Kairana APMC,Onion,1,2000,2000,2000
+Haryana,Sonipat,Ganaur APMC,Potato,3,1200,1200,1200
+Odisha,Rayagada,Gunpur APMC,Tomato,3,3200,2400,4800
+Punjab,Sangrur,Sangrur APMC,Tomato,1,1500,1500,1500
+Tamil Nadu,Thiruchirappalli,Thuraiyur RM,Tomato,1,2200,2200,2200
+Madhya Pradesh,Betul,Multai APMC,Maize,2,2860,2860,2860
+Uttar Pradesh,Hardoi,Madhoganj APMC,Paddy,3,1956.72,1870.15,2000
+Uttar Pradesh,Raebarelli,Lalganj APMC,Paddy,2,2500.8,2500.8,2500.8
+Gujarat,Surendranagar,Dhragradhra APMC,Sesamum,2,15255,15255,15255
+Bihar,Arwal,Arwal APMC,Onion,3,5533.33,5400,5600
+Haryana,Sirsa,Sirsa APMC,Onion,2,3800,3800,3800
+Maharashtra,Nagpur,APMC Nagpur,Potato,2,1025,1025,1025
+Punjab,Gurdaspur,Dinanagar APMC,Potato,3,1100,1100,1100
+Keralam,Alappuzha,Alappuzha Market,Tomato,2,4000,4000,4000
+Andhra Pradesh,YSR Kadapa,Mydukur APMC,Paddy,3,3400,3400,3400
+Karnataka,Mandya,Mandya APMC,Paddy,2,2000,2000,2000
+Telangana,Bhadradri Kothagudem,Bhadrachalam APMC,null,3,3470.59,3411.76,3500
+Gujarat,Gir Somnath,Veraval APMC,Soyabean,3,7108.33,7015,7155
+Madhya Pradesh,Indore,Indore APMC,Soyabean,3,6985,6755,7100
+Madhya Pradesh,Rajgarh,Pachaur APMC,Soyabean,2,7145.4,7145.4,7145.4
+Haryana,Rewari,Rewari APMC,Potato,3,1133.33,1000,1200
+Andhra Pradesh,Nandyal,Koilkunta APMC,Jowar,3,3700,3700,3700
+Uttar Pradesh,Badaun,Badayoun APMC,Paddy,1,3252.3,3252.3,3252.3
+Madhya Pradesh,Dhar,Dhar APMC,Wheat,1,2810,2810,2810
+Tamil Nadu,Namakkal,Mohanur(Uzhavar Sandhai ),Onion,1,6650,6650,6650
+Tamil Nadu,Pudukkottai,Gandarvakottai(Uzhavar Sandhai ),Onion,1,6500,6500,6500
+Tamil Nadu,Dindigul,Chinnalapatti(Uzhavar Sandhai ),Tomato,1,2750,2750,2750
+Uttar Pradesh,Shahjahanpur,Powayan APMC,Wheat,2,2508.77,2508.77,2508.77
+Telangana,Adilabad,Jainath APMC,Cotton,2,8800,8800,8800
+Rajasthan,Jodhpur,Osiyan Mathania APMC,Groundnut,3,7566.67,7500,7600
+Maharashtra,Dharashiv,APMC Umarga,Soyabean,2,7100,7100,7100
+Haryana,Yamuna Nagar,Jagadhri APMC,Onion,2,3400,3400,3400
+Madhya Pradesh,Narmadapuram,Babai (Makhan Nagar) APMC,Paddy,2,4438.99,4438.99,4438.99
+Gujarat,Bhavnagar,Taleja APMC,Wheat,2,3015,3015,3015
+Gujarat,Junagarh,Visavadar APMC,Wheat,2,2640,2640,2640
+Madhya Pradesh,Alirajpur,Alirajpur APMC,Wheat,2,2600,2600,2600
+Andhra Pradesh,Bapatla,Bapatla APMC,Groundnut,2,7750,7750,7750
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Soyabean,2,6755,6755,6755
+Gujarat,Jamnagar,Jamnagar APMC,Gram,2,7425,7425,7425
+Odisha,Bolangir,Tusura APMC,Potato,2,1400,1400,1400
+Uttar Pradesh,Barabanki,Barabanki APMC,Potato,3,600,600,600
+Uttar Pradesh,Mathura,Kosikalan APMC,Potato,3,600,600,600
+Punjab,Fatehgarh,Bassi Pathana APMC,Tomato,2,2100,2100,2100
+Tamil Nadu,Kallakurichi,Kallakurichi RM,Maize,1,3049.5,3049.5,3049.5
+Tamil Nadu,Salem,Ammapet(Uzhavar Sandhai ),Onion,1,6250,6250,6250
+Tamil Nadu,Dindigul,Palani(Uzhavar Sandhai ),Tomato,1,2000,2000,2000
+Tamil Nadu,Salem,Athur(Uzhavar Sandhai ),Tomato,1,2250,2250,2250
+Uttar Pradesh,Hardoi,Hardoi APMC,Maize,2,2800,2800,2800
+Punjab,Bhatinda,Bhagta Bhai Ka (Jalal) APMC,Paddy,2,2461,2461,2461
+Rajasthan,Jaipur,Bassi APMC,Gram,3,7250,6860,7445
+Punjab,Gurdaspur,Gurdaspur APMC,Onion,2,4600,4600,4600
+Uttar Pradesh,Farukhabad,Farukhabad APMC,Onion,2,3509.09,3509.09,3509.09
+Haryana,Kurukshetra,Thanesar APMC,Potato,2,1850,1850,1850
+Maharashtra,Mumbai,Mumbai-Onion & Potato Market,Potato,2,1050,1050,1050
+Andhra Pradesh,Vijayanagaram,Chipurupalli APMC,Maize,3,4800,4800,4800
+Gujarat,Dahod,Zalod(Sanjeli) APMC,Paddy,3,2950,2950,2950
+Uttar Pradesh,Fatehpur,Fatehpur APMC,Paddy,3,2380.49,2182.61,2479.43
+Madhya Pradesh,Rajgarh,Pachaur APMC,Wheat,2,2713.36,2713.36,2713.36
+Telangana,Khammam,Enkoor APMC,Cotton,2,8500,8500,8500
+Madhya Pradesh,Mandsaur,Garoth APMC,Groundnut,2,6350,6350,6350
+Keralam,Ernakulam,Angamaly Market,Onion,2,6000,6000,6000
+Maharashtra,Ahilyanagar,APMC Rahata,Potato,3,1100,1100,1100
+Madhya Pradesh,Dhar,Kukshi(F&V) APMC,Tomato,1,1300,1300,1300
+Tamil Nadu,Kancheepuram,Sunguvarchatram(Uzhavar Sandhai ),Tomato,1,3100,3100,3100
+Tamil Nadu,Karur,Velayuthampalayam(Uzhavar Sandhai ),Tomato,1,3000,3000,3000
+Tamil Nadu,Krishnagiri,Denkanikottai(Uzhavar Sandhai ),Tomato,1,1750,1750,1750
+Tamil Nadu,Thirupathur,Thirupathur RM,Tomato,1,3000,3000,3000
+Madhya Pradesh,Guna,Aron APMC,Maize,3,2406.67,2300,2620
+Andhra Pradesh,Anakapally,Chodavaram APMC,Paddy,3,2400,2400,2400
+Punjab,Patiala,Rajpura APMC,Paddy,2,4300,4300,4300
+Uttar Pradesh,Kannuj,Kannauj APMC,Paddy,3,2000,2000,2000
+Maharashtra,Nanded,APMC Kinwat,Cotton,2,8910,8910,8910
+Haryana,Rohtak,Meham,Onion,3,4133.33,4000,4200
+Jammu and Kashmir,Udhampur,Fruit and Vegetable Market Udhampur,Onion,2,4800,4800,4800
+Andhra Pradesh,Parvathipuram Manyam,Palakonda APMC,Paddy,3,2460.33,2460,2461
+Uttar Pradesh,Chitrakut,Karvi APMC,Paddy,3,4251.79,4193.91,4367.55
+Gujarat,Jamnagar,Kalawad APMC,Groundnut,2,7525,7525,7525
+Gujarat,Rajkot,Rajkot APMC,Gram,2,8733.33,8733.33,8733.33
+Bihar,Buxar,Buxur APMC,Potato,3,1185,1185,1185
+Rajasthan,Jhunjhunu,Surajgarh APMC,Bajra,3,2765,2760,2775
+Tamil Nadu,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Tomato,1,2900,2900,2900
+Tamil Nadu,Erode,Gobichettipalayam(Uzhavar Sandhai ),Tomato,1,2750,2750,2750
+Tamil Nadu,Thiruchirappalli,Lalgudi(Uzhavar Sandhai ),Tomato,1,2400,2400,2400
+Tamil Nadu,Thiruvallur,Naravarikuppam(Uzhavar Sandhai ),Tomato,1,3000,3000,3000
+Telangana,Khammam,"Pavilion Ground,Khammam,RBZ",Tomato,1,3600,3600,3600
+Uttar Pradesh,Agra,Khairagarh APMC,Tomato,1,2050,2050,2050
+Madhya Pradesh,Seoni,Chhpara APMC,Maize,3,2607.26,2606.19,2607.8
+Andhra Pradesh,Prakasam,Kandukur APMC,Paddy,3,2500,2500,2500
+Haryana,Sirsa,Sirsa APMC,Potato,2,500,500,500
+Telangana,Nirmal,Bhainsa APMC,Maize,2,3021,3021,3021
+Madhya Pradesh,Narmadapuram,Narmadapuram APMC,Paddy,2,4760,4760,4760
+Gujarat,Surendranagar,Dhragradhra APMC,Groundnut,2,8200,8200,8200
+Gujarat,Morbi,Vankaner APMC,Gram,2,6705,6705,6705
+Gujarat,Dahod,Dahod(Veg. Market) APMC,Onion,2,4500,4500,4500
+Maharashtra,Nagpur,APMC Kamthi,Tomato,2,2350,2350,2350
+Uttar Pradesh,Raebarelli,Salon APMC,Paddy,1,2505.87,2505.87,2505.87
+Uttar Pradesh,Unnao,Purwa APMC,Paddy,1,3857.54,3857.54,3857.54
+Tamil Nadu,Pudukkottai,Aranthangi(Uzhavar Sandhai ),Onion,1,6500,6500,6500
+Tamil Nadu,Theni,Bodinayakanur(Uzhavar Sandhai ),Potato,1,3000,3000,3000
+Telangana,Mahbubnagar,Devarakadra APMC,Paddy,2,3100,3100,3100
+Madhya Pradesh,Alirajpur,Alirajpur APMC,Cotton,3,8600,8600,8600
+Madhya Pradesh,Sagar,Sagar APMC,Soyabean,2,7118.5,7118.5,7118.5
+Maharashtra,Satara,APMC Patan,Tomato,2,1450,1450,1450
+Andhra Pradesh,West Godavari,Attili APMC,Paddy,3,2369,2369,2369
+Madhya Pradesh,Khargone,Segaon APMC,Cotton,2,8550,8550,8550
+Maharashtra,Akola,APMC Akola,Potato,2,900,900,900
+Maharashtra,Sangli,"Sangli(Phale, Bhajipala Market)",Potato,2,1300,1300,1300
+Tamil Nadu,Salem,Athur(Uzhavar Sandhai ),Potato,1,5750,5750,5750
+Odisha,Nayagarh,Sarankul APMC,Tomato,1,2500,2500,2500
+Madhya Pradesh,Ratlam,Taal APMC,Maize,2,2900,2900,2900
+Keralam,Ernakulam,Perumbavoor Market,Onion,3,6000,6000,6000
+Madhya Pradesh,Gwalior,Lashkar APMC,Bajra,2,2650,2650,2650
+Uttar Pradesh,Kanpur Dehat,Rura APMC,Paddy,2,2441.67,2441.67,2441.67
+Telangana,Peddapalli,Dharmaram APMC,null,3,3000,3000,3000
+West Bengal,Nadia,Chakdah APMC,Onion,2,5100,5100,5100
+Keralam,Kollam,Anchal Market,Potato,3,4600,4600,4600
+Tamil Nadu,Vellore,Vellore RM,Groundnut,1,8000,8000,8000
+Tamil Nadu,Coimbatore,Kurichi(Uzhavar Sandhai ),Onion,1,5750,5750,5750
+Tamil Nadu,Dharmapuri,Karimangalam(Uzhavar Sandhai),Onion,1,5750,5750,5750
+Tamil Nadu,Theni,Kambam(Uzhavar Sandhai ),Onion,1,6000,6000,6000
+Punjab,Muktsar,Malout APMC,Tomato,1,1200,1200,1200
+Tamil Nadu,Madurai,Chokkikulam(Uzhavar Sandhai ),Tomato,1,2200,2200,2200
+Madhya Pradesh,Sagar,Rahatgarh APMC,Wheat,2,2600,2600,2600
+Madhya Pradesh,Shivpuri,Karera APMC,Groundnut,2,6700,6700,6700
+Rajasthan,Tonk,Malpura APMC,Groundnut,2,6300,6300,6300
+Uttar Pradesh,Jalaun (Orai),Orai APMC,Sesamum,2,10000,10000,10000
+Andhra Pradesh,East Godavari,Gopalapuram APMC,Maize,3,2413.33,2410,2415
+West Bengal,Medinipur(E),Tamluk (Medinipur E) APMC,Onion,2,4000,4000,4000
+Andhra Pradesh,Ananthapuramu,RAYADURG APMC,Maize,3,2600,2600,2600
+Tamil Nadu,Pudukkottai,Karambakkudi(Uzhavar Sandhai ),Onion,1,7500,7500,7500
+Tamil Nadu,The Nilgiris,Coonoor(Uzhavar Sandhai ),Onion,1,6250,6250,6250
+Uttar Pradesh,Sitapur,Sitapur APMC,Potato,1,800,800,800
+Tamil Nadu,Chengalpet,Medavakkam(Uzhavar Sandhai ),Tomato,1,2250,2250,2250
+Madhya Pradesh,Indore,Indore APMC,Gram,2,7649.99,7649.99,7649.99
+Keralam,Alappuzha,Cherthala Market,Tomato,3,3366.67,3300,3400
+Punjab,Patiala,Rajpura APMC,Onion,2,3600,3600,3600
+Tamil Nadu,Villupuram,Villupuram(Uzhavar Sandhai ),Potato,1,5000,5000,5000
+Gujarat,Jamnagar,Kalawad APMC,Cotton,2,9225,9225,9225
+Uttar Pradesh,Chitrakut,Mau(Chitrakut) APMC,Paddy,1,3000,3000,3000
+Himachal Pradesh,Kangra,SMY Dharamshala,Onion,1,4900,4900,4900
+Tamil Nadu,Thiruppur,Udumalpettai RM,Onion,1,6500,6500,6500
+Tamil Nadu,Chengalpet,Madhuranthagam(Uzhavar Sandhai ),Tomato,1,4000,4000,4000
+Tamil Nadu,Salem,Mecheri(Uzhavar Sandhai),Tomato,1,2250,2250,2250
+Uttar Pradesh,Etah,Aliganj APMC,Wheat,1,2600,2600,2600
+Tamil Nadu,Salem,Mettur(Uzhavar Sandhai ),Onion,1,6000,6000,6000
+Odisha,Sambalpur,Rairakhol APMC,Potato,1,1400,1400,1400
+Tamil Nadu,Karur,Gandhigramam(Uzhavar Sandhai),Potato,1,6250,6250,6250
+Tamil Nadu,Kancheepuram,Kundrathur(Uzhavar Sandhai ),Tomato,1,3100,3100,3100
+Tamil Nadu,Thiruvannamalai,Tamarainagar(Uzhavar Sandhai ),Tomato,1,1800,1800,1800
+Madhya Pradesh,Morena,Banmorkalan APMC,Bajra,2,2550,2550,2550
+Maharashtra,Amarawati,APMC Morshi,Soyabean,2,6920,6920,6920
+Uttar Pradesh,Etawah,Bharthna APMC,Paddy,2,2824.58,2824.58,2824.58
+Himachal Pradesh,Kangra,SMY Baijnath,Tomato,1,2800,2800,2800
+Tamil Nadu,Theni,Periyakulam(Uzhavar Sandhai ),Tomato,1,2500,2500,2500
+Tamil Nadu,Kannyiakumari,Vadaseri RM,Groundnut,1,6750,6750,6750
+Tamil Nadu,Salem,Vazhapadi(Uzhavar Sandhai),Onion,1,6400,6400,6400
+Tamil Nadu,Vellore,Perampet(Uzhavar Sandhai),Groundnut,1,6750,6750,6750
+Tamil Nadu,Villupuram,Tindivanam RM,Onion,1,6000,6000,6000
+Tamil Nadu,Virudhunagar,Aruppukottai(Uzhavar Sandhai ),Onion,1,5750,5750,5750
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Potato,1,850,850,850
+Tamil Nadu,Thanjavur,Thanjavur(Uzhavar Sandhai ),Potato,1,5000,5000,5000
+Maharashtra,Buldhana,APMC Deoulgaon Raja,Maize,2,3101,3101,3101
+Bihar,Sitamarhi,Sitamarhi APMC,Potato,1,1250,1250,1250
+Odisha,Angul,Angaura APMC,Potato,1,1200,1200,1200
+Punjab,Hoshiarpur,Garh Shankar APMC,Tomato,1,2500,2500,2500
+Tamil Nadu,Kallakurichi,Chinnasalem RM,Maize,1,2986,2986,2986
+Tamil Nadu,Thiruvannamalai,Tiruvannamalai(Uzhavar Sandhai ),Onion,1,5500,5500,5500
+Maharashtra,Pune,Pune(Moshi),Potato,3,1233.33,1100,1300
+Madhya Pradesh,Gwalior,Lashkar APMC,Jowar,2,2480,2480,2480
+Madhya Pradesh,Alirajpur,Alirajpur APMC,Groundnut,2,8050,8050,8050
+Maharashtra,Nanded,APMC Mudkhed,Soyabean,2,6930,6930,6930
+Madhya Pradesh,Chhindwara,Chaurai APMC,Maize,3,2514.81,2366.34,2589.04
+Andhra Pradesh,Nandyal,Nandyal APMC,Maize,3,2430,2420,2450
+Tamil Nadu,Cuddalore,Cuddalore(Uzhavar Sandhai ),Groundnut,1,8000,8000,8000
+Tamil Nadu,Mayiladuthurai,Sirkali(Uzhavar Sandhai ),Groundnut,1,5750,5750,5750
+Punjab,Hoshiarpur,Tanda Urmur APMC,Potato,3,900,900,900
+Andhra Pradesh,Bapatla,Parchur APMC,Paddy,2,2800,2800,2800
+Madhya Pradesh,Mandsaur,Bhanpura APMC,Wheat,2,2768.41,2768.41,2768.41
+Gujarat,Sabarkantha,APMCKHEDBRAHMA,Cotton,2,8912,8912,8912
+Gujarat,Banaskanth,Lakhani APMC,Groundnut,2,6902,6902,6902
+Haryana,Rewari,Rewari APMC,Tomato,3,1300,1200,1500
+Madhya Pradesh,Dhar,Dhar APMC,Maize,2,2800,2800,2800
+Uttar Pradesh,Jhansi,Moth APMC,Paddy,3,4213.92,4183.97,4273.83
+Andhra Pradesh,Palnadu,Narasaraopet APMC,Gram,2,8000,8000,8000
+Maharashtra,Sangli,APMC Vita,Onion,2,4500,4500,4500
+Telangana,Mahbubnagar,Mahabubnagar(Rythu Bazar),Potato,3,3000,3000,3000
+Uttar Pradesh,Aligarh,Aligarh APMC,Tomato,2,1500,1500,1500
+Assam,Kamrup,Pamohi(Garchuk) APMC,Onion,3,5352.38,5352.38,5352.38
+Tamil Nadu,Kannyiakumari,Myladi(Uzhavar Sandhai ),Onion,1,6750,6750,6750
+Tamil Nadu,Thiruchirappalli,Manachanallur(Uzhavar Sandhai ),Onion,1,6500,6500,6500
+Haryana,Gurgaon,Gurgaon APMC,Potato,1,1000,1000,1000
+Tamil Nadu,Salem,Jalagandapuram(Uzhavar Sandhai ),Potato,1,3200,3200,3200
+Himachal Pradesh,Kangra,SMY Nagrota Bagwan,Tomato,1,2800,2800,2800
+Madhya Pradesh,Mandla,Mandla APMC,Paddy,2,2170.06,2170.06,2170.06
+Uttar Pradesh,Jaunpur,Mugrabaadshahpur APMC,Paddy,2,2600,2600,2600
+Gujarat,Amreli,APMC Bagasara,Sesamum,2,16600,16600,16600
+Karnataka,Vijayapura,Talikot APMC,Maize,2,3170,3170,3170
+Maharashtra,Amarawati,APMC Dharni,Maize,2,2750,2750,2750
+Madhya Pradesh,Jhabua,Jhabua APMC,Cotton,3,8900,8800,8950
+Gujarat,Rajkot,Rajkot APMC,Soyabean,2,7075,7075,7075
+Bihar,East Champaran/ Motihari,Raxaul APMC,Onion,3,4200,4200,4200
+Andhra Pradesh,Kurnool,Pattikonda APMC,Tomato,3,1400,1400,1400
+Madhya Pradesh,Badwani,Anjad APMC,Cotton,3,8855.29,8645.73,8960.07
+Andhra Pradesh,Parvathipuram Manyam,Palakonda APMC,Moong,3,8700,8700,8700
+Tamil Nadu,Thoothukudi,Kovilpatti(Uzhavar Sandhai ),Onion,1,6750,6750,6750
+Tamil Nadu,Virudhunagar,Virudhunagar(Uzhavar Sandhai ),Onion,1,6700,6700,6700
+West Bengal,Darjeeling,Darjeeling APMC,Potato,3,1400,1400,1400
+Gujarat,Gir Somnath,Talalagir APMC,Tomato,1,450,450,450
+Bihar,Jamui,Sikandara APMC,Potato,3,1266.67,1200,1400
+Haryana,Hissar,Hansi APMC,Potato,3,1000,1000,1000
+Telangana,Ranga Reddy,Shankarapally APMC,Tomato,2,2750,2750,2750
+Madhya Pradesh,Damoh,Damoh APMC,Paddy,2,1800,1800,1800
+Maharashtra,Mumbai,APMC Mumbai,Urad,2,10800,10800,10800
+Madhya Pradesh,Jhabua,Petlawad(F&V) APMC,Potato,2,1000,1000,1000
+Andhra Pradesh,Tirupathi,B.N.Kandriga APMC,Paddy,3,2000,2000,2000
+Uttar Pradesh,Siddharth Nagar,Naugarh APMC,Wheat,1,2800,2800,2800
+Tamil Nadu,Thiruchirappalli,Manapparai(Uzhavar Sandhai ),Onion,1,5750,5750,5750
+Haryana,Hissar,Barwala(Hisar) APMC,Potato,3,966.67,900,1000
+Tamil Nadu,Dharmapuri,Harur(Uzhavar Sandhai ),Tomato,1,2250,2250,2250
+Madhya Pradesh,Shivpuri,Karera APMC,Wheat,3,2660,2620,2680
+Uttar Pradesh,Amroha,Dhanaura APMC,Wheat,3,2617.71,2601.57,2650
+Gujarat,Dahod,Dahod APMC,Soyabean,2,7275,7275,7275
+Madhya Pradesh,Dhar,Badnawar APMC,Maize,2,2900,2900,2900
+Madhya Pradesh,Khandwa,Khandwa APMC,Maize,2,2651,2651,2651
+Punjab,Ludhiana,Hathur APMC,Paddy,2,2461,2461,2461
+Madhya Pradesh,Rewa,Chaakghat APMC,Mustard,2,7500,7500,7500
+Uttar Pradesh,Aligarh,Aligarh APMC,Onion,2,3000,3000,3000
+Haryana,Ambala,Naraingarh APMC,Potato,2,450,450,450
+Andhra Pradesh,Kakinada,Samalkot APMC,Paddy,3,2340,2340,2340
+Tamil Nadu,Kallakurichi,Sankarapuram(Uzhavar Sandhai ),Groundnut,1,6000,6000,6000
+Tamil Nadu,Ramanathapuram,Paramakudi(Uzhavar Sandhai ),Soyabean,1,9500,9500,9500
+Tamil Nadu,Salem,Thammampatti (Uzhavar Sandhai ),Onion,1,6500,6500,6500
+Tamil Nadu,Thiruppur,Dharapuram(Uzhavar Sandhai ),Onion,1,6000,6000,6000
+Punjab,Amritsar,Rayya APMC,Potato,1,710,710,710
+Tamil Nadu,Theni,Theni(Uzhavar Sandhai ),Potato,1,6500,6500,6500
+Maharashtra,Mumbai,APMC Mumbai,Maize,2,3700,3700,3700
+Andhra Pradesh,Prakasam,Addanki APMC,Paddy,3,2570,2570,2570
+Madhya Pradesh,Dhar,Manawar APMC,Wheat,2,2950,2950,2950
+Andhra Pradesh,Markapuram,Cumbum APMC,Cotton,3,8200,8200,8200
+Madhya Pradesh,Shivpuri,Pichhour APMC,Groundnut,2,2516,2516,2516
+Andhra Pradesh,Srikakulam,Hiramandalam APMC,Maize,3,2350,2350,2350
+Maharashtra,Gadchiroli,Armori(Desaiganj),Paddy,2,2763.47,2763.47,2763.47
+Madhya Pradesh,Khargone,Badwaha APMC,Wheat,2,2959,2959,2959
+Maharashtra,Nanded,APMC Bhokar,Soyabean,2,7055,7055,7055
+Madhya Pradesh,Agar Malwa,Soyatkalan APMC,Masoor,2,7304.97,7304.97,7304.97
+Haryana,Panchkula,Raipur Rani APMC,Onion,2,3000,3000,3000
+Andhra Pradesh,Annamayya,B.Kothakota H/Q Angallu,Tomato,3,1633.33,1500,1700
+Telangana,Bhupalapally,Kataram APMC,Paddy,3,2866.67,2800,3000
+Haryana,Kaithal,Dhand APMC,Onion,1,3800,3800,3800
+Tamil Nadu,Krishnagiri,Krishnagiri(Uzhavar Sandhai ),Onion,1,5750,5750,5750
+Haryana,Kaithal,Dhand APMC,Potato,1,980,980,980
+Andhra Pradesh,West Godavari,Akiveedu APMC,Paddy,3,2400,2400,2400
+Madhya Pradesh,Gwalior,Dabra APMC,Paddy,2,4086.33,4086.33,4086.33
+Gujarat,Dahod,Dahod APMC,Bajra,2,2650,2650,2650
+Rajasthan,Bikaner,Pugal Road Grain APMC,Groundnut,2,6900,6900,6900
+Madhya Pradesh,Ashoknagar,Mungawali APMC,Soyabean,2,6410,6410,6410
+Maharashtra,Amarawati,APMC Amarawati,Urad,2,8350,8350,8350
+Madhya Pradesh,Jabalpur,Paatan APMC,Maize,1,2450,2450,2450
+Uttar Pradesh,Bahraich,Risia APMC,Paddy,3,1950,1950,1950
+Bihar,Siwan,Maharjganj APMC,Potato,1,1400,1400,1400
+Punjab,Amritsar,Rayya APMC,Tomato,1,671,671,671
+Rajasthan,Tonk,Malpura APMC,Bajra,2,2545,2545,2545
+Gujarat,Bhavnagar,Taleja APMC,Cotton,2,9100,9100,9100
+Madhya Pradesh,Sheopur,Vijaypur APMC,Tur,2,7100,7100,7100
+Haryana,Sirsa,Sirsa APMC,Tomato,2,2200,2200,2200
+Andhra Pradesh,Srikakulam,Kanchili APMC,Paddy,3,2400,2400,2400
+Maharashtra,Akola,APMC Akola,Tur,2,10091.23,10091.23,10091.23
+Telangana,Hyderabad,RYTHU BAZAR MEHDIPATNAM,Onion,3,4000,4000,4000
+Keralam,Kottayam,Athirampuzha Market,Potato,2,3500,3500,3500
+Uttar Pradesh,Banda,Baberu APMC,Bajra,1,2350,2350,2350
+Telangana,Hanumakonda,Kamalapur APMC,null,1,2461,2461,2461
+Uttar Pradesh,Hamirpur,Kurara APMC,Sesamum,1,14000,14000,14000
+Tamil Nadu,Thirupathur,Thirupathur RM,Tur,1,6000,6000,6000
+Tamil Nadu,Theni,Periyakulam(Uzhavar Sandhai ),Onion,1,6300,6300,6300
+Madhya Pradesh,Indore,Indore(F&V) APMC,Tomato,2,1200,1200,1200
+Madhya Pradesh,Badwani,Sendhwa APMC,Cotton,2,9098.81,9098.81,9098.81
+Bihar,Supaul,Supaul APMC,Onion,2,4700,4700,4700
+Gujarat,Ahmedabad,Ahmedabad(Chimanbhai Patal Market Vasana) APMC,Potato,2,1400,1400,1400
+Uttar Pradesh,Mathura,Mathura APMC,Potato,3,650,600,750
+Uttar Pradesh,Varanasi,Varanasi APMC,Potato,2,800,800,800
+West Bengal,Medinipur(E),Kolaghat APMC,Potato,2,800,800,800
+Maharashtra,Dharashiv,APMC Bhoom,Wheat,2,2600,2600,2600
+Madhya Pradesh,Jhabua,Petlawad APMC,Cotton,2,8880.59,8880.59,8880.59
+Rajasthan,Beawar,Beawar APMC,Maize,1,3000,3000,3000
+Uttar Pradesh,Sant Kabir Nagar,Khalilabad APMC,Wheat,1,2530,2530,2530
+Telangana,Siddipet,Dubbak APMC,null,1,3000,3000,3000
+Andhra Pradesh,Krishna,Divi (HQ-Avanigadda) APMC,Urad,3,8966.67,8800,9300
+Odisha,Boudh,Boudh APMC,Onion,1,6000,6000,6000
+Tamil Nadu,Coimbatore,Pollachi(Uzhavar Sandhai ),Onion,1,5800,5800,5800
+Haryana,Mewat,FerozpurZirkha(Nagina) APMC,Tomato,1,1800,1800,1800
+Maharashtra,Amarawati,APMC Amarawati,Tur,2,10340,10340,10340
+West Bengal,Darjeeling,Siliguri APMC,Potato,3,570,570,570
+Uttar Pradesh,Ghaziabad,Ghaziabad APMC,Paddy,1,4894.53,4894.53,4894.53
+Tamil Nadu,Dharmapuri,Harur(Uzhavar Sandhai ),Groundnut,1,6500,6500,6500
+Tamil Nadu,Kancheepuram,Padappai(Uzhavar Sandhai ),Onion,1,5500,5500,5500
+Tamil Nadu,Thirupathur,Vaniyampadi(Uzhavar Sandhai ),Onion,1,6000,6000,6000
+Gujarat,Sabarkantha,Modasa(Tintoi) APMC,Urad,2,8350,8350,8350
+Andhra Pradesh,East Godavari,Anaparthy APMC,Paddy,2,2441,2441,2441
+Telangana,Hyderabad,RYTHU BAZAR ERRAGADDA,Tomato,2,1700,1700,1700
+Uttar Pradesh,Siddharth Nagar,Naugarh APMC,Paddy,1,2200,2200,2200
+Tamil Nadu,Thiruvallur,Ambattur(Uzhavar Sandhai ),Potato,1,3500,3500,3500
+Tamil Nadu,Virudhunagar,Srivilliputhur(Uzhavar Sandhai ),Potato,1,3250,3250,3250
+Rajasthan,Beawar,Beawar APMC,Bajra,1,2600,2600,2600
+Tamil Nadu,Chengalpet,Thirukalukundram(Uzhavar Sandhai ),Onion,1,6000,6000,6000
+Tamil Nadu,Ranipet,Arcot(Uzhavar Sandhai ),Onion,1,6250,6250,6250
+Tamil Nadu,Salem,Sooramangalam(Uzhavar Sandhai ),Onion,1,6400,6400,6400
+Tamil Nadu,Salem,Thathakapatti(Uzhavar Sandhai ),Onion,1,6650,6650,6650
+Tamil Nadu,Thanjavur,Pattukottai(Uzhavar Sandhai ),Onion,1,6000,6000,6000
+Tamil Nadu,Vellore,Kahithapattarai(Uzhavar Sandhai ),Tomato,1,2000,2000,2000
+Andhra Pradesh,Guntur,Mangalagiri APMC,Maize,1,2480,2480,2480
+Karnataka,Uttara Kannada,Haliyala APMC,Paddy,1,2950,2950,2950
+Telangana,Bhupalapally,Bhupalapally APMC,Paddy,1,3000,3000,3000
+Tamil Nadu,Ranipet,Ranipettai(Uzhavar Sandhai ),Groundnut,1,6500,6500,6500
+Tamil Nadu,Salem,Thathakapatti(Uzhavar Sandhai ),Tur,1,9500,9500,9500
+Tamil Nadu,Thoothukudi,Tuticorin(Uzhavar Sandhai ),Potato,1,3500,3500,3500
+Andhra Pradesh,NTR,Nandigama APMC,Maize,3,2363.33,2360,2370
+Maharashtra,Ahilyanagar,Karjat(Rashin),Maize,3,3000,3000,3000
+Punjab,Mansa,Mansa(Ubha Buraj Dhilwan) APMC,Paddy,1,2461,2461,2461
+Tamil Nadu,Vellore,Pallikonda(Uzhavar Sandhai),Groundnut,1,7000,7000,7000
+Tamil Nadu,Dindigul,Chinnalapatti(Uzhavar Sandhai ),Onion,1,6500,6500,6500
+Haryana,Fatehabad,Jakhal APMC,Potato,1,600,600,600
+Tamil Nadu,Salem,Jalagandapuram(Uzhavar Sandhai ),Tomato,1,2250,2250,2250
+Gujarat,Bhavnagar,Taleja APMC,Bajra,2,2865,2865,2865
+Madhya Pradesh,Dhar,Gandhwani APMC,Maize,3,2833.33,2825,2850
+Uttar Pradesh,Shahjahanpur,Jalalabad APMC,Paddy,3,3188.05,2000,3782.07
+Andhra Pradesh,NTR,Mylavaram APMC,Cotton,2,7900,7900,7900
+Haryana,Yamuna Nagar,Sadhaura APMC,Tomato,2,2000,2000,2000
+Madhya Pradesh,Ashoknagar,Isagarh APMC,Maize,2,2375,2375,2375
+Madhya Pradesh,Sagar,Gadakota APMC,Maize,2,2410,2410,2410
+Madhya Pradesh,Raisen,Raisen APMC,Wheat,2,2660,2660,2660
+Uttar Pradesh,Sitapur,Maholi APMC,Wheat,2,2553.03,2553.03,2553.03
+Karnataka,Haveri,Haveri APMC,Cotton,2,11250,11250,11250
+Punjab,Gurdaspur,Quadian APMC,Potato,2,700,700,700
+Odisha,Ganjam,Bhanjanagar APMC,Tomato,3,2433.33,2400,2500
+Tamil Nadu,Salem,Ammapet(Uzhavar Sandhai ),Tomato,1,1900,1900,1900
+Telangana,Rajanna Siricilla,Vemulawada APMC,Paddy,2,2461,2461,2461
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Onion,2,3850,3850,3850
+Haryana,Kurukshetra,Pehowa APMC,Potato,2,1000,1000,1000
+Jammu and Kashmir,Kathua,Kathua (F&V),Potato,3,1666.67,1600,1700
+Rajasthan,Ganganagar,Sriganganagar (F&V) APMC,Tomato,2,2000,2000,2000
+Maharashtra,Buldhana,APMC Deoulgaon Raja,Jowar,2,2933.5,2933.5,2933.5
+Maharashtra,Mumbai,APMC Mumbai,Jowar,2,6700,6700,6700
+Maharashtra,Satara,APMC Vaduj,Maize,2,3000,3000,3000
+Uttar Pradesh,Kanpur,Choubepur APMC,Paddy,3,2159.67,2050,2214.51
+Madhya Pradesh,Katni,Katni APMC,Wheat,2,2605,2605,2605
+Andhra Pradesh,Anakapally,Payakaraopeta APMC,null,2,2451,2451,2451
+Maharashtra,Dharashiv,APMC Tuljapur,Soyabean,2,7100,7100,7100
+Rajasthan,Churu,Sadulpur APMC,Moong,3,7250,6950,7400
+Madhya Pradesh,Indore,Indore APMC,Urad,2,9901,9901,9901
+Keralam,Kozhikode(Calicut),Perambra Market,Onion,2,5200,5200,5200
+Rajasthan,Hanumangarh,Sangriya APMC,Onion,2,3100,3100,3100
+Haryana,Kurukshetra,Thanesar APMC,Tomato,2,2500,2500,2500
+Maharashtra,Ahilyanagar,APMC Shrirampur,Tomato,3,1083.33,1000,1250
+Uttar Pradesh,Kanpur Dehat,Rura APMC,Wheat,1,2700,2700,2700
+Tamil Nadu,Thiruvannamalai,Polur(Uzhavar Sandhai ),Groundnut,1,5500,5500,5500
+Tamil Nadu,Krishnagiri,Hosur(Uzhavar Sandhai ),Potato,1,2750,2750,2750
+Punjab,Mohali,Kharar APMC,Tomato,1,3000,3000,3000
+Uttar Pradesh,Agra,Achnera APMC,Tomato,1,2000,2000,2000
+Telangana,Bhadradri Kothagudem,Burgampadu APMC,null,3,2500,2500,2500
+Keralam,Alappuzha,Kayamkulam Market,Onion,3,8023.81,7571.43,8250
+Andhra Pradesh,West Godavari,Bhimavaram APMC,Paddy,2,2360,2360,2360
+Gujarat,Jamnagar,Jamnagar APMC,Cotton,2,9425,9425,9425
+Madhya Pradesh,Rajgarh,Jeerapur APMC,Soyabean,2,7375,7375,7375
+Maharashtra,Akola,APMC Murtizapur,Gram,2,7220,7220,7220
+Keralam,Ernakulam,Angamaly Market,Potato,2,4300,4300,4300
+Maharashtra,Nagpur,APMC Nagpur,Tomato,2,1888.89,1888.89,1888.89
+Tamil Nadu,Perambalur,Perambalur(Uzhavar Sandhai ),Groundnut,1,8500,8500,8500
+Tamil Nadu,Ramanathapuram,Paramakudi(Uzhavar Sandhai ),Onion,1,6200,6200,6200
+Odisha,Bhadrak,Chandabali APMC,Potato,3,1443.33,1430,1450
+Andhra Pradesh,Chittor,Palamaner APMC,Tomato,3,1300,1300,1300
+Maharashtra,Solapur,APMC Barshi,Wheat,2,3400,3400,3400
+Gujarat,Jamnagar,Dhrol APMC,Cotton,2,8370,8370,8370
+Rajasthan,Jaipur,Bassi APMC,Groundnut,3,6327.33,6225,6532
+Gujarat,Banaskanth,Lakhani APMC,Sesamum,2,13902,13902,13902
+Maharashtra,Washim,"Krushna Krishi Bazar, Washim",Soyabean,2,6945,6945,6945
+Assam,Kamrup,Pamohi(Garchuk) APMC,Tomato,3,3133.33,3000,3200
+Haryana,Rohtak,Meham,Tomato,3,2100,2000,2300
+Andhra Pradesh,Bapatla,Repalli APMC,Paddy,3,3700,3700,3700
+Telangana,Medak,Narsapur APMC,Paddy,3,2461,2461,2461
+Madhya Pradesh,Khandwa,Khandwa APMC,Soyabean,2,6068.36,6068.36,6068.36
+Maharashtra,Mumbai,APMC Mumbai,Moong,2,12000,12000,12000
+Andhra Pradesh,Sri Sathya Sai,Dharmavaram APMC,Tur,3,8200,8200,8200
+Tamil Nadu,Ramanathapuram,Ramanathapuram(Uzhavar Sandhai ),Potato,1,4750,4750,4750
+Tamil Nadu,Salem,Hasthampatti(Uzhavar Sandhai ),Potato,1,6100,6100,6100
+Tripura,South Tripura,Barpathari APMC,Potato,1,1400,1400,1400
+Maharashtra,Akola,APMC Akola,Cotton,2,9400,9400,9400
+Maharashtra,Dharashiv,APMC Murum,Soyabean,2,7060,7060,7060
+Haryana,Faridabad,Ballabhgarh APMC,Potato,2,700,700,700
+Punjab,Gurdaspur,Dhariwal APMC,Potato,2,300,300,300
+Andhra Pradesh,YSR Kadapa,Kamalapuram APMC,Groundnut,3,8166.67,8100,8200
+Maharashtra,Nagpur,APMC Nagpur,Onion,2,3812.5,3812.5,3812.5
+Madhya Pradesh,Gwalior,Dabra(F&V) APMC,Potato,2,800,800,800
+Uttar Pradesh,Jalaun (Orai),Ait APMC,Paddy,1,3710.37,3710.37,3710.37
+Andhra Pradesh,Guntur,Mangalagiri APMC,null,1,2600,2600,2600
+Tamil Nadu,Theni,Periyakulam(Uzhavar Sandhai ),Potato,1,2900,2900,2900
+Odisha,Gajapati,Parlakhemundi APMC,Tomato,1,1500,1500,1500
+Madhya Pradesh,Harda,Harda APMC,Maize,2,2810,2810,2810
+Gujarat,Jamnagar,Dhrol APMC,Gram,2,6825,6825,6825
+Andaman and Nicobar,North and Middle Andaman,Diglipur Vegetable Market (Subhashgram),Moong,2,9500,9500,9500
+Punjab,Fatehgarh,Bassi Pathana APMC,Potato,2,500,500,500
+Uttar Pradesh,Jalaun (Orai),Kalpi APMC,Bajra,3,2500,2500,2500
+Uttar Pradesh,Sonbhadra,Dudhi APMC,Paddy,1,2445,2445,2445
+Tamil Nadu,Chengalpet,Thirukalukundram(Uzhavar Sandhai ),Potato,1,4000,4000,4000
+Tamil Nadu,Cuddalore,Chidambaram(Uzhavar Sandhai ),Potato,1,4000,4000,4000
+Tamil Nadu,Thiruvannamalai,Polur(Uzhavar Sandhai ),Potato,1,2750,2750,2750
+Tamil Nadu,Vellore,Kahithapattarai(Uzhavar Sandhai ),Potato,1,2600,2600,2600
+Uttar Pradesh,Kannuj,Kannauj APMC,Potato,3,500,500,500
+Andhra Pradesh,Bapatla,Bapatla APMC,Maize,2,2300,2300,2300
+Andhra Pradesh,Parvathipuram Manyam,Palakonda APMC,Sesamum,3,10300,10300,10300
+Madhya Pradesh,Umariya,Umariya APMC,Soyabean,2,6700,6700,6700
+Maharashtra,Washim,"Krushna Krishi Bazar, Washim",Gram,2,5700,5700,5700
+Gujarat,Bhavnagar,Taleja APMC,Moong,2,7895,7895,7895
+Uttar Pradesh,Maharajganj,Gadaura APMC,Paddy,3,2234.98,2202.47,2300
+Madhya Pradesh,Burhanpur,Burhanpur APMC,Soyabean,2,7100,7100,7100
+Bihar,Jamui,Sikandara APMC,Masoor,2,6500,6500,6500
+Tamil Nadu,Kallakurichi,Kallakurichi(Uzhavar Sandhai ),Potato,1,4000,4000,4000
+Tamil Nadu,Virudhunagar,Virudhunagar(Uzhavar Sandhai ),Potato,1,4750,4750,4750
+Gujarat,Junagarh,Visavadar APMC,Sesamum,2,15040,15040,15040
+Madhya Pradesh,Dhar,Rajgarh APMC,Maize,2,2500,2500,2500
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Onion,2,4100,4100,4100
+Telangana,Hanumakonda,"Excise Colony,RBZ",Potato,2,2800,2800,2800
+Uttar Pradesh,Hardoi,Sandila APMC,Maize,1,2250,2250,2250
+Andhra Pradesh,Srikakulam,Amadalavalasa APMC,Paddy,3,2369,2369,2369
+Gujarat,Gir Somnath,Veraval APMC,Urad,3,9608.33,9525,9650
+Tamil Nadu,Coimbatore,Sulur(Uzhavar Sandhai ),Onion,1,5650,5650,5650
+Tamil Nadu,Kancheepuram,Kancheepuram(Uzhavar Sandhai ),Onion,1,5500,5500,5500
+Tamil Nadu,Thanjavur,Papanasam(Uzhavar Sandhai ),Onion,1,6600,6600,6600
+Tamil Nadu,Pudukkottai,Karambakkudi(Uzhavar Sandhai ),Potato,1,6500,6500,6500
+Tamil Nadu,Sivagangai,Tirupatthur(Uzhavar Sandhai ),Potato,1,5900,5900,5900
+Karnataka,Belagavi,Belgaum APMC,Tomato,1,200,200,200
+Telangana,Karimnagar,V.Saidapur APMC,null,2,2451,2451,2451
+Keralam,Alappuzha,Chengannur Market,Potato,2,3000,3000,3000
+Maharashtra,Jalna,APMC Partur,Jowar,2,6000,6000,6000
+Madhya Pradesh,Khargone,Khargone APMC,Soyabean,2,6895.21,6895.21,6895.21
+Andhra Pradesh,Tirupathi,Venkatagiri APMC,null,3,2450,2450,2450
+Andhra Pradesh,Nandyal,Dhone APMC,Tur,1,8450,8450,8450
+Madhya Pradesh,Khandwa,Khandwa(F&V) APMC,Potato,1,400,400,400
+Tamil Nadu,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Potato,1,2900,2900,2900
+Telangana,Warangal,Warangal APMC,Tomato,3,1750,1750,1750
+Telangana,Nirmal,Sarangapur APMC161,Jowar,2,2230,2230,2230
+Maharashtra,Sangli,"Sangli(Phale, Bhajipala Market)",Onion,2,3500,3500,3500
+Tamil Nadu,Tiruvarur,Mannargudi I(Uzhavar Sandhai ),Potato,1,3400,3400,3400
+Tamil Nadu,Coimbatore,Mettupalayam(Uzhavar Sandhai ),Tomato,1,3200,3200,3200
+Tamil Nadu,Erode,Periyar Nagar(Uzhavar Sandhai ),Tomato,1,2200,2200,2200
+Tamil Nadu,Thiruppur,Kangayam(Uzhavar Sandhai ),Tomato,1,2650,2650,2650
+Uttar Pradesh,Badaun,Wazirganj APMC,Paddy,2,3300,3300,3300
+Odisha,Sundergarh,Sargipali APMC,Onion,3,5300,5200,5500
+Rajasthan,Ganganagar,Kesarisinghpur APMC,Cotton,2,8900,8900,8900
+Uttar Pradesh,Ghazipur,Jangipura APMC,Tomato,3,1200,1200,1200
+Tamil Nadu,Ariyalur,Ariyalur(Uzhavar Sandhai),Potato,1,3750,3750,3750
+Tamil Nadu,Coimbatore,Singanallur(Uzhavar Sandhai ),Tomato,1,2750,2750,2750
+Andhra Pradesh,Palnadu,Vinukonda APMC,Paddy,1,3450,3450,3450
+Keralam,Kannur,Kannur Market,Onion,1,5900,5900,5900
+Punjab,Hoshiarpur,Garh Shankar APMC,Onion,1,3500,3500,3500
+Tamil Nadu,Erode,Gobichettipalayam(Uzhavar Sandhai ),Onion,1,6250,6250,6250
+Tamil Nadu,Thiruchirappalli,Thiruverumbur(Uzhavar Sandhai ),Onion,1,5750,5750,5750
+Tamil Nadu,Erode,Thalavadi(Uzhavar Sandhai ),Potato,1,3750,3750,3750
+Tamil Nadu,Tiruvarur,Mannargudi II(Uzhavar Sandhai ),Potato,1,3400,3400,3400
+Tamil Nadu,Dharmapuri,Palacode(Uzhavar Sandhai ),Tomato,1,2400,2400,2400
+Tamil Nadu,Perambalur,Perambalur(Uzhavar Sandhai ),Tomato,1,2650,2650,2650
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Potato,2,800,800,800
+Telangana,Suryapet,Huzurnagar APMC,Paddy,2,2461,2461,2461
+Andhra Pradesh,Srikakulam,Etcherla APMC,Maize,3,2410,2410,2410
+Tamil Nadu,Sivagangai,Karaikudi(Uzhavar Sandhai ),Onion,1,6500,6500,6500
+Tamil Nadu,Krishnagiri,Avallapalli(Uzhavar Sandhai ),Potato,1,2750,2750,2750
+Maharashtra,Jalgaon,APMC Bhusaval,Tomato,2,1500,1500,1500
+Tamil Nadu,Kallakurichi,Kallakurichi RM,Ragi,1,2799,2799,2799
+Manipur,Imphal East,Lamlong Bazaar APMC,Gram,1,8750,8750,8750
+Gujarat,Porbandar,Porbandar APMC,Onion,1,4000,4000,4000
+Tamil Nadu,Cuddalore,Viruthachalam(Uzhavar Sandhai ),Onion,1,5000,5000,5000
+Tamil Nadu,Krishnagiri,Denkanikottai(Uzhavar Sandhai ),Onion,1,6250,6250,6250
+Tamil Nadu,Perambalur,Perambalur(Uzhavar Sandhai ),Onion,1,7000,7000,7000
+Haryana,Karnal,Tarori APMC,Onion,1,4000,4000,4000
+Keralam,Palakad,Pattambi Market,Onion,1,9000,9000,9000
+Rajasthan,Rajsamand,Rajsamand APMC,Onion,1,2500,2500,2500
+Tamil Nadu,Thirupathur,Natrampalli(Uzhavar Sandhai ),Onion,1,5500,5500,5500
+Telangana,Ranga Reddy,"Vanasthalipuram,RBZ",Onion,3,4000,4000,4000
+Tamil Nadu,Pudukkottai,Gandarvakottai(Uzhavar Sandhai ),Tomato,1,3250,3250,3250
+Madhya Pradesh,Shivpuri,Badarwas APMC,Maize,2,2744.94,2744.94,2744.94
+Uttar Pradesh,Shahjahanpur,Jalalabad APMC,Wheat,1,2550,2550,2550
+Tamil Nadu,Virudhunagar,Srivilliputhur(Uzhavar Sandhai ),Onion,1,4500,4500,4500
+Bihar,Aurangabad,Daunagar APMC,Potato,3,850,850,850
+Telangana,Hyderabad,Mahboob Manison APMC,Potato,3,3600,3600,3600
+West Bengal,Darjeeling,Darjeeling APMC,Tomato,3,3433.33,3100,3600
+Uttar Pradesh,Kanpur Dehat,Rura APMC,Bajra,3,2400,2400,2400
+Gujarat,Sabarkantha,Modasa APMC,Urad,2,8580,8580,8580
+Madhya Pradesh,Rajgarh,Jeerapur APMC,Urad,2,5200,5200,5200
+West Bengal,Bankura,Bishnupur(Bankura) APMC,Onion,2,4600,4600,4600
+Keralam,Ernakulam,Perumbavoor Market,Tomato,3,5500,5500,5500
+Punjab,Sangrur,Dhuri APMC,Tomato,2,1600,1600,1600
+Gujarat,Bhavnagar,Taleja APMC,Groundnut,2,7266.24,7266.24,7266.24
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Potato,2,1050,1050,1050
+Punjab,Sangrur,Ahmedgarh APMC,Potato,2,415,415,415
+Punjab,Moga,Nihal Singh Wala APMC,Tomato,2,1800,1800,1800
+Manipur,Thoubal,Thoubal APMC,Paddy,1,3000,3000,3000
+Tamil Nadu,Salem,Edapadi (Uzhavar Sandhai ),Onion,1,6750,6750,6750
+Tamil Nadu,Villupuram,Villupuram(Uzhavar Sandhai ),Tomato,1,3200,3200,3200
+Maharashtra,Amarawati,APMC Amarawati,Jowar,2,2825,2825,2825
+Madhya Pradesh,Sagar,Sagar APMC,Tur,2,6400,6400,6400
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Onion,2,5900,5900,5900
+Telangana,Ranga Reddy,"Saroornagar,RBZ",Tomato,2,1700,1700,1700
+Gujarat,Banaskanth,Deesa APMC,Wheat,2,2950,2950,2950
+Gujarat,Morbi,Vankaner APMC,Sesamum,2,16000,16000,16000
+Telangana,Siddipet,Siddipet(Rythu Bazar),Onion,3,5000,5000,5000
+Bihar,Siwan,Maharjganj APMC,Onion,1,4600,4600,4600
+Tamil Nadu,Chengalpet,Madhuranthagam(Uzhavar Sandhai ),Potato,1,4000,4000,4000
+Tamil Nadu,Sivagangai,Singampunari(Uzhavar Sandhai ),Tomato,1,2400,2400,2400
+Uttar Pradesh,Mathura,Mathura APMC,Tomato,3,2066.67,1400,2400
+Punjab,Ludhiana,Sidhwan Bet (Lodhiwala) APMC,Paddy,2,2461,2461,2461
+Andhra Pradesh,Sri Sathya Sai,Penukonda APMC,Groundnut,3,7700,7700,7700
+Gujarat,Porbandar,Porbandar APMC,Soyabean,2,6000,6000,6000
+Bihar,East Champaran/ Motihari,Raxaul APMC,Potato,3,1266.67,1200,1300
+Uttarakhand,Haridwar,Roorkee APMC,Tomato,3,1600,1600,1600
+Uttar Pradesh,Deoria,Devariya APMC,Wheat,2,2650,2650,2650
+Madhya Pradesh,Jhabua,Petlawad(F&V) APMC,Onion,2,1800,1800,1800
+Manipur,Imphal East,Lamlong Bazaar APMC,Paddy,1,3000,3000,3000
+Madhya Pradesh,Khandwa,Mundi APMC,Soyabean,1,6725,6725,6725
+Tamil Nadu,Sivagangai,Singampunari(Uzhavar Sandhai ),Onion,1,5900,5900,5900
+Odisha,Boudh,Boudh APMC,Tomato,3,3333.33,3000,4000
+Madhya Pradesh,Dhar,Manawar APMC,Maize,3,2911.33,2911,2912
+Telangana,Bhadradri Kothagudem,Yellandu APMC,Maize,3,2400,2400,2400
+Maharashtra,Akola,Akola(Borgaon Manju),Cotton,2,9400,9400,9400
+Gujarat,Rajkot,JASDAN APMC,Groundnut,2,6800,6800,6800
+Rajasthan,Tonk,Malpura APMC,Gram,2,6950,6950,6950
+Madhya Pradesh,Alirajpur,Jobat APMC,Maize,3,2633.33,2600,2700
+Madhya Pradesh,Chhindwara,Amarwda APMC,Maize,3,2485.73,2419,2519.09
+Andhra Pradesh,Anakapally,Yellamanchili APMC,Paddy,3,2441,2441,2441
+Uttar Pradesh,Basti,Basti APMC,Paddy,3,2450,2450,2450
+Madhya Pradesh,Badwani,Sendhwa APMC,Soyabean,1,7150,7150,7150
+Tamil Nadu,Thiruvannamalai,Chengam(Uzhavar Sandhai ),Potato,1,3650,3650,3650
+Telangana,Mancherial,Chennur APMC,Paddy,2,3000,3000,3000
+Telangana,Bhadradri Kothagudem,Yellandu APMC,Cotton,3,8866.67,8800,8900
+Telangana,Mancherial,Luxettipet APMC,Cotton,3,9000,9000,9000
+Gujarat,Jamnagar,Jamnagar APMC,Soyabean,2,7175,7175,7175
+Maharashtra,Amarawati,APMC Morshi,Tur,2,9998,9998,9998
+Madhya Pradesh,Sagar,Deori APMC,Maize,2,2480,2480,2480
+Maharashtra,Jalna,APMC Jalana,Onion,2,2800,2800,2800
+Uttar Pradesh,Kasganj,Kasganj APMC,Bajra,3,2500,2500,2500
+Madhya Pradesh,Pandhurna,Saunsar APMC,Maize,1,2757.7,2757.7,2757.7
+Rajasthan,Chittorgarh,Kapasan APMC,Maize,1,2200,2200,2200
+Andhra Pradesh,Prakasam,Maddipadu APMC,Gram,3,6000,6000,6000
+Andhra Pradesh,Parvathipuram Manyam,Palakonda APMC,Urad,3,8200,8200,8200
+Tamil Nadu,Thirupathur,Thirupathur RM,Onion,1,6000,6000,6000
+Punjab,Ludhiana,Khanna APMC,Potato,3,500,500,500
+Tamil Nadu,Cuddalore,Panruti(Uzhavar Sandhai ),Tomato,1,3000,3000,3000
+Uttar Pradesh,Shravasti,Bhinga APMC,Maize,2,1800,1800,1800
+Madhya Pradesh,Rajgarh,Biaora APMC,Masoor,2,6205,6205,6205
+Madhya Pradesh,Khargone,Badwaha APMC,Maize,2,2848.35,2848.35,2848.35
+Telangana,Nirmal,Bhainsa APMC,Cotton,2,8800,8800,8800
+Maharashtra,Chattrapati Sambhajinagar,APMC Paithan,Onion,2,4000,4000,4000
+Haryana,Panipat,Panipat APMC,Tomato,1,1500,1500,1500
+Tamil Nadu,Karur,Karur(Uzhavar Sandhai ),Tomato,1,2950,2950,2950
+Madhya Pradesh,Ashoknagar,Chanderi APMC,Wheat,2,2690,2690,2690
+Andhra Pradesh,Annamayya,Kalikiri APMC,Tomato,3,1400,1400,1400
+Uttar Pradesh,Hardoi,Shahabad(New Mandi) APMC,Paddy,2,1961.66,1961.66,1961.66
+Telangana,Ranga Reddy,"Vanasthalipuram,RBZ",Potato,3,1900,1900,1900
+Jammu and Kashmir,Jammu,MAC F&V Market Narwal Jammu,Tomato,3,2150,2100,2250
+Punjab,Gurdaspur,Quadian APMC,Tomato,2,3900,3900,3900
+Uttar Pradesh,Aligarh,Khair APMC,Cotton,1,13500,13500,13500
+Tamil Nadu,Salem,Sooramangalam(Uzhavar Sandhai ),Groundnut,1,6750,6750,6750
+Uttar Pradesh,Shamli,Kairana APMC,Tomato,1,1500,1500,1500
+Gujarat,Surat,Nizar APMC,Jowar,2,3400,3400,3400
+Madhya Pradesh,Sehore,Baktara APMC,Paddy,2,4250,4250,4250
+Uttar Pradesh,Agra,Achnera APMC,Paddy,2,4156.94,4156.94,4156.94
+Madhya Pradesh,Narsinghpur,Tendukheda APMC,Gram,2,7000,7000,7000
+Gujarat,Junagarh,Visavadar APMC,Moong,2,6765,6765,6765
+Punjab,Gurdaspur,Quadian APMC,Onion,2,3600,3600,3600
+Uttarakhand,Udhamsinghnagar,Bazpur APMC,Potato,3,560,560,560
+Madhya Pradesh,Harda,Timarni APMC,Maize,2,2850,2850,2850
+Maharashtra,Amarawati,APMC Anajngaon,Wheat,2,2400,2400,2400
+Madhya Pradesh,Khargone,Karhi APMC,Cotton,3,8767,8750,8801
+Odisha,Balasore,Balasore APMC,Tomato,2,3000,3000,3000
+Tamil Nadu,Dharmapuri,Palacode(Uzhavar Sandhai ),Onion,1,5900,5900,5900
+Odisha,Dhenkanal,Kamakhyanagar APMC,Potato,1,3400,3400,3400
+Gujarat,Surat,Nizar APMC,Soyabean,2,7350,7350,7350
+Madhya Pradesh,Sagar,Sagar APMC,Masoor,2,7600,7600,7600
+Maharashtra,Chandrapur,APMC Sindevahi,Paddy,2,2600,2600,2600
+Telangana,Asifabad,Kagaznagar APMC,Paddy,1,3500,3500,3500
+Uttar Pradesh,Hamirpur,Bharuasumerpur APMC,Paddy,1,2500,2500,2500
+Telangana,Khammam,Nelakondapally APMC,null,1,2800,2800,2800
+Haryana,Sonipat,Ganaur APMC,Onion,3,4200,4200,4200
+Tamil Nadu,Salem,Mettur(Uzhavar Sandhai ),Potato,1,5500,5500,5500
+Tamil Nadu,Thiruvannamalai,Arani(Uzhavar Sandhai ),Tomato,1,2750,2750,2750
+Madhya Pradesh,Badwani,Badwani APMC,Maize,2,2150,2150,2150
+Uttar Pradesh,Auraiya,Auraiya APMC,Paddy,3,1930.04,1882.08,1954.02
+Uttar Pradesh,Firozabad,Tundla APMC,Potato,2,500,500,500
+Telangana,Mancherial,Luxettipet APMC,Paddy,3,3066.67,3000,3100
+Karnataka,Mysuru,Hunsur APMC,Onion,1,4900,4900,4900
+Tamil Nadu,Chengalpet,Pallavaram(Uzhavar Sandhai ),Onion,1,6500,6500,6500
+Tamil Nadu,Nagapattinam,Nagapattinam(Uzhavar Sandhai ),Onion,1,5850,5850,5850
+Tamil Nadu,Madurai,Anaiyur(Uzhavar Sandhai ),Potato,1,6000,6000,6000
+Tamil Nadu,Virudhunagar,Sivakasi(Uzhavar Sandhai ),Potato,1,3250,3250,3250
+Tamil Nadu,Thiruvannamalai,Tiruvannamalai(Uzhavar Sandhai ),Tomato,1,1750,1750,1750
+Uttar Pradesh,Jalaun (Orai),Konch APMC,Paddy,2,3800,3800,3800
+Telangana,Mancherial,Bellampally APMC,Cotton,3,8800,8800,8800
+Haryana,Sirsa,Kalawali(Odhan) APMC,Paddy,2,2461,2461,2461
+Madhya Pradesh,Jhabua,Thandla APMC,Soyabean,2,6825.13,6825.13,6825.13
+Tamil Nadu,Coimbatore,Pollachi(Uzhavar Sandhai ),Potato,1,5500,5500,5500
+Tamil Nadu,Salem,Ammapet(Uzhavar Sandhai ),Potato,1,6600,6600,6600
+Tamil Nadu,Vellore,Perampet(Uzhavar Sandhai),Potato,1,2750,2750,2750
+Haryana,Rewari,Kosli APMC,Tomato,1,2000,2000,2000
+Tamil Nadu,Kancheepuram,Padappai(Uzhavar Sandhai ),Tomato,1,2600,2600,2600
+Madhya Pradesh,Indore,Sanwer APMC,Wheat,2,2875,2875,2875
+Karnataka,Mandya,Mandya APMC,Copra,2,30000,30000,30000
+Karnataka,Bagalkot,Hungund APMC,Jowar,1,2200,2200,2200
+Andhra Pradesh,Tirupathi,Nagalapuram APMC,Paddy,1,2000,2000,2000
+Uttar Pradesh,Ambedkarnagar,Akbarpur APMC,Paddy,3,2050,2050,2050
+Tamil Nadu,Villupuram,Gingee(Uzhavar Sandhai ),Onion,1,5500,5500,5500
+Punjab,Sangrur,Ahmedgarh APMC,Onion,2,5300,5300,5300
+Tamil Nadu,Thoothukudi,Tuticorin(Uzhavar Sandhai ),Onion,1,6000,6000,6000
+Rajasthan,Rajsamand,Rajsamand APMC,Potato,1,1000,1000,1000
+Tamil Nadu,Kancheepuram,Kundrathur(Uzhavar Sandhai ),Potato,1,3000,3000,3000
+Tamil Nadu,Thiruvallur,Naravarikuppam(Uzhavar Sandhai ),Potato,1,3500,3500,3500
+Tamil Nadu,Vellore,Perampet(Uzhavar Sandhai),Tomato,1,2250,2250,2250
+Uttar Pradesh,Maharajganj,Partaval APMC,Paddy,2,2200,2200,2200
+Tamil Nadu,Ranipet,Arcot(Uzhavar Sandhai ),Groundnut,1,7000,7000,7000
+Tamil Nadu,Madurai,Melur(Uzhavar Sandhai ),Onion,1,6250,6250,6250
+Tamil Nadu,Namakkal,Mohanur(Uzhavar Sandhai ),Potato,1,3750,3750,3750
+Tamil Nadu,Thiruppur,Tiruppur (South) (Uzhavar Sandhai ),Potato,1,5500,5500,5500
+Tamil Nadu,Vellore,Vellore RM,Potato,1,2600,2600,2600
+Tamil Nadu,Chengalpet,Guduvancheri(Uzhavar Sandhai ),Potato,1,2750,2750,2750
+Madhya Pradesh,Balaghat,Balaghat APMC,Paddy,3,1816.02,1800,1824.03
+Tamil Nadu,Cuddalore,Panruti(Uzhavar Sandhai ),Onion,1,5000,5000,5000
+Tamil Nadu,Krishnagiri,Avallapalli(Uzhavar Sandhai ),Onion,1,6250,6250,6250
+Tamil Nadu,Madurai,Thirumangalam(Uzhavar Sandhai ),Onion,1,6250,6250,6250
+Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Potato,1,550,550,550
+Andhra Pradesh,Sri Sathya Sai,Puttaparthi  APMC,Maize,3,2450,2450,2450
+Andhra Pradesh,Bapatla,Parchur APMC,Urad,2,8250,8250,8250
+Andhra Pradesh,Krishna,Movva (HQ-Kuchipudi) APMC,Urad,3,7666.67,7000,9000
+Chattisgarh,Durg,Durg APMC,Onion,2,5000,5000,5000
+Keralam,Idukki,Thodupuzha Market,Onion,2,9050,9050,9050
+Punjab,Ludhiana,Sahnewal APMC,Potato,2,700,700,700
+Telangana,Jogulamba Gadwal,Gadwal APMC,Paddy,2,3321,3321,3321
+Uttar Pradesh,Amethi,Sultanpur APMC,Wheat,3,2600,2600,2600
+Andhra Pradesh,Palnadu,Chilakaluripet APMC,Cotton,3,8500,8500,8500
+Uttar Pradesh,Agra,Jarar APMC,Bajra,1,2400,2400,2400
+Uttar Pradesh,Jhansi,Chirgaon APMC,Paddy,3,4041.12,3717.39,4202.99
+Uttar Pradesh,Mainpuri,Mainpuri APMC,Wheat,1,2551,2551,2551
+Bihar,Muzaffarpur,Bhagwanpur Mandi APMC,Onion,1,4200,4200,4200
+Bihar,Siwan,Maharjganj APMC,Tomato,1,2800,2800,2800
+Gujarat,Surendranagar,Sayala APMC,Cotton,2,9250,9250,9250
+Madhya Pradesh,Dhar,Manawar APMC,Cotton,3,8700,8700,8700
+Madhya Pradesh,Vidisha,Shamshabad APMC,Soyabean,2,5751,5751,5751
+Gujarat,Sabarkantha,APMCKHEDBRAHMA,Moong,2,7725,7725,7725
+Gujarat,Jamnagar,Kalawad APMC,Urad,2,8925,8925,8925
+Gujarat,Navsari,Navsari APMC,Tomato,3,1500,1500,1500
+Andhra Pradesh,Bapatla,Parchur APMC,Maize,2,2600,2600,2600
+Andhra Pradesh,Krishna,Malleswaram (HQ-Bantumili) APMC,null,2,2585,2585,2585
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard) APMC,Potato,2,1215,1215,1215
+Haryana,Sonipat,Ganaur APMC,Tomato,3,2600,2500,2800
+Odisha,Bolangir,Bolangir APMC,Tomato,2,2600,2600,2600
+Odisha,Mayurbhanja,Betnoti APMC,Tomato,3,3000,3000,3000
+Telangana,Ranga Reddy,Chevella APMC,Tomato,3,1000,1000,1000
+Madhya Pradesh,Ratlam,Sailana APMC,Cotton,3,11336.97,11248.87,11381.02
+Tamil Nadu,Erode,Perundurai(Uzhavar Sandhai ),Potato,1,5750,5750,5750
+Tamil Nadu,Sivagangai,Karaikudi(Uzhavar Sandhai ),Potato,1,6500,6500,6500
+Tripura,Dhalai,Chowmanu APMC,Potato,1,1900,1900,1900
+Uttar Pradesh,Hardoi,Hardoi APMC,Potato,3,668.05,652.08,700
+Madhya Pradesh,Ashoknagar,Ashoknagar APMC,Maize,2,2125,2125,2125
+Madhya Pradesh,Katni,Katni APMC,Paddy,2,1872.78,1872.78,1872.78
+Uttar Pradesh,Farukhabad,Kayamganj APMC,Paddy,2,2441,2441,2441
+Telangana,Jogulamba Gadwal,Alampur APMC,null,3,3500,3500,3500
+Haryana,Yamuna Nagar,Jagadhri APMC,Potato,2,700,700,700
+West Bengal,Bankura,Bishnupur(Bankura) APMC,Potato,2,680,680,680
+Andhra Pradesh,Palnadu,Narasaraopet APMC,Paddy,2,3500,3500,3500
+Gujarat,Rajkot,Rajkot APMC,Cotton,2,9255,9255,9255
+Gujarat,Mehsana,Vijapur APMC,Groundnut,2,9605,9605,9605
+Karnataka,Gadag,Laxmeshwar APMC,Groundnut,2,7370.88,7370.88,7370.88
+Keralam,Kannur,Thalasserry Market,Onion,2,5300,5300,5300
+Uttar Pradesh,Prayagraj,Ajuha APMC,Paddy,3,2466.67,2000,2700
+Madhya Pradesh,Badwani,Sendhwa APMC,Wheat,1,3011,3011,3011
+Uttar Pradesh,Chitrakut,Mau(Chitrakut) APMC,Wheat,1,2650,2650,2650
+Karnataka,Koppal,Kanakagiri APMC,Cotton,1,8950,8950,8950
+Rajasthan,Alwar,Govindgarh APMC,Cotton,1,7800,7800,7800
+Gujarat,Gir Somnath,Veraval APMC,Groundnut,3,7658.33,7650,7675
+Tamil Nadu,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Onion,1,6650,6650,6650
+Himachal Pradesh,Kangra,SMY Dharamshala,Potato,1,1450,1450,1450
+Tamil Nadu,Tirunelveli,Kandiyaperi(Uzhavar Sandhai ),Tomato,1,3350,3350,3350
+Uttar Pradesh,Siddharth Nagar,Bansi APMC,Paddy,3,2433.33,2400,2500
+Uttar Pradesh,Kanpur,Kanpur(Grain) APMC,Onion,3,3000,3000,3000
+Punjab,Hoshiarpur,Tanda Urmur APMC,Tomato,3,2700,2500,2800
+Andhra Pradesh,Eluru,Nuzvid APMC,Maize,3,2500,2500,2500
+Gujarat,Rajkot,JASDAN APMC,Maize,2,2350,2350,2350
+Maharashtra,Ahilyanagar,Shevgaon(Bodhegaon),Wheat,2,3000,3000,3000
+Karnataka,Vijayapura,Talikot APMC,Tur,2,9210,9210,9210
+Punjab,Jalandhar,Jalandhar City APMC,Maize,1,2642,2642,2642
+Tamil Nadu,Madurai,Melur(Uzhavar Sandhai ),Groundnut,1,7500,7500,7500
+Haryana,Hissar,Hansi APMC,Onion,3,3750,3750,3750
+Tamil Nadu,Sivagangai,Tirupatthur(Uzhavar Sandhai ),Onion,1,6000,6000,6000
+Tamil Nadu,Thiruvallur,Perambakkam(Uzhavar Sandhai ),Onion,1,6000,6000,6000
+Tamil Nadu,Thiruchirappalli,Thiruverumbur(Uzhavar Sandhai ),Potato,1,3000,3000,3000
+Punjab,Hoshiarpur,Mukerian(Talwara) APMC,Tomato,1,2500,2500,2500
+Karnataka,Davangere,HarappanaHalli APMC,Ragi,2,3575,3575,3575
+Madhya Pradesh,Jabalpur,Sehora APMC,Wheat,2,2701,2701,2701
+Madhya Pradesh,Morena,Kailaras APMC,Wheat,2,2752,2752,2752
+Telangana,Suryapet,Tirumalagiri APMC,null,2,2461,2461,2461
+Madhya Pradesh,Chhatarpur,LavKush Nagar(Laundi) APMC,Sesamum,2,13850,13850,13850
+Maharashtra,Akola,APMC Murtizapur,Soyabean,2,7255,7255,7255
+Madhya Pradesh,Badwani,Sendhwa(F&V) APMC,Tomato,3,1000,1000,1000
+Maharashtra,Jalgaon,APMC Jalgaon,Maize,2,2880,2880,2880
+Andhra Pradesh,Palnadu,Macharla APMC,Cotton,3,8433.33,8400,8500
+Madhya Pradesh,Rajgarh,Biaora APMC,Mustard,2,8500,8500,8500
+Punjab,Gurdaspur,Gurdaspur APMC,Potato,2,800,800,800
+Punjab,Jalandhar,Goraya APMC,Potato,2,700,700,700
+Tamil Nadu,Coimbatore,Sundarapuram(Uzhavar Sandhai ),Onion,1,5750,5750,5750
+Tamil Nadu,Theni,Andipatti(Uzhavar Sandhai ),Potato,1,2900,2900,2900
+Uttar Pradesh,Hardoi,Madhoganj APMC,Potato,1,550,550,550
+Gujarat,Amreli,Damnagar APMC,Tomato,1,3500,3500,3500
+Uttar Pradesh,Mahoba,Mahoba APMC,Wheat,2,2579.58,2579.58,2579.58
+Madhya Pradesh,Sagar,Rahatgarh APMC,Gram,2,6925.29,6925.29,6925.29
+Chattisgarh,Durg,Durg APMC,Tomato,2,1800,1800,1800
+Uttarakhand,Udhamsinghnagar,Kicchha APMC,Tomato,3,2233.33,1700,2500
+Madhya Pradesh,Jabalpur,Jabalpur APMC,Maize,2,2600,2600,2600
+Uttar Pradesh,Prayagraj,Prayagraj APMC,Paddy,3,1942.72,1850,2128.15
+Madhya Pradesh,Narsinghpur,Gadarwada APMC,Wheat,1,2503,2503,2503
+Tamil Nadu,Vellore,Kahithapattarai(Uzhavar Sandhai ),Groundnut,1,7000,7000,7000
+Tamil Nadu,Dharmapuri,Harur(Uzhavar Sandhai ),Onion,1,6250,6250,6250
+Uttarakhand,Haridwar,Roorkee APMC,Onion,3,5500,5500,5500
+Haryana,Fatehabad,Jakhal APMC,Tomato,1,2000,2000,2000
+Tamil Nadu,Thiruvannamalai,Polur(Uzhavar Sandhai ),Tomato,1,2750,2750,2750
+Madhya Pradesh,Rajgarh,Biaora APMC,Urad,2,6000,6000,6000
+Bihar,Supaul,Triveniganj APMC,Potato,3,1600,1600,1600
+Madhya Pradesh,Gwalior,Bhitarwar APMC,Paddy,2,3700,3700,3700
+Telangana,Rajanna Siricilla,Konaraopet APMC,Paddy,2,2461,2461,2461
+Gujarat,Rajkot,Rajkot APMC,Tur,2,9125,9125,9125
+Telangana,Ranga Reddy,"Saroornagar,RBZ",Onion,2,4000,4000,4000
+Telangana,Mahbubnagar,Mahabubnagar(Rythu Bazar),Tomato,3,2800,2400,3000
+Uttar Pradesh,Badaun,Shahaswan APMC,Maize,1,2400,2400,2400
+Uttar Pradesh,Etawah,Etawah APMC,Paddy,3,3800,3800,3800
+Madhya Pradesh,Mauganj,Hanumana APMC,Wheat,1,2650,2650,2650
+Tamil Nadu,Vellore,Pallikonda(Uzhavar Sandhai),Onion,1,5250,5250,5250
+Telangana,Bhadradri Kothagudem,Bhadrachalam APMC,Cotton,3,9000,9000,9000
+Odisha,Sonepur,Dungurapalli APMC,Onion,2,5000,5000,5000
+Uttar Pradesh,Auraiya,Auraiya APMC,Bajra,3,2400,2400,2400
+Andhra Pradesh,Bapatla,Bapatla APMC,Paddy,2,4400,4400,4400
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Tomato,3,3400,3000,3600
+Tamil Nadu,Villupuram,Gingee(Uzhavar Sandhai ),Groundnut,1,7000,7000,7000
+Tamil Nadu,Krishnagiri,Kaveripattinam(Uzhavar Sandhai ),Tomato,1,3000,3000,3000
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Onion,2,3405,3405,3405
+Uttar Pradesh,Fatehpur,Fatehpur APMC,Tomato,2,2200,2200,2200
+Rajasthan,Tonk,Malpura APMC,Jowar,2,2900,2900,2900
+Rajasthan,Tonk,Malpura APMC,Maize,2,3460,3460,3460
+Maharashtra,Chattrapati Sambhajinagar,APMC Paithan,Soyabean,2,7001,7001,7001
+Andhra Pradesh,Sri Sathya Sai,Penukonda APMC,Maize,3,2850,2850,2850
+Tamil Nadu,Salem,Thathakapatti(Uzhavar Sandhai ),Potato,1,4500,4500,4500
+Tamil Nadu,Salem,Attayampatti(Uzhavar Sandhai ),Tomato,1,2400,2400,2400
+Tamil Nadu,Sivagangai,Devakottai (Uzhavar Sandhai ),Tomato,1,2800,2800,2800
+Assam,Sonitpur,Dhekiajuli APMC,Potato,3,1000,1000,1000
+Chandigarh,Chandigarh,Chandigarh (Grain/F&V) APMC,Tomato,3,2133.33,2000,2200
+Gujarat,Rajkot,Rajkot APMC,Urad,2,9000,9000,9000
+Tamil Nadu,Krishnagiri,Avallapalli(Uzhavar Sandhai ),Tomato,1,1750,1750,1750
+Tamil Nadu,Tiruvarur,Valangaiman RM,Tomato,1,3200,3200,3200
+Gujarat,Sabarkantha,Modasa APMC,Groundnut,2,9605,9605,9605
+Uttar Pradesh,Hamirpur,Maudaha APMC,Mustard,2,7500,7500,7500
+Assam,Nagaon,Dhing APMC,Potato,1,1950,1950,1950
+Himachal Pradesh,Chamba,PMY Chamba,Tomato,1,2750,2750,2750
+Keralam,Palakad,Pattambi Market,Tomato,1,3200,3200,3200
+Madhya Pradesh,Mandsaur,Garoth(F&V) APMC,Tomato,1,650,650,650
+Tamil Nadu,Ranipet,Arcot(Uzhavar Sandhai ),Tomato,1,2200,2200,2200
+Madhya Pradesh,Morena,Banmorkalan APMC,Paddy,2,3923.64,3923.64,3923.64
+Maharashtra,Hingoli,Hingoli(Kanegoan Naka),Soyabean,2,7050,7050,7050
+West Bengal,Uttar Dinajpur,Islampur APMC,Onion,2,4200,4200,4200
+Gujarat,Dahod,Dahod APMC,Jowar,2,2800,2800,2800
+Andhra Pradesh,Parvathipuram Manyam,Palakonda APMC,Maize,3,2400,2400,2400
+Uttar Pradesh,Badaun,Babrala APMC,Wheat,1,2590,2590,2590
+Tamil Nadu,Salem,Ammapet(Uzhavar Sandhai ),Groundnut,1,6800,6800,6800
+Tamil Nadu,Chengalpet,Nanganallur(Uzhavar Sandhai ),Potato,1,3250,3250,3250
+Tamil Nadu,Madurai,Anaiyur(Uzhavar Sandhai ),Tomato,1,2200,2200,2200
+Tamil Nadu,Madurai,Thirumangalam(Uzhavar Sandhai ),Tomato,1,2200,2200,2200
+Tamil Nadu,Tiruvarur,Mannargudi I(Uzhavar Sandhai ),Tomato,1,2400,2400,2400
+Tamil Nadu,Virudhunagar,Sivakasi(Uzhavar Sandhai ),Tomato,1,2750,2750,2750
+Maharashtra,Solapur,APMC Akluj,Potato,2,1600,1600,1600
+West Bengal,Uttar Dinajpur,Islampur APMC,Potato,2,520,520,520
+Madhya Pradesh,Sehore,Ashta APMC,Paddy,1,2701,2701,2701
+Madhya Pradesh,Satna,Satna APMC,Wheat,1,2674.77,2674.77,2674.77
+Tamil Nadu,Krishnagiri,Hosur(Uzhavar Sandhai ),Onion,1,6250,6250,6250
+Tamil Nadu,Krishnagiri,Denkanikottai(Uzhavar Sandhai ),Potato,1,2750,2750,2750
+Madhya Pradesh,Khandwa,Mundi APMC,Wheat,2,2925,2925,2925
+Gujarat,Jamnagar,Dhrol APMC,Groundnut,2,7150,7150,7150
+Tamil Nadu,Thiruvannamalai,Arani(Uzhavar Sandhai ),Potato,1,3850,3850,3850
+Tamil Nadu,Namakkal,Rasipuram(Uzhavar Sandhai ),Tomato,1,3700,3700,3700
+Tamil Nadu,Salem,Sooramangalam(Uzhavar Sandhai ),Tomato,1,2250,2250,2250
+Uttar Pradesh,Raebarelli,Bachranwa APMC,Paddy,1,2454.43,2454.43,2454.43
+West Bengal,Paschim Bardhaman,Durgapur APMC,Wheat,1,2750,2750,2750
+Tamil Nadu,Kallakurichi,Sankarapuram(Uzhavar Sandhai ),Potato,1,4000,4000,4000
+Andhra Pradesh,Markapuram,Kanigiri APMC,Tur,3,8700,8700,8700
+Bihar,Supaul,Triveniganj APMC,Onion,3,4300,4300,4300
+Tamil Nadu,Thanjavur,Kumbakonam (Uzhavar Sandhai ),Onion,1,6600,6600,6600
+Bihar,Buxar,Buxur APMC,Tomato,3,2458,2432,2510
+Tamil Nadu,Madurai,Melur(Uzhavar Sandhai ),Tomato,1,2200,2200,2200
+Telangana,Bhadradri Kothagudem,Nuguru Charla APMC,Maize,3,2400,2400,2400
+Maharashtra,Jalgaon,APMC Jalgaon,Sesamum,2,15805,15805,15805
+Maharashtra,Nanded,APMC Kinwat,Soyabean,2,6880,6880,6880
+Telangana,Hyderabad,RYTHU BAZAR MEHDIPATNAM,Tomato,3,1833.33,1700,2100
+Madhya Pradesh,Morena,Kailaras APMC,Bajra,2,2567,2567,2567
+Gujarat,Surendranagar,Dhragradhra APMC,Cotton,2,9200,9200,9200
+Rajasthan,Bikaner,Pugal Road Grain APMC,Moong,2,7076,7076,7076
+Manipur,Imphal West,Imphal APMC,Paddy,1,3000,3000,3000
+Bihar,Aurangabad,Daunagar APMC,Onion,3,4100,4100,4100
+Tamil Nadu,The Nilgiris,Udhagamandalam(Uzhavar Sandhai ),Onion,1,6150,6150,6150
+Uttar Pradesh,Hathras,Haathras APMC,Potato,1,501,501,501
+Uttar Pradesh,Lakhimpur,Paliakala APMC,Potato,1,700,700,700
+Rajasthan,Jalore,Jalore APMC,Tomato,3,1666.67,1600,1800
+Andhra Pradesh,Kakinada,Kakinada (Urban) APMC,Paddy,3,2550,2550,2550
+Maharashtra,Gondiya,APMC Goregaon,Paddy,2,2441,2441,2441
+Andhra Pradesh,Kurnool,Adoni APMC,Groundnut,2,7699,7699,7699
+Gujarat,Jamnagar,Kalawad APMC,Sesamum,2,15825,15825,15825
+West Bengal,Nadia,Chakdah APMC,Potato,2,850,850,850
+Rajasthan,Kota,Khatauli APMC,Wheat,2,2735,2735,2735
+Madhya Pradesh,Mandsaur,Garoth APMC,Soyabean,2,7215,7215,7215
+Maharashtra,Amarawati,APMC Amarawati,Gram,2,7000,7000,7000
+Gujarat,Jamnagar,Jamnagar APMC,Moong,2,9525,9525,9525
+Punjab,Fatehgarh,Bassi Pathana APMC,Onion,2,4100,4100,4100
+Andhra Pradesh,East Godavari,Rajanagaram APMC,Maize,3,2413.33,2410,2415
+Tamil Nadu,Villupuram,Avalurpet RM,Paddy,1,3138,3138,3138
+Maharashtra,Palghar,APMC Palghar,Wheat,1,4200,4200,4200
+Tamil Nadu,Thanjavur,Tirukattupalli(Uzhavar Sandhai ),Potato,1,3000,3000,3000
+Tamil Nadu,Karur,Pallapatti (Uzhavar Sandhai ),Tomato,1,3250,3250,3250
+Telangana,Nagarkurnool,Nagarkurnool APMC,Maize,2,2855.85,2855.85,2855.85
+Andhra Pradesh,Eluru,Bhimadole APMC,Paddy,3,2398,2398,2398
+Madhya Pradesh,Narsinghpur,Gadarwada APMC,Paddy,2,3798.15,3798.15,3798.15
+Madhya Pradesh,Seoni,Lakhnadon APMC,Paddy,2,1900,1900,1900
+Uttar Pradesh,Badaun,Ujhani APMC,Paddy,2,3650,3650,3650
+Maharashtra,Chattrapati Sambhajinagar,APMC Paithan,Wheat,2,3050,3050,3050
+Chattisgarh,Khairagarh Chhuikhadan Gandai,Kheragarh APMC,Soyabean,2,6000,6000,6000
+Andhra Pradesh,Palnadu,Ipur APMC,Urad,2,7950,7950,7950
+Rajasthan,Tonk,Malpura APMC,Urad,2,8200,8200,8200
+Uttarakhand,Udhamsinghnagar,Rudrapur APMC,Onion,3,3000,2500,4000
+Bihar,Arwal,Arwal APMC,Potato,3,1083.33,1050,1100
+Andhra Pradesh,Anakapally,Madugula APMC,Paddy,3,2400,2400,2400
+Telangana,Siddipet,Bejjenki APMC,null,3,2450,2450,2450
+Tamil Nadu,Thanjavur,Papanasam(Uzhavar Sandhai ),Potato,1,3300,3300,3300
+Tamil Nadu,Thiruchirappalli,Manachanallur(Uzhavar Sandhai ),Tomato,1,2400,2400,2400
+Telangana,Adilabad,Adilabad (Rythu Bazar),Tomato,3,4000,4000,4000
+Rajasthan,Deeg,Sikri APMC,Bajra,2,2530,2530,2530
+Maharashtra,Gadchiroli,APMC Armori,Paddy,2,3630,3630,3630
+Gujarat,Amreli,APMC Bagasara,Soyabean,2,6075,6075,6075
+Andhra Pradesh,Ananthapuramu,Guntakal APMC,Tur,2,9000,9000,9000
+Telangana,Hyderabad,Gudimalkapur APMC,Tomato,2,1000,1000,1000
+Karnataka,Haveri,Haveri APMC,Maize,2,3100,3100,3100
+Uttar Pradesh,Jaunpur,Shahganj APMC,Paddy,2,2441,2441,2441
+Madhya Pradesh,Morena,Morena APMC,Mustard,2,8700,8700,8700
+Gujarat,Amreli,Babra APMC,Sesamum,2,17525,17525,17525
+Maharashtra,Jalgaon,APMC Jalgaon,Onion,2,2500,2500,2500
+Uttarakhand,Haridwar,Roorkee APMC,Potato,3,916.67,900,950
+Tamil Nadu,Cuddalore,Cuddalore(Uzhavar Sandhai ),Potato,1,3500,3500,3500
+Tamil Nadu,Pudukkottai,Pudukottai(Uzhavar Sandhai ),Potato,1,7500,7500,7500
+Tamil Nadu,Dharmapuri,Karimangalam(Uzhavar Sandhai),Tomato,1,2500,2500,2500
+Tamil Nadu,Dindigul,Vedasandur(Uzhavar Sandhai ),Tomato,1,2750,2750,2750
+Uttar Pradesh,Mainpuri,Mainpuri APMC,Paddy,2,3500,3500,3500
+Telangana,Mahbubnagar,Mahbubnagar APMC,null,2,3028,3028,3028
+Tripura,West District,Champaknagar APMC,Potato,2,1700,1700,1700
+Odisha,Bhadrak,Chandabali APMC,Tomato,3,3420,3380,3500
+Gujarat,Sabarkantha,Modasa(Tintoi) APMC,Groundnut,2,9425,9425,9425
+Maharashtra,Solapur,Barshi(Vairag),Soyabean,2,7000,7000,7000
+Uttarakhand,Udhamsinghnagar,Rudrapur APMC,Tomato,3,2166.67,1500,2500
+West Bengal,Darjeeling,Siliguri APMC,Tomato,3,2500,2100,2700
+Andhra Pradesh,Kakinada,Prattipadu APMC,Paddy,3,2461,2461,2461
+Tamil Nadu,Salem,Hasthampatti(Uzhavar Sandhai ),Groundnut,1,6250,6250,6250
+Tamil Nadu,Pudukkottai,Alangudi(Uzhavar Sandhai ),Onion,1,7500,7500,7500
+Haryana,Rohtak,Meham,Potato,3,900,900,900
+Tamil Nadu,Pudukkottai,Gandarvakottai(Uzhavar Sandhai ),Potato,1,6500,6500,6500
+Madhya Pradesh,Guna,Guna(F&V) APMC,Tomato,1,1100,1100,1100
+Tamil Nadu,Namakkal,Mohanur(Uzhavar Sandhai ),Tomato,1,3750,3750,3750
+Punjab,Sangrur,Dhuri APMC,Onion,2,4100,4100,4100
+Uttar Pradesh,Ghazipur,Saidpur APMC,Paddy,2,2441,2441,2441
+Maharashtra,Jalna,APMC Ambad (Vadigodri),Wheat,2,2200,2200,2200
+Madhya Pradesh,Mandla,Krishi Upaj Mandi Samiti Bichhiya,Mustard,2,7600,7600,7600
+Maharashtra,Jalna,APMC Ambad (Vadigodri),Soyabean,2,6600,6600,6600
+Odisha,Kalahandi,Kalahandi(Dharamagarh) APMC,Tomato,3,2800,2800,2800
+Andhra Pradesh,Srikakulam,Hiramandalam APMC,Paddy,3,2400,2400,2400
+Madhya Pradesh,Narmadapuram,Bankhedi APMC,Paddy,1,4681,4681,4681
+Tamil Nadu,Thanjavur,Thanjavur(Uzhavar Sandhai ),Onion,1,6400,6400,6400
+Tamil Nadu,Virudhunagar,Kariyapatti(Uzhavar Sandhai ),Onion,1,5750,5750,5750
+Tamil Nadu,Mayiladuthurai,Sirkali(Uzhavar Sandhai ),Potato,1,3800,3800,3800
+Uttar Pradesh,Agra,Samsabad APMC,Potato,1,500,500,500
+Andhra Pradesh,Srikakulam,Pathapatnam APMC,Paddy,3,2461,2461,2461
+Madhya Pradesh,Bhind,Alampur APMC,Paddy,2,4310.26,4310.26,4310.26
+Punjab,Ludhiana,Malaoud (Siar) APMC,Paddy,2,2461,2461,2461
+Telangana,Nirmal,Bhainsa APMC,Sesamum,2,15825,15825,15825
+Keralam,Alappuzha,Kayamkulam Market,Tomato,3,3000,3000,3000
+Maharashtra,Amarawati,APMC Morshi,Maize,2,2825,2825,2825
+Andhra Pradesh,YSR Kadapa,Kamalapuram APMC,Paddy,3,2850,2850,2850
+Tamil Nadu,Virudhunagar,Aruppukottai(Uzhavar Sandhai ),Potato,1,3750,3750,3750
+Tamil Nadu,Villupuram,Gingee(Uzhavar Sandhai ),Tomato,1,2800,2800,2800
+Uttar Pradesh,Kasganj,Ganj Dundwara APMC,Bajra,2,2500,2500,2500
+Uttar Pradesh,Mainpuri,Mainpuri APMC,Bajra,3,2142.66,1988.99,2450
+Gujarat,Surat,Nizar APMC,Cotton,2,9100,9100,9100
+Uttar Pradesh,Mathura,Mathura APMC,Onion,3,3600,2800,4000
+Uttar Pradesh,Firozabad,Shikohabad APMC,Potato,3,500,500,500
+Madhya Pradesh,Dhar,Dhamnod APMC,Soyabean,2,7306.09,7306.09,7306.09
+Haryana,Gurgaon,Gurgaon APMC,Onion,1,4500,4500,4500
+Keralam,Kollam,Chathanoor Market,Onion,1,6000,6000,6000
+Madhya Pradesh,Badwani,Sendhwa(F&V) APMC,Onion,3,1600,1600,1600
+Keralam,Alappuzha,Kayamkulam Market,Potato,3,3000,3000,3000
+Tamil Nadu,Namakkal,Kumarapalayam(Uzhavar Sandhai ),Tomato,1,4000,4000,4000
+Tamil Nadu,Tirunelveli,Ambasamudram(Uzhavar Sandhai ),Tomato,1,3250,3250,3250
+Uttar Pradesh,Khiri (Lakhimpur),Mohammdi APMC,Paddy,2,2150,2150,2150
+Madhya Pradesh,Khargone,Sanawad APMC,Moong,2,8240,8240,8240
+Uttar Pradesh,Muzaffarnagar,Shahpur APMC,Wheat,2,2586,2586,2586
+Punjab,Ludhiana,Khanna APMC,Tomato,2,1500,1500,1500
+Punjab,Sangrur,Lehra Gaga APMC,Onion,1,3800,3800,3800
+Tamil Nadu,Tirunelveli,Melapalayam(Uzhavar Sandhai ),Onion,1,5750,5750,5750
+Tamil Nadu,Tirunelveli,Palayamkottai(Uzhavar Sandhai ),Tomato,1,3350,3350,3350
+Chattisgarh,Balrampur,Kusmee APMC,Maize,2,2400,2400,2400
+Maharashtra,Amarawati,APMC Amarawati,Maize,2,2862,2862,2862
+Andhra Pradesh,Dr.B.R.A.Konaseema,Ramachandrapuram APMC,Paddy,3,2441,2441,2441
+Keralam,Kozhikode(Calicut),Mukkom Market,Potato,2,2500,2500,2500
+Maharashtra,Sangli,APMC Vita,Potato,2,2000,2000,2000
+West Bengal,Murshidabad,Jiaganj APMC,Wheat,1,2650,2650,2650
+Tamil Nadu,Villupuram,Villupuram(Uzhavar Sandhai ),Groundnut,1,9000,9000,9000
+Tamil Nadu,Chengalpet,Pallavaram(Uzhavar Sandhai ),Potato,1,2750,2750,2750
+Karnataka,Uttara Kannada,Haliyala APMC,Maize,1,3100,3100,3100
+Tamil Nadu,Vellore,Perampet(Uzhavar Sandhai),Onion,1,5750,5750,5750
+Tamil Nadu,Thiruchirappalli,Manapparai(Uzhavar Sandhai ),Potato,1,3000,3000,3000
+Tamil Nadu,Theni,Chinnamanur(Uzhavar Sandhai ),Tomato,1,2600,2600,2600
+Tamil Nadu,Theni,Theni(Uzhavar Sandhai ),Tomato,1,2300,2300,2300
+Uttarakhand,Udhamsinghnagar,Gadarpur APMC,Paddy,2,2150,2150,2150
+Madhya Pradesh,Narmadapuram,Itarsi APMC,Paddy,2,4658.07,4658.07,4658.07
+Chattisgarh,Surajpur,Surajpur APMC,Paddy,1,2390,2390,2390
+Madhya Pradesh,Sehore,Sehore APMC,Wheat,2,2625,2625,2625
+West Bengal,Bankura,Khatra APMC,Wheat,2,2700,2700,2700
+Madhya Pradesh,Indore,Indore APMC,Mustard,2,7705,7705,7705
+Maharashtra,Akola,APMC Akola,Gram,2,7172.43,7172.43,7172.43
+Odisha,Bolangir,Bolangir APMC,Onion,2,4500,4500,4500
+Maharashtra,Jalgaon,APMC Bhusaval,Potato,2,1800,1800,1800
+Uttar Pradesh,Fatehpur,Bindki APMC,Paddy,1,2341.1,2341.1,2341.1
+Andhra Pradesh,Krishna,Ghantsala (HQ-Kodali) APMC,null,1,2400,2400,2400
+Tamil Nadu,Pudukkottai,Viralimalai(Uzhavar Sandhai ),Onion,1,7500,7500,7500
+Tamil Nadu,Sivagangai,Sivagangai (Uzhavar Sandhai ),Onion,1,6250,6250,6250
+Keralam,Ernakulam,Thrippunithura Market,Onion,1,5800,5800,5800
+Odisha,Angul,Angul APMC,Onion,1,4500,4500,4500
+Maharashtra,Pune,APMC Pune,Onion,1,2850,2850,2850
+Tamil Nadu,Coimbatore,Singanallur(Uzhavar Sandhai ),Potato,1,6750,6750,6750
+Madhya Pradesh,Gwalior,Lashkar APMC,Wheat,3,2483.33,2450,2500
+Telangana,Peddapalli,Dharmaram APMC,Cotton,3,9000,9000,9000
+Tamil Nadu,Salem,Vazhapadi(Uzhavar Sandhai),Groundnut,1,9000,9000,9000
+Madhya Pradesh,Indore,Gautampura APMC,Soyabean,3,7226.67,7100,7480
+Tamil Nadu,Thanjavur,Kumbakonam (Uzhavar Sandhai ),Potato,1,3300,3300,3300
+Odisha,Cuttack,Banki APMC,Tomato,3,3000,3000,3000
+Uttar Pradesh,Varanasi,Varanasi APMC,Tomato,1,1500,1500,1500
+Maharashtra,Amarawati,APMC Amarawati,Bajra,2,2675,2675,2675
+Andhra Pradesh,Eluru,Kaikaluru APMC,Paddy,3,2440,2440,2440
+Telangana,Warangal,Cherial APMC,null,3,2700,2700,2700
+Madhya Pradesh,Badwani,Badwani APMC,Cotton,2,9000,9000,9000
+Rajasthan,Deeg,Sikri APMC,Mustard,2,8530,8530,8530
+Madhya Pradesh,Dhar,Gandhwani APMC,Soyabean,2,6900,6900,6900
+Gujarat,Dahod,Dahod APMC,Gram,2,7435,7435,7435
+Gujarat,Bhavnagar,Taleja APMC,Urad,2,8965,8965,8965
+Haryana,Faridabad,Ballabhgarh APMC,Tomato,2,1500,1500,1500
+Himachal Pradesh,Kangra,SMY Palampur,Tomato,3,2600,2600,2600
+Uttar Pradesh,Banda,Atarra APMC,Paddy,3,4336.17,4221.86,4393.32
+Uttar Pradesh,Maharajganj,Nautnava APMC,Paddy,3,2256.67,2250,2260
+Gujarat,Morbi,Vankaner APMC,Groundnut,2,7500,7500,7500
+Chandigarh,Chandigarh,Chandigarh (Grain/F&V) APMC,Potato,3,1200,1200,1200
+Assam,Darrang,Balugaon APMC,Tomato,2,1800,1800,1800
+Bihar,Kaimur/Bhabhua,Mohana APMC,Tomato,2,3000,3000,3000
+Haryana,Ambala,Shahzadpur APMC,Tomato,2,1400,1400,1400
+Keralam,Ernakulam,Angamaly Market,Tomato,2,4900,4900,4900
+Uttar Pradesh,Amroha,Amroha APMC,Tomato,3,803.45,800,810.36
+Tamil Nadu,Tirunelveli,Ambasamudram RM,Paddy,1,1925,1925,1925
+Madhya Pradesh,Gwalior,Lashkar APMC,Mustard,1,8900,8900,8900
+West Bengal,Paschim Bardhaman,Durgapur APMC,Mustard,1,6445,6445,6445
+Jammu and Kashmir,Jammu,MAC F&V Market Narwal Jammu,Onion,3,4400,4400,4400
+Haryana,Kaithal,Dhand APMC,Tomato,1,2900,2900,2900
+Tamil Nadu,Salem,Vazhapadi(Uzhavar Sandhai),Tomato,1,2200,2200,2200
+Maharashtra,Ahilyanagar,APMC Karjat,Maize,3,2983.33,2950,3000
+Madhya Pradesh,Khargone,Bhikangaon APMC,Wheat,2,3168,3168,3168
+Telangana,Jogulamba Gadwal,Alampur APMC,Soyabean,2,6652,6652,6652
+Madhya Pradesh,Morena,Morena APMC,Tur,2,6450,6450,6450
+Maharashtra,Pune,Pune(Moshi),Onion,3,3333.33,3000,3500
+Rajasthan,Jaipur,Bassi APMC,Potato,3,1400,1400,1400
+Andhra Pradesh,Annamayya,Valmikipuram APMC,Tomato,3,1400,1400,1400
+Andhra Pradesh,Palnadu,Durgi APMC,Maize,3,2200,2200,2200
+Andhra Pradesh,Kakinada,Sampara (Kakinada Rural) APMC,Paddy,3,2440,2440,2440
+Madhya Pradesh,Sheopur,Sheopurkalan APMC,Wheat,2,2651,2651,2651
+Andhra Pradesh,Srikakulam,Jalumuru APMC,null,3,2441,2441,2441
+Karnataka,Gadag,Laxmeshwar APMC,Gram,2,7322,7322,7322
+Madhya Pradesh,Chhatarpur,LavKush Nagar(Laundi) APMC,Gram,2,6800,6800,6800
+Madhya Pradesh,Shajapur,Shajapur APMC,Onion,3,3517.3,3212.32,3669.79
+Nagaland,Kohima,Kohima APMC,Potato,2,2250,2250,2250
+Punjab,Gurdaspur,Gurdaspur APMC,Tomato,2,1800,1800,1800
+Andhra Pradesh,Srikakulam,Ichapuram APMC,Paddy,3,2441,2441,2441
+Uttar Pradesh,Kaushambi,Bharwari APMC,Paddy,3,2000,2000,2000
+Telangana,Rajanna Siricilla,Ellanthakunta APMC,null,1,2500,2500,2500
+Andhra Pradesh,Markapuram,Markapur APMC,Cotton,3,8000,8000,8000
+Andhra Pradesh,Markapuram,Yerragondapalem APMC,Cotton,3,8200,8200,8200
+Madhya Pradesh,Khargone,Kasrawad APMC,Wheat,2,2810,2810,2810
+Haryana,Kurukshetra,Iamailabad APMC,null,2,2461,2461,2461
+Uttarakhand,Udhamsinghnagar,Rudrapur APMC,Potato,3,666.67,600,800
+Odisha,Kalahandi,Kesinga APMC,Tomato,2,3000,3000,3000
+Rajasthan,Jhunjhunu,Gudhagorji APMC,Bajra,2,2400,2400,2400
+Andhra Pradesh,SPSR Nellore,Rapur APMC,Maize,2,2490,2490,2490
+Madhya Pradesh,Datia,Datia APMC,Paddy,3,3969.09,3873.75,4016.76
+Telangana,Bhadradri Kothagudem,Yellandu APMC,Paddy,3,3066.67,2400,3400
+Uttar Pradesh,Gonda,Colonelganj APMC,Paddy,2,1950,1950,1950
+Uttar Pradesh,Barabanki,Safdarganj APMC,Wheat,3,2700,2700,2700
+Madhya Pradesh,Khargone,Sanawad APMC,Cotton,3,8811.67,8715,8860
+Andhra Pradesh,YSR Kadapa,Proddatur APMC,Paddy,3,3000,3000,3000
+Himachal Pradesh,Kangra,SMY Baijnath,Potato,1,1800,1800,1800
+Madhya Pradesh,Khandwa,Khandwa(F&V) APMC,Tomato,1,575,575,575
+Tamil Nadu,Nagapattinam,Vedaranyam(Uzhavar Sandhai),Tomato,1,3350,3350,3350
+Uttarakhand,Haridwar,Haridwar Union APMC,Tomato,3,1700,1500,1800
+Madhya Pradesh,Burhanpur,Burhanpur APMC,Maize,3,2533.33,2500,2600
+Uttar Pradesh,Farukhabad,Mohamadabad APMC,Maize,2,2229.26,2229.26,2229.26
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Cotton,2,9255,9255,9255
+Andhra Pradesh,Bapatla,Parchur APMC,Gram,2,7200,7200,7200
+Andaman and Nicobar,North and Middle Andaman,Diglipur Vegetable Market (Subhashgram),Urad,2,9500,9500,9500
+Madhya Pradesh,Niwadi,Niwadi APMC,Wheat,2,2650,2650,2650
+Karnataka,Gadag,Laxmeshwar APMC,Safflower,2,4076,4076,4076
+Telangana,Hyderabad,RYTHU BAZAR FALAKNUMA,Onion,2,4000,4000,4000
+Punjab,Ludhiana,Doraha APMC,Potato,3,683.33,650,700
+Andhra Pradesh,West Godavari,Achanta APMC,Paddy,3,2375,2375,2375
+Assam,Nagaon,Dhing APMC,Onion,1,5350,5350,5350
+Assam,Sonitpur,Dhekiajuli APMC,Tomato,3,2333.33,2200,2400
+Telangana,Hyderabad,Gudimalkapur APMC,Potato,2,1000,1000,1000
+Uttar Pradesh,Muzaffarnagar,Khatauli APMC,Potato,2,600,600,600
+Haryana,Hissar,Barwala(Hisar) APMC,Tomato,3,2600,2600,2600
+Punjab,Bhatinda,Bhagta Bhai Ka APMC,Tomato,2,2000,2000,2000
+Andhra Pradesh,YSR Kadapa,Jammalamadugu APMC,Jowar,3,2700,2700,2700
+Karnataka,Chamarajanagar,Chamarajanagar APMC,Paddy,1,2000,2000,2000
+Uttar Pradesh,Kannuj,Chhibramau APMC,Paddy,3,2673.89,2229.3,2896.18
+Haryana,Gurgaon,Farukh Nagar APMC,Onion,3,4233.33,4200,4250
+Punjab,Muktsar,Malout APMC,Potato,1,1000,1000,1000
+Punjab,Gurdaspur,Dera Baba Nanak APMC,Onion,2,3152,3152,3152
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi) APMC,Tomato,2,1500,1500,1500
+Madhya Pradesh,Mandsaur,Sitamau APMC,Maize,2,2490,2490,2490
+Uttarakhand,Udhamsinghnagar,Bazpur APMC,Paddy,3,2441,2441,2441
+Maharashtra,Amarawati,APMC Amarawati,Wheat,2,2825,2825,2825
+Andhra Pradesh,Srikakulam,Palasa APMC,null,3,2369,2369,2369
+Telangana,Nirmal,Kuber APMC,Cotton,2,9000,9000,9000
+Andhra Pradesh,Nandyal,Nandikotkur APMC,Gram,3,5666.67,5600,5700
+Jammu and Kashmir,Udhampur,Fruit and Vegetable Market Udhampur,Potato,2,1000,1000,1000
+Odisha,Angul,Angul(Atthamallick) APMC,Tomato,3,3500,3500,3500
+Karnataka,Raichur,Lingasugur APMC,Paddy,1,3950,3950,3950
+Keralam,Ernakulam,Thrippunithura Market,Potato,1,6400,6400,6400
+Tamil Nadu,Coimbatore,Mettupalayam(Uzhavar Sandhai ),Potato,1,6750,6750,6750
+Tamil Nadu,Mayiladuthurai,Mayiladuthurai(Uzhavar Sandhai ),Potato,1,3000,3000,3000
+Maharashtra,Pune,Pune(Pimpri),Tomato,1,1400,1400,1400
+Gujarat,Porbandar,Porbandar APMC,Groundnut,2,6875,6875,6875
+Madhya Pradesh,Shajapur,Shajapur(F&V) APMC,Onion,2,2600,2600,2600
+Madhya Pradesh,Morena,Ambaha APMC,Bajra,3,2586.59,2579.89,2600
+Uttar Pradesh,Lakhimpur,Lakhimpur APMC,Paddy,3,2083.33,2050,2150
+Odisha,Ganjam,Digapahandi APMC,Tomato,2,2100,2100,2100
+Madhya Pradesh,Satna,Nagod APMC,Paddy,1,1725,1725,1725
+Rajasthan,Jaipur,Bassi APMC,Mustard,3,8783.33,8725,8900
+Gujarat,Navsari,Navsari APMC,Onion,3,4483.33,4450,4500
+Tamil Nadu,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Tomato,1,2700,2700,2700
+Andhra Pradesh,Kurnool,Adoni APMC,Cotton,2,9159,9159,9159
+Madhya Pradesh,Dhar,Badnawar APMC,Onion,2,2351.33,2351.33,2351.33
+Gujarat,Dahod,Dahod APMC,Moong,2,8200,8200,8200
+Maharashtra,Mumbai,Mumbai-Onion & Potato Market,Onion,2,3800,3800,3800
+Gujarat,Dahod,Dahod(Veg. Market) APMC,Tomato,2,1500,1500,1500
+Tamil Nadu,Virudhunagar,Sathur(Uzhavar Sandhai ),Onion,1,5750,5750,5750
+Tamil Nadu,Chengalpet,Jameenrayapettai(Uzhavar Sandhai ),Tomato,1,3750,3750,3750
+Andhra Pradesh,Eluru,Kalidindi APMC,Paddy,3,2440,2440,2440
+West Bengal,Bankura,Bishnupur(Bankura) APMC,Wheat,2,2700,2700,2700
+Gujarat,Rajkot,JASDAN APMC,Cotton,2,9250,9250,9250
+Andhra Pradesh,YSR Kadapa,Yerraguntla APMC,Onion,3,3100,3100,3100
+Andhra Pradesh,Chittor,Rompicherla APMC,null,3,1950,1950,1950
+Gujarat,Rajkot,Dhoraji APMC,Groundnut,2,7505,7505,7505
+Andhra Pradesh,Vijayanagaram,Rajam APMC,Maize,3,4800,4800,4800
+Madhya Pradesh,Dewas,Dewas APMC,Wheat,1,2715,2715,2715
+Tamil Nadu,The Nilgiris,Gudalur(Uzhavar Sandhai ),Onion,1,6250,6250,6250
+Tamil Nadu,Ariyalur,Jeyankondam (Uzhavar Sandhai ),Tomato,1,3750,3750,3750
+Uttar Pradesh,Bahraich,Mihipurwa APMC,Paddy,2,1950,1950,1950
+Uttar Pradesh,Ghazipur,Jangipura APMC,Paddy,2,2500,2500,2500
+Bihar,Samastipur,Tajpur APMC,Tomato,2,2200,2200,2200
+Punjab,Fatehgarh,Sirhind APMC,Paddy,2,2461,2461,2461
+Punjab,Hoshiarpur,Garh Shankar APMC,Potato,1,900,900,900
+Tamil Nadu,Dharmapuri,Harur(Uzhavar Sandhai ),Potato,1,2750,2750,2750
+Tamil Nadu,Sivagangai,Devakottai (Uzhavar Sandhai ),Potato,1,5750,5750,5750
+Tamil Nadu,The Nilgiris,Coonoor(Uzhavar Sandhai ),Potato,1,5750,5750,5750
+Tamil Nadu,Virudhunagar,Kariyapatti(Uzhavar Sandhai ),Tomato,1,3250,3250,3250
+Haryana,Yamuna Nagar,Chhachrauli APMC,Onion,2,4100,4100,4100
+Uttar Pradesh,Agra,Khairagarh APMC,Wheat,1,2725,2725,2725
+Tamil Nadu,Erode,Thalavadi(Uzhavar Sandhai ),Onion,1,6250,6250,6250
+Maharashtra,Solapur,APMC Solapur,Wheat,2,3715,3715,3715
+Chattisgarh,Durg,Durg APMC,Potato,2,1900,1900,1900
+Maharashtra,Amarawati,APMC Amarawati,Soyabean,2,7100,7100,7100
+Tamil Nadu,Coimbatore,Sundarapuram(Uzhavar Sandhai ),Potato,1,7400,7400,7400
+West Bengal,Birbhum,Rampurhat APMC,Paddy,1,2600,2600,2600
+Tamil Nadu,Coimbatore,RSPuram(Uzhavar Sandhai ),Onion,1,5550,5550,5550
+Tamil Nadu,Thiruppur,Kangayam(Uzhavar Sandhai ),Onion,1,4850,4850,4850
+Tamil Nadu,Coimbatore,Vadavalli(Uzhavar Sandhai ),Tomato,1,2500,2500,2500
+Tamil Nadu,Kallakurichi,Sankarapuram(Uzhavar Sandhai ),Tomato,1,2500,2500,2500
+Tamil Nadu,Thanjavur,Tirukattupalli(Uzhavar Sandhai ),Tomato,1,3000,3000,3000
+Tamil Nadu,Thiruppur,Palladam(Uzhavar Sandhai ),Tomato,1,2750,2750,2750
+Himachal Pradesh,Kangra,SMY Nagrota Bagwan,Onion,1,5100,5100,5100
+Tamil Nadu,The Nilgiris,Udhagamandalam(Uzhavar Sandhai ),Potato,1,5750,5750,5750
+Uttar Pradesh,Badaun,Badayoun APMC,Potato,1,700,700,700
+Tamil Nadu,Theni,Kambam(Uzhavar Sandhai ),Tomato,1,2600,2600,2600
+Rajasthan,Tonk,Malpura APMC,Sesamum,2,14000,14000,14000
+Uttar Pradesh,Kanpur Dehat,Rura APMC,Mustard,1,8000,8000,8000
+Tamil Nadu,Karur,Karur(Uzhavar Sandhai ),Onion,1,6750,6750,6750
+Tamil Nadu,Sivagangai,Devakottai (Uzhavar Sandhai ),Onion,1,7000,7000,7000
+Tamil Nadu,Salem,Edapadi (Uzhavar Sandhai ),Potato,1,5750,5750,5750
+Uttar Pradesh,Bulandshahar,Buland Shahr APMC,Tomato,3,1100,1100,1100
+Gujarat,Surat,Nizar(Rumkitalav) APMC,Maize,2,2550,2550,2550
+Madhya Pradesh,Chhindwara,Chhindwara APMC,Maize,3,2649.99,2510,2719.98
+Madhya Pradesh,Rajgarh,Biaora APMC,Soyabean,2,7240.58,7240.58,7240.58
+Keralam,Ernakulam,Perumbavoor Market,Potato,3,4000,4000,4000
+Maharashtra,Solapur,APMC Akluj,Tomato,2,1300,1300,1300
+Gujarat,Dahod,Zalod(Sanjeli) APMC,Maize,3,2500,2500,2500
+Madhya Pradesh,Balaghat,Paraswada APMC,Maize,2,2600,2600,2600
+Madhya Pradesh,Umariya,Umariya APMC,Paddy,2,2000,2000,2000
+Madhya Pradesh,Dhar,Kukshi APMC,Cotton,3,8957.17,8900,8985.76
+Madhya Pradesh,Khargone,Badwaha APMC,Cotton,3,8978.33,8835,9050
+Madhya Pradesh,Ujjain,Tarana APMC,Soyabean,2,1763.81,1763.81,1763.81
+Maharashtra,Mumbai,APMC Mumbai,Gram,2,9300,9300,9300
+Gujarat,Jamnagar,Jamnagar APMC,Urad,2,8725,8725,8725
+Telangana,Nirmal,Bhainsa APMC,Urad,2,7629,7629,7629
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Tomato,2,1300,1300,1300
+Tamil Nadu,Cuddalore,Vadalur(Uzhavar Sandhai ),Potato,1,4500,4500,4500
+Tamil Nadu,Thanjavur,Peravurani(Uzhavar Sandhai),Potato,1,3200,3200,3200
+Tamil Nadu,Tirunelveli,Melapalayam(Uzhavar Sandhai ),Potato,1,2700,2700,2700
+Tamil Nadu,Cuddalore,Viruthachalam(Uzhavar Sandhai ),Tomato,1,3000,3000,3000
+Tamil Nadu,Thiruvallur,Perambakkam(Uzhavar Sandhai ),Tomato,1,3000,3000,3000
+Andhra Pradesh,Kakinada,Jaggampet APMC,Paddy,3,2420,2420,2420
+Uttar Pradesh,Lucknow,Lucknow APMC,Paddy,2,1990,1990,1990
+Rajasthan,Jaipur,Bassi APMC,Onion,3,4266.67,3800,5200
+Keralam,Alappuzha,Alappuzha Market,Potato,2,4100,4100,4100
+Punjab,Bhatinda,Bhagta Bhai Ka(Kotha Guru Ka) APMC,Paddy,2,2461,2461,2461
+Madhya Pradesh,Mandla,Mandla APMC,Wheat,2,2610.14,2610.14,2610.14
+Gujarat,Banaskanth,Lakhani APMC,Cotton,2,8677,8677,8677
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Gram,2,7755,7755,7755
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Onion,2,3250,3250,3250
+Telangana,Ranga Reddy,L B Nagar APMC,Onion,2,3500,3500,3500
+Odisha,Sundergarh,Sargipali APMC,Tomato,3,2666.67,2600,2800
+Madhya Pradesh,Raisen,Obedullaganj APMC,Paddy,3,4666.67,4600,4700
+Madhya Pradesh,Narmadapuram,Semriharchand APMC,Gram,1,8001,8001,8001
+Tamil Nadu,Thiruvannamalai,Tiruvannamalai(Uzhavar Sandhai ),Potato,1,5250,5250,5250
+Tamil Nadu,Thiruchirappalli,KKNagar(Uzhavar Sandhai ),Tomato,1,2400,2400,2400
+Telangana,Hyderabad,Mahboob Manison APMC,Tomato,3,1466.67,1200,1600
+Uttar Pradesh,Badaun,Badayoun APMC,Bajra,2,2350,2350,2350
+Madhya Pradesh,Mandsaur,Mandsaur APMC,Soyabean,2,6951,6951,6951
+Madhya Pradesh,Sagar,Sagar APMC,Gram,2,6800,6800,6800
+Maharashtra,Ahilyanagar,APMC Rahata,Tomato,3,1291.67,1250,1375
+Gujarat,Sabarkantha,APMCKHEDBRAHMA,Maize,2,2475,2475,2475
+Andhra Pradesh,Krishna,Pedana APMC,Paddy,3,2883.33,2850,2900
+Andhra Pradesh,Palnadu,Macharla APMC,Tur,3,8400,8400,8400
+Gujarat,Rajkot,Rajkot(Veg.Sub Yard) APMC,Onion,2,3300,3300,3300
+Karnataka,Bagalkot,Hungund APMC,Bajra,1,2650,2650,2650
+Andhra Pradesh,YSR Kadapa,Badvel APMC,Paddy,3,2453.33,2450,2460
+Madhya Pradesh,Ujjain,Badnagar APMC,Soyabean,1,7235,7235,7235
+Punjab,Mohali,Kharar APMC,Onion,1,4000,4000,4000
+Tamil Nadu,Mayiladuthurai,Sirkali(Uzhavar Sandhai ),Onion,1,5500,5500,5500
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Potato,3,1400,1400,1400
+Haryana,Karnal,Tarori APMC,Tomato,1,4000,4000,4000
+Madhya Pradesh,Indore,Indore APMC,Wheat,2,3292,3292,3292
+Uttar Pradesh,Hamirpur,Maudaha APMC,Sesamum,2,13352.94,13352.94,13352.94
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Tomato,2,2250,2250,2250
+Andhra Pradesh,SPSR Nellore,Kovur APMC,Paddy,3,2433.33,2400,2450
+Karnataka,Haveri,Ranebennur APMC,Soyabean,2,7000,7000,7000
+Madhya Pradesh,Raisen,Gairatganj APMC,Gram,2,6600,6600,6600
+Gujarat,Navsari,Navsari APMC,Potato,3,1400,1375,1450
+Telangana,Hyderabad,RYTHU BAZAR ERRAGADDA,Potato,2,1900,1900,1900
+Tamil Nadu,Pudukkottai,Pudukottai(Uzhavar Sandhai ),Groundnut,1,5500,5500,5500
+Tamil Nadu,Thiruvannamalai,Tamarainagar(Uzhavar Sandhai ),Groundnut,1,7500,7500,7500
+Bihar,Sitamarhi,Sitamarhi APMC,Onion,1,4500,4500,4500
+Himachal Pradesh,Kangra,SMY Dharamshala,Tomato,1,2350,2350,2350
+Tamil Nadu,Thoothukudi,Tuticorin(Uzhavar Sandhai ),Tomato,1,3500,3500,3500
+Madhya Pradesh,Rajgarh,Khilchipur APMC,Maize,3,2751.15,2743.13,2767.2
+Madhya Pradesh,Indore,Gautampura APMC,Wheat,2,2900,2900,2900
+Madhya Pradesh,Alirajpur,Jobat APMC,Cotton,2,8839.63,8839.63,8839.63
+Madhya Pradesh,Khargone,Kasrawad APMC,Cotton,2,8850,8850,8850
+Madhya Pradesh,Dindori,Gorakhpur APMC,Gram,2,5325,5325,5325
+Andhra Pradesh,Tirupathi,Venkatagiri APMC,Urad,3,7900,7700,8000
+Andhra Pradesh,Kakinada,Pithapuram APMC,Paddy,3,2450,2450,2450
+Gujarat,Bhavnagar,Taleja APMC,Gram,2,6325,6325,6325
+Andhra Pradesh,West Godavari,Narsapuram APMC,Paddy,3,2445,2445,2445
+Madhya Pradesh,Sehore,Ashta APMC,Wheat,1,4001,4001,4001
+Odisha,Dhenkanal,Kamakhyanagar APMC,Onion,1,5000,5000,5000
+Tamil Nadu,Cuddalore,Panruti(Uzhavar Sandhai ),Potato,1,5000,5000,5000
+Tamil Nadu,Villupuram,Gingee(Uzhavar Sandhai ),Potato,1,4000,4000,4000
+Tamil Nadu,Theni,Devaram(Uzhavar Sandhai ),Tomato,1,2600,2600,2600
+Madhya Pradesh,Satna,Satna APMC,Paddy,2,2002.5,2002.5,2002.5
+Andhra Pradesh,NTR,Mylavaram APMC,Maize,2,2450,2450,2450
+Uttar Pradesh,Hardoi,Hardoi APMC,Paddy,3,2351.77,2043.21,2506.05
+Tripura,North Tripura,Dasda APMC,Onion,2,5200,5200,5200
+Madhya Pradesh,Sagar,Khurai(F&V) APMC,Potato,1,500,500,500
+Tamil Nadu,Krishnagiri,Kaveripattinam(Uzhavar Sandhai ),Potato,1,4000,4000,4000
+Odisha,Dhenkanal,Kamakhyanagar APMC,Tomato,1,4000,4000,4000
+Tamil Nadu,Thiruppur,Udumalpettai RM,Tomato,1,3350,3350,3350
+Maharashtra,Amarawati,APMC Anajngaon,Maize,2,2300,2300,2300
+Uttar Pradesh,Farukhabad,Kayamganj APMC,Maize,2,2325,2325,2325
+Telangana,Nirmal,Bhainsa APMC,Gram,2,6611,6611,6611
+Telangana,Hyderabad,RYTHU BAZAR FALAKNUMA,Tomato,2,1700,1700,1700
+Uttar Pradesh,Hardoi,Hardoi APMC,Tomato,3,1500,1500,1500
+Punjab,Bhatinda,Bhagta Bhai Ka APMC,Potato,2,750,750,750
+Tamil Nadu,Thiruvannamalai,Tiruvannamalai(Uzhavar Sandhai ),Groundnut,1,7600,7600,7600
+Punjab,Sangrur,Sangrur APMC,Potato,1,500,500,500
+Maharashtra,Pune,Pune(Moshi),Tomato,3,1066.67,850,1500
+Uttar Pradesh,Prayagraj,Prayagraj APMC,Tomato,2,2000,2000,2000
+Maharashtra,Amarawati,APMC Anajngaon,Jowar,2,2400,2400,2400
+Maharashtra,Jalna,APMC Ambad (Vadigodri),Jowar,2,2296,2296,2296
+Madhya Pradesh,Narmadapuram,Babai (Makhan Nagar) APMC,Wheat,2,2600,2600,2600
+Tamil Nadu,Kallakurichi,Kallakurichi(Uzhavar Sandhai ),Groundnut,1,6000,6000,6000
+Tamil Nadu,Salem,Thathakapatti(Uzhavar Sandhai ),Groundnut,1,7500,7500,7500
+Tamil Nadu,Thiruppur,Tiruppur (South) (Uzhavar Sandhai ),Onion,1,4500,4500,4500
+Gujarat,Rajkot,Jetpur(Dist.Rajkot) APMC,Wheat,2,3120.59,3120.59,3120.59
+Maharashtra,Amarawati,APMC Amarawati,Cotton,2,8975,8975,8975
+Punjab,Ludhiana,Khanna APMC,Onion,3,4333.33,4000,5000
+Gujarat,Rajkot,Dhoraji APMC,Cotton,2,9230,9230,9230
+Punjab,Tarntaran,Tarantaran APMC,Onion,2,3600,3600,3600
+Madhya Pradesh,Raisen,Raisen APMC,Paddy,3,4790.06,4785.09,4800
+Tamil Nadu,Kallakurichi,Sankarapuram(Uzhavar Sandhai ),Onion,1,7000,7000,7000
+Tamil Nadu,Thiruchirappalli,KKNagar(Uzhavar Sandhai ),Onion,1,7000,7000,7000
+Jammu and Kashmir,Kathua,Kathua (F&V),Tomato,3,1783.33,1750,1800
+Telangana,Karimnagar,Husnabad APMC,Paddy,3,2733.33,2700,2800
+Uttar Pradesh,Mainpuri,Ghiraur APMC,Potato,2,301.02,301.02,301.02
+Gujarat,Mehsana,Unjha APMC,Sesamum,2,16250,16250,16250
+Chattisgarh,Koriya,Baikunthpur APMC,Paddy,3,2266.67,2200,2400
+Uttar Pradesh,Sant Kabir Nagar,Khalilabad APMC,Mustard,1,5800,5800,5800
+Tamil Nadu,Salem,Hasthampatti(Uzhavar Sandhai ),Onion,1,6250,6250,6250
+Maharashtra,Solapur,APMC Solapur,Jowar,2,7205,7205,7205
+Karnataka,Haveri,Ranebennur APMC,Maize,2,3085,3085,3085
+Madhya Pradesh,Indore,Indore APMC,Maize,2,2850,2850,2850
+Madhya Pradesh,Ratlam,Ratlam APMC,Wheat,2,3296,3296,3296
+Karnataka,Gadag,Laxmeshwar APMC,Moong,2,5859,5859,5859
+Manipur,Imphal West,Imphal APMC,Potato,1,2200,2200,2200
+Rajasthan,Jalore,Bhinmal APMC,Tomato,1,1325,1325,1325
+Maharashtra,Chattrapati Sambhajinagar,APMC Chattrapati Sambhajinagar,Onion,2,3200,3200,3200
+Keralam,Alappuzha,Chengannur Market,Tomato,2,4000,4000,4000
+Maharashtra,Satara,APMC Vaduj,Wheat,2,2950,2950,2950
+Rajasthan,Hanumangarh,Pilibanga APMC,Cotton,1,8898.71,8898.71,8898.71
+Tamil Nadu,Salem,Attayampatti(Uzhavar Sandhai ),Groundnut,1,7500,7500,7500
+Tamil Nadu,Dharmapuri,A.Jattihalli(Uzhavar Sandhai ),Onion,1,6200,6200,6200
+Tamil Nadu,Tiruvarur,Mannargudi I(Uzhavar Sandhai ),Onion,1,6200,6200,6200
+Tamil Nadu,Kancheepuram,Sunguvarchatram(Uzhavar Sandhai ),Potato,1,3000,3000,3000
+Tamil Nadu,Thiruppur,Tiruppur (South) (Uzhavar Sandhai ),Tomato,1,2250,2250,2250
+Tamil Nadu,Chengalpet,Pallavaram(Uzhavar Sandhai ),Groundnut,1,8500,8500,8500
+Tamil Nadu,Madurai,Chokkikulam(Uzhavar Sandhai ),Groundnut,1,7500,7500,7500
+Keralam,Palakad,Pattambi Market,Potato,1,2800,2800,2800
+Tamil Nadu,Pudukkottai,Alangudi(Uzhavar Sandhai ),Potato,1,6500,6500,6500
+Tamil Nadu,Kancheepuram,Kancheepuram(Uzhavar Sandhai ),Tomato,1,3100,3100,3100
+Punjab,Muktsar,Malout APMC,Cotton,1,8700,8700,8700
+Tamil Nadu,Krishnagiri,Hosur(Uzhavar Sandhai ),Groundnut,1,8500,8500,8500
+Karnataka,Raichur,Lingasugur APMC,Sunflower,1,8100,8100,8100
+West Bengal,Paschim Bardhaman,Durgapur APMC,Onion,1,4650,4650,4650
+Uttar Pradesh,Aligarh,Atrauli APMC,Mustard,2,7356.31,7356.31,7356.31
+Uttar Pradesh,Agra,Khairagarh APMC,Mustard,1,8900,8900,8900
+Tamil Nadu,Ramanathapuram,Ramanathapuram(Uzhavar Sandhai ),Onion,1,6250,6250,6250
+Andhra Pradesh,Srikakulam,Ponduru APMC,Maize,3,2400,2400,2400
+Tamil Nadu,Thirupathur,Thirupathur RM,Potato,1,3400,3400,3400
+Tamil Nadu,Ramanathapuram,Ramanathapuram(Uzhavar Sandhai ),Tomato,1,3900,3900,3900
+Maharashtra,Jalgaon,APMC Jalgaon,Jowar,2,7000,7000,7000
+Madhya Pradesh,Seoni,Lakhnadon APMC,Maize,2,2554.62,2554.62,2554.62
+Uttar Pradesh,Shahjahanpur,Meeranpur Katra APMC,Wheat,2,2525,2525,2525
+Maharashtra,Amarawati,APMC Amarawati,Moong,2,8100,8100,8100
+Uttarakhand,Udhamsinghnagar,Kicchha APMC,Onion,2,1200,1200,1200
+Andhra Pradesh,Nandyal,Banaganapalli APMC,Jowar,3,3766.67,3750,3800
+Madhya Pradesh,Khandwa,Pandhana APMC,Maize,3,2791.67,2775,2800
+Maharashtra,Nagpur,APMC Umared,Wheat,2,2850,2850,2850
+Rajasthan,Kota,Khatauli APMC,Sesamum,2,15000,15000,15000
+Keralam,Kottayam,Athirampuzha Market,Tomato,2,3700,3700,3700
+Andhra Pradesh,Nandyal,Banaganapalli APMC,Paddy,3,2383.33,2350,2400
+Gujarat,Navsari,Bilimora APMC,Onion,3,4500,4500,4500
+Odisha,Jharsuguda,Jharsuguda APMC,Onion,1,5500,5500,5500
+Tamil Nadu,Vellore,Gudiyatham(Uzhavar Sandhai ),Onion,1,5600,5600,5600
+Gujarat,Navsari,Bilimora APMC,Potato,3,1900,1900,1900
+Tamil Nadu,Chengalpet,Nanganallur(Uzhavar Sandhai ),Tomato,1,3250,3250,3250
+Telangana,Khammam,"Sattupalli (Ramalayam),RBZ",Tomato,1,3800,3800,3800
+Andhra Pradesh,Prakasam,Santhamaguluru APMC,null,3,2850,2850,2850
+Maharashtra,Satara,APMC Vaduj,Soyabean,2,6950,6950,6950
+Punjab,Moga,Nihal Singh Wala APMC,Onion,2,4500,4500,4500
+Telangana,Hanumakonda,"Excise Colony,RBZ",Onion,2,6400,6400,6400
+Andhra Pradesh,East Godavari,Nidadavolu APMC,Maize,3,2410,2410,2410
+Gujarat,Rajkot,JASDAN APMC,Sesamum,2,15083.33,15083.33,15083.33
+Gujarat,Dahod,Dahod APMC,Urad,2,8300,8300,8300
+Punjab,Jalandhar,Goraya APMC,Onion,2,4000,4000,4000
+Haryana,Rewari,Kosli APMC,Potato,3,1000,1000,1000
+Andhra Pradesh,East Godavari,Rajahmundry APMC,Paddy,3,2441,2441,2441
+Andhra Pradesh,Chittor,Palamaner APMC,Potato,3,1600,1600,1600
+Tamil Nadu,Thiruppur,Palladam(Uzhavar Sandhai ),Potato,1,3250,3250,3250
+Haryana,Hissar,Hansi APMC,Tomato,3,2500,2500,2500
+Himachal Pradesh,Kangra,SMY Jaisinghpur,Tomato,3,2700,2700,2700
+Tamil Nadu,Thirupathur,Vaniyampadi(Uzhavar Sandhai ),Tomato,1,2500,2500,2500
+Telangana,Karimnagar,Gangadhara APMC,null,3,2461,2461,2461
+Maharashtra,Nashik,Lasalgaon(Vinchur),Soyabean,2,7400,7400,7400
+Maharashtra,Jalgaon,APMC Jalgaon,Potato,2,1050,1050,1050
+Maharashtra,Nagpur,APMC Kalmeshwar,Tomato,2,1305,1305,1305
+Madhya Pradesh,Shivpuri,Pichhour APMC,Wheat,2,2516,2516,2516
+Uttar Pradesh,Gorakhpur,Sehjanwa APMC,Wheat,2,2770,2770,2770
+Gujarat,Chhota Udaipur,Hadad     APMC,Cotton,3,8600,8550,8625
+Madhya Pradesh,Ujjain,Tarana APMC,Gram,2,7473,7473,7473
+Tamil Nadu,Dindigul,Vedasandur(Uzhavar Sandhai ),Onion,1,6500,6500,6500
+Tamil Nadu,Nagapattinam,Vedaranyam(Uzhavar Sandhai),Onion,1,4900,4900,4900
+Andhra Pradesh,West Godavari,Tanuku APMC,Paddy,3,2445,2445,2445
+Bihar,Jamui,Sikandara APMC,Mustard,3,6000,6000,6000
+Gujarat,Rajkot,Rajkot APMC,Sesamum,2,17500,17500,17500
+Punjab,Tarntaran,Tarantaran APMC,Potato,2,900,900,900
+Haryana,Yamuna Nagar,Jagadhri APMC,Tomato,2,2000,2000,2000
+Tamil Nadu,Krishnagiri,Krishnagiri(Uzhavar Sandhai ),Groundnut,1,6750,6750,6750
+Tamil Nadu,Thiruvannamalai,Cheyyar(Uzhavar Sandhai ),Onion,1,5400,5400,5400
+Tamil Nadu,Krishnagiri,Hosur(Uzhavar Sandhai ),Tomato,1,1750,1750,1750
+Tamil Nadu,Krishnagiri,Krishnagiri(Uzhavar Sandhai ),Tomato,1,1700,1700,1700
+Gujarat,Ahmedabad,Dhandhuka APMC,Cotton,2,9150,9150,9150
+Andhra Pradesh,Palnadu,Krosuru APMC,Cotton,3,8000,8000,8000
+Madhya Pradesh,Dhar,Gandhwani APMC,Cotton,3,8966.67,8900,9000
+Andhra Pradesh,Palnadu,Sattenapalli APMC,Paddy,1,2400,2400,2400
+Uttar Pradesh,Ballia,Rasda APMC,Paddy,1,2441,2441,2441
+Uttar Pradesh,Pratapgarh,Pratapgarh APMC,Paddy,3,1943.57,1919.6,1955.55
+Madhya Pradesh,Rewa,Baikunthpur APMC,Wheat,3,2580,2540,2600
+Uttar Pradesh,Azamgarh,Azamgarh APMC,Wheat,3,2592.11,2588.16,2600
+Andhra Pradesh,Ananthapuramu,Urvakonda APMC,Groundnut,1,7400,7400,7400
+Tamil Nadu,Coimbatore,Vadavalli(Uzhavar Sandhai ),Potato,1,7200,7200,7200
+Tamil Nadu,Namakkal,Rasipuram(Uzhavar Sandhai ),Potato,1,3500,3500,3500
+Tamil Nadu,Thiruppur,Dharapuram(Uzhavar Sandhai ),Tomato,1,2400,2400,2400
+Maharashtra,Amarawati,APMC Achalpur,Maize,2,2800,2800,2800
+Uttar Pradesh,Lalitpur,Lalitpur APMC,Wheat,2,2509.28,2509.28,2509.28
+Telangana,Nirmal,Bhainsa APMC,Soyabean,2,7399,7399,7399
+West Bengal,Uttar Dinajpur,Raiganj APMC,Onion,2,4200,4200,4200
+Madhya Pradesh,Khandwa,Mundi APMC,Cotton,3,8830,8790,8850
+Telangana,Bhadradri Kothagudem,Nuguru Charla APMC,Cotton,3,8700,8700,8700
+Madhya Pradesh,Sidhi,Sidhi APMC,Mustard,2,6200,6200,6200
+Andhra Pradesh,Dr.B.R.A.Konaseema,Alamuru APMC,Paddy,3,2441,2441,2441
+Tamil Nadu,Ranipet,Ammoor RM,Paddy,1,3192,3192,3192
+Uttar Pradesh,Barabanki,Barabanki APMC,Wheat,1,2700,2700,2700
+Punjab,Hoshiarpur,Mukerian(Talwara) APMC,Onion,1,4300,4300,4300
+Punjab,Muktsar,Malout APMC,Onion,1,4000,4000,4000
+Telangana,Ranga Reddy,L B Nagar APMC,Potato,3,1500,1500,1500
+Tripura,South Tripura,Barpathari APMC,Tomato,1,3500,3500,3500
+Maharashtra,Amarawati,APMC Dharni,Wheat,2,2550,2550,2550
+Gujarat,Rajkot,Rajkot APMC,Mustard,2,8250,8250,8250
+Uttar Pradesh,Jalaun (Orai),Jalaun APMC,Onion,2,2500,2500,2500
+Andhra Pradesh,Nandyal,Nandyal APMC,Paddy,3,2450,2450,2450
+Tamil Nadu,The Nilgiris,Gudalur(Uzhavar Sandhai ),Potato,1,5500,5500,5500
+Tamil Nadu,Thiruvallur,Tiruvallur(Uzhavar Sandhai ),Tomato,1,3000,3000,3000
+Madhya Pradesh,Khandwa,Khandwa APMC,Cotton,2,8971,8971,8971
+West Bengal,Sounth 24 Parganas,Baruipur(Canning) APMC,Onion,2,5100,5100,5100
+Andhra Pradesh,Kurnool,Mantralayam APMC,Cotton,2,9129,9129,9129
+Madhya Pradesh,Ujjain,Ujjain APMC,Soyabean,3,6866.67,6800,7000
+Haryana,Sonipat,Gohana APMC,Onion,2,4200,4200,4200
+Odisha,Sonepur,Dungurapalli APMC,Tomato,2,2450,2450,2450
+Andhra Pradesh,Prakasam,Ongole APMC,Paddy,3,2600,2600,2600
+Uttar Pradesh,Ayodhya,Ayodhya APMC,Paddy,1,2000,2000,2000
+Tamil Nadu,Dharmapuri,Palacode(Uzhavar Sandhai ),Groundnut,1,6400,6400,6400
+Tamil Nadu,Kannyiakumari,Myladi(Uzhavar Sandhai ),Tomato,1,3750,3750,3750
+Gujarat,Morbi,Vankaner APMC,Wheat,2,3000,3000,3000
+Maharashtra,Pune,Khed(Chakan),Potato,2,1200,1200,1200
+Madhya Pradesh,Indore,Indore APMC,Onion,2,3762.07,3762.07,3762.07
+Punjab,Patiala,Rajpura APMC,Potato,2,740,740,740
+Telangana,Ranga Reddy,"Saroornagar,RBZ",Potato,2,1900,1900,1900
+Madhya Pradesh,Shivpuri,Shivpuri(F&V) APMC,Potato,1,700,700,700
+Tamil Nadu,Karur,Kulithalai(Uzhavar Sandhai ),Potato,1,4750,4750,4750
+Madhya Pradesh,Sagar,Malthone(F&V) APMC,Onion,2,3500,3500,3500
+Maharashtra,Parbhani,APMC Pathari,Jowar,2,4200,4200,4200
+Odisha,Sonepur,Pandkital APMC,Potato,2,2000,2000,2000
+Karnataka,Raichur,Manvi APMC,Paddy,1,4395,4395,4395
+Tamil Nadu,Chengalpet,Medavakkam(Uzhavar Sandhai ),Onion,1,5500,5500,5500
+Tamil Nadu,Coimbatore,Mettupalayam(Uzhavar Sandhai ),Onion,1,5750,5750,5750
+Uttar Pradesh,Amethi,Sultanpur APMC,Paddy,3,2443.75,2050,2640.62
+Uttar Pradesh,Gautam Budh Nagar,Dankaur APMC,Paddy,3,4617.08,4601,4649.24
+Andhra Pradesh,East Godavari,Nidadavolu APMC,null,3,2441,2441,2441
+Maharashtra,Nashik,APMC Manmad,Onion,2,3596,3596,3596
+Telangana,Medchal Malkajgiri,"Kukatpally,RBZ",Potato,2,1900,1900,1900
+Madhya Pradesh,Dewas,Dewas APMC,Soyabean,2,7000,7000,7000
+Madhya Pradesh,Damoh,Javera APMC,Wheat,1,2500,2500,2500
+Uttar Pradesh,Sitapur,Sidhauli APMC,Wheat,1,2400,2400,2400
+Rajasthan,Jodhpur,Osiyan Mathania APMC,Mustard,1,8000,8000,8000
+Madhya Pradesh,Sehore,Ashta APMC,Soyabean,1,8011,8011,8011
+Tamil Nadu,Tiruvarur,Mannargudi II(Uzhavar Sandhai ),Onion,1,6000,6000,6000
+Tamil Nadu,Theni,Kambam(Uzhavar Sandhai ),Potato,1,3000,3000,3000
+Gujarat,Banaskanth,Lakhani APMC,Bajra,2,2780,2780,2780
+Maharashtra,Amarawati,APMC Amarawati,Sesamum,2,13100,13100,13100
+Keralam,Kozhikode(Calicut),Mukkom Market,Onion,2,5200,5200,5200
+Punjab,Patiala,Rajpura APMC,Tomato,2,2100,2100,2100
+Himachal Pradesh,Mandi,SMY Jogindernagar,Onion,2,4650,4650,4650
+Keralam,Ernakulam,North Paravur Market,Onion,1,9900,9900,9900
+Tamil Nadu,Cuddalore,Chidambaram(Uzhavar Sandhai ),Onion,1,5000,5000,5000
+Tamil Nadu,Kallakurichi,Kallakurichi(Uzhavar Sandhai ),Onion,1,7000,7000,7000
+Tamil Nadu,Madurai,Anaiyur(Uzhavar Sandhai ),Onion,1,6250,6250,6250
+Tamil Nadu,Coimbatore,RSPuram(Uzhavar Sandhai ),Potato,1,7300,7300,7300
+Tamil Nadu,Pudukkottai,Aranthangi(Uzhavar Sandhai ),Tomato,1,3250,3250,3250
+Tamil Nadu,Salem,Edapadi (Uzhavar Sandhai ),Tomato,1,2600,2600,2600
+Maharashtra,Akola,APMC Akola,Soyabean,2,7200,7200,7200
+Uttar Pradesh,Badaun,Bilsi APMC,Potato,2,700,700,700
+Uttar Pradesh,Badaun,Bilsi APMC,Paddy,2,3374,3374,3374
+Tamil Nadu,Thiruvallur,Tiruthani(Uzhavar Sandhai ),Onion,1,6000,6000,6000
+Madhya Pradesh,Ratlam,Ratlam APMC,Soyabean,2,7291,7291,7291
+Madhya Pradesh,Harda,Harda APMC,Gram,2,6500,6500,6500
+Gujarat,Banaskanth,Deesa APMC,Mustard,2,8455,8455,8455
+Keralam,Kottayam,Athirampuzha Market,Onion,2,8071.43,8071.43,8071.43
+Tamil Nadu,Thiruppur,Thiruppur RM,Jowar,1,3500,3500,3500
+Tamil Nadu,Villupuram,Villupuram(Uzhavar Sandhai ),Onion,1,6000,6000,6000
+Tamil Nadu,Thoothukudi,Kovilpatti(Uzhavar Sandhai ),Potato,1,3750,3750,3750
+Andhra Pradesh,Annamayya,Mulakalacheruvu APMC,Tomato,1,1600,1600,1600
+Odisha,Sundergarh,Panposh APMC,Tomato,1,3500,3500,3500
+Tamil Nadu,Dharmapuri,A.Jattihalli(Uzhavar Sandhai ),Tomato,1,3700,3700,3700
+Tamil Nadu,Vellore,Pallikonda(Uzhavar Sandhai),Tomato,1,2100,2100,2100
+Gujarat,Sabarkantha,Modasa(Tintoi) APMC,Wheat,2,3000,3000,3000
+Tamil Nadu,Ranipet,Ranipettai(Uzhavar Sandhai ),Onion,1,6150,6150,6150
+Tamil Nadu,Virudhunagar,Thalavaipuram(Uzhavar Sandhai ),Onion,1,6250,6250,6250
+Keralam,Ernakulam,North Paravur Market,Potato,1,4800,4800,4800
+Uttarakhand,Nanital,Ramnagar APMC,Potato,1,900,900,900
+Tamil Nadu,Thanjavur,Kumbakonam (Uzhavar Sandhai ),Tomato,1,3500,3500,3500

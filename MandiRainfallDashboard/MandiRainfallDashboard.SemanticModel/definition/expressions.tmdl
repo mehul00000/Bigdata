@@ -1,0 +1,5 @@
+expression SourceFolder = "C:/Users/sharm/Downloads/powerbi" meta [IsParameterQuery = true, Type = "Text", IsParameterQueryRequired = true]
+	lineageTag: cda82eef-9313-4129-9ea6-b0ffe0daf763
+
+	annotation PBI_ResultType = Text
+

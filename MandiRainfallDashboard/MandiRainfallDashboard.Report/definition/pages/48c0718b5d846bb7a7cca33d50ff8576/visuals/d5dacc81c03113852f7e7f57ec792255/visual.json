@@ -1,0 +1,144 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.9.0/schema.json",
+  "name": "d5dacc81c03113852f7e7f57ec792255",
+  "position": {
+    "x": 664,
+    "y": 498,
+    "z": 0,
+    "width": 592,
+    "height": 198,
+    "tabOrder": 0
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Dim Commodity"
+                    }
+                  },
+                  "Property": "Commodity Group"
+                }
+              },
+              "queryRef": "Dim Commodity.Commodity Group",
+              "nativeQueryRef": "Commodity Group"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "MSP Analysis"
+                    }
+                  },
+                  "Property": "Commodity"
+                }
+              },
+              "queryRef": "MSP Analysis.Commodity",
+              "nativeQueryRef": "Commodity"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "MSP Analysis"
+                    }
+                  },
+                  "Property": "Avg Market Price"
+                }
+              },
+              "queryRef": "MSP Analysis.Avg Market Price",
+              "nativeQueryRef": "Avg Market Price"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "MSP Analysis"
+                    }
+                  },
+                  "Property": "Average MSP"
+                }
+              },
+              "queryRef": "MSP Analysis.Average MSP",
+              "nativeQueryRef": "Average MSP"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "MSP Analysis"
+                    }
+                  },
+                  "Property": "Price Difference"
+                }
+              },
+              "queryRef": "MSP Analysis.Price Difference",
+              "nativeQueryRef": "Price Difference"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "MSP Analysis"
+                    }
+                  },
+                  "Property": "Records"
+                }
+              },
+              "queryRef": "MSP Analysis.Records",
+              "nativeQueryRef": "Records"
+            }
+          ]
+        }
+      }
+    },
+    "objects": {
+      "columnHeaders": [
+        {
+          "properties": {
+            "columnAdjustment": {
+              "expr": {
+                "Literal": {
+                  "Value": "'growToFit'"
+                }
+              }
+            },
+            "autoSizeColumnWidth": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

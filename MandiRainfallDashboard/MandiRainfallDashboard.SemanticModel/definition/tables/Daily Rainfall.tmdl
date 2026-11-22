@@ -1,0 +1,139 @@
+table 'Daily Rainfall'
+	lineageTag: 58b04f04-7cda-4399-a972-d9f5e75cb81e
+
+	/// Number of district-day rainfall observations
+	measure 'Days Count' = COUNTROWS('Daily Rainfall')
+		formatString: #,0
+		lineageTag: 5a4f4a37-08bc-4855-bb40-798501a1b2aa
+
+	/// Sum of actual daily rainfall (mm)
+	measure 'Total Actual Rainfall' = SUM('Daily Rainfall'[Actual Rainfall])
+		formatString: #,0.0
+		lineageTag: 69630909-eabb-460f-a598-d73c14b0f4b7
+
+	/// Sum of normal daily rainfall (mm)
+	measure 'Total Normal Rainfall' = SUM('Daily Rainfall'[Normal Rainfall])
+		formatString: #,0.0
+		lineageTag: ffc06b57-9b08-4819-8d99-d39508331088
+
+	/// Overall rainfall departure from normal
+	measure 'Rainfall Departure %' = DIVIDE([Total Actual Rainfall] - [Total Normal Rainfall], [Total Normal Rainfall])
+		formatString: +0.0%;-0.0%;0.0%
+		lineageTag: 6f55f9a9-fb07-4d1b-a414-72992203f941
+
+	/// District-days in deficit or large deficit
+	measure 'Deficit Days' = CALCULATE(COUNTROWS('Daily Rainfall'), 'Daily Rainfall'[Category] IN { "LD", "D" })
+		formatString: #,0
+		lineageTag: 12c15157-607d-4ba3-acf0-0ada7cff052b
+
+	/// District-days in excess or large excess
+	measure 'Excess Days' = CALCULATE(COUNTROWS('Daily Rainfall'), 'Daily Rainfall'[Category] IN { "LE", "E" })
+		formatString: #,0
+		lineageTag: 58c60611-f94d-4600-b954-8f90190f9ca8
+
+	column State
+		dataType: string
+		isHidden
+		lineageTag: 9997d059-7330-441a-8b01-adf25c91823c
+		summarizeBy: none
+		sourceColumn: State
+
+	column District
+		dataType: string
+		isHidden
+		lineageTag: 6e0195a5-5e63-4c53-ab25-4983271fad24
+		summarizeBy: none
+		sourceColumn: District
+
+	column Date
+		dataType: dateTime
+		formatString: dd MMM yyyy
+		lineageTag: a8e29e47-4418-4caf-8b0b-60c8d0fe3a11
+		summarizeBy: none
+		sourceColumn: Date
+
+		variation Variation
+			isDefault
+			relationship: feb1d970-eeb3-45e7-8fd8-76396212bf55
+			defaultHierarchy: LocalDateTable_5af8bdc4-e1c6-4071-bb94-e794d4e9c637.'Date Hierarchy'
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column Category
+		dataType: string
+		isHidden
+		lineageTag: 21ddb15d-59a8-41d4-9307-9e81c4998b25
+		summarizeBy: none
+		sourceColumn: Category
+
+	column 'Actual Rainfall'
+		dataType: double
+		lineageTag: cb761bad-4a6e-432b-97ae-d9e66e5014df
+		summarizeBy: sum
+		sourceColumn: Actual Rainfall
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Normal Rainfall'
+		dataType: double
+		lineageTag: 6b7ded15-c2bd-4333-a62a-c9ac70a20f83
+		summarizeBy: sum
+		sourceColumn: Normal Rainfall
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Departure %'
+		dataType: double
+		lineageTag: c04f6c74-819b-48cf-b6eb-eb0435d74196
+		summarizeBy: sum
+		sourceColumn: Departure %
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Category Name'
+		dataType: string
+		lineageTag: ef8897b3-dceb-44a8-9913-18e5080b62a2
+		summarizeBy: none
+		sourceColumn: Category Name
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Category Order'
+		dataType: int64
+		formatString: 0
+		lineageTag: 6697c8e6-023c-43e1-8847-f56d49f50ee0
+		summarizeBy: sum
+		sourceColumn: Category Order
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'District Key'
+		dataType: string
+		lineageTag: 8849135c-39f7-41c8-ac26-c988a30db4c6
+		summarizeBy: none
+		sourceColumn: District Key
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'Daily Rainfall' = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("C:\Users\mehul sharma\Downloads\big data\BIG_DATA_PROJECT-master\Daily Rainfall Trend.csv"),[Delimiter=",", Columns=7, Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    PromotedHeaders = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    RemovedBlank = Table.SelectRows(PromotedHeaders, each [state] <> null and [state] <> ""),
+				    ReplacedNulls = Table.ReplaceValue(RemovedBlank, "null", null, Replacer.ReplaceValue, {"daily_departure_per"}),
+				    ChangedType = Table.TransformColumnTypes(ReplacedNulls, {{"state", type text}, {"district", type text}, {"date", type date}, {"daily_actual", type number}, {"daily_normal", type number}, {"daily_departure_per", type number}, {"daily_category", type text}}),
+				    AddedCategoryName = Table.AddColumn(ChangedType, "Category Name", each if [daily_category] = "LD" then "Large Deficit" else if [daily_category] = "D" then "Deficit" else if [daily_category] = "N" then "Normal" else if [daily_category] = "E" then "Excess" else if [daily_category] = "LE" then "Large Excess" else if [daily_category] = "NR" then "No Rain" else "Not Defined", type text),
+				    AddedCategoryOrder = Table.AddColumn(AddedCategoryName, "Category Order", each if [daily_category] = "LD" then 1 else if [daily_category] = "D" then 2 else if [daily_category] = "N" then 3 else if [daily_category] = "E" then 4 else if [daily_category] = "LE" then 5 else 6, Int64.Type),
+				    AddedKey = Table.AddColumn(AddedCategoryOrder, "District Key", each Text.Combine({Text.Lower([state]), "|", Text.Lower([district])}), type text),
+				    RenamedColumns = Table.RenameColumns(AddedKey, {{"state", "State"}, {"district", "District"}, {"date", "Date"}, {"daily_actual", "Actual Rainfall"}, {"daily_normal", "Normal Rainfall"}, {"daily_departure_per", "Departure %"}, {"daily_category", "Category"}})
+				in
+				    RenamedColumns
+
